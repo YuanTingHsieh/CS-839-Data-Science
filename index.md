@@ -1,13 +1,24 @@
 ## Project Stage 1
 
-1. provide [link](https://github.com/WenFuLee/CS-839-Data-Science) to a directory that stores the 300+ documents. Do not zip all the documents into a single file. Instead, we should be able to browse the documents in that directory, i.e., each document must be in a file, and that file should be browsable. 
- - Within the above directory, provide a README file that tells us the entity type that you have marked up in the documents, and give us information on where to find these markups. For example, if you have marked up person names, you can say something like: person names are marked up in the documents using <person>...</> tags. 
-2. provide [link](https://github.com/WenFuLee/CS-839-Data-Science) to a browsable directory that stores all documents in set I.
-3. provide [link](https://github.com/WenFuLee/CS-839-Data-Science) to a browsable directory that stores all documents in set J.
-4. provide [link](https://github.com/WenFuLee/CS-839-Data-Science) to a directory that stores all of your code (this directory must also be browsable).
-5. provide [link](https://github.com/WenFuLee/CS-839-Data-Science) to a compressed file that stores all of the above directories. 
-6. provide [link](https://github.com/WenFuLee/CS-839-Data-Science) to a pdf document that contains at least the following: 
-
+1.　[Original documents](https://github.com/WenFuLee/CS-839-Data-Science) 
+2.　[Documents with markup](https://github.com/WenFuLee/CS-839-Data-Science) 
+- provide a 'README' file that tells us the entity type that you have marked up, ex. <>person's name<\>. 
+3. [Documents in set I](https://github.com/WenFuLee/CS-839-Data-Science)
+4. [Documents in set J](https://github.com/WenFuLee/CS-839-Data-Science)
+5. [Code](https://github.com/WenFuLee/CS-839-Data-Science)
+6. [Compressed file, including all the files above](https://github.com/WenFuLee/CS-839-Data-Science)
+7. [PDF Report](https://github.com/WenFuLee/CS-839-Data-Science) 
+- the names of all team members.
+- the entity type that you have decided to extract, give a few examples of mentions of this entity type. 
+- the total number of mentions that you have marked up.
+- the number of documents in set I, the number of mentions in set I.
+- the number of documents in set J, the number of mentions in set J. 
+- the type of the classifier that you selected after performing cross validation on set I *the first time*, and the precision, recall, F1 of this classifier (on set I). This classifier is referred to as classifier M in the description above. 
+- the type of the classifier that you have finally settled on *before* the rule-based postprocessing step, and the precision, recall, F1 of this classifier (on set J). This classifier is referred to as classifier X in the description above. 
+- if you have done any rule-based post-processing, then give examples of rules that you have used, and describe where can we find all the rules (e.g., is it in the code directory somewhere?). 
+- Report the precision, recall, F1 of classifier Y (see description above) on set J. This is the final classifier (plus rule-based post-processing if you have done any). 
+- If you have not reached precision of at least 90% and recall of at least 60%, provide a discussion on why, and what else can you possibly do to improve the accuracy. 
+- Provide any other information that you would like. 
   
 
 ## Reference
