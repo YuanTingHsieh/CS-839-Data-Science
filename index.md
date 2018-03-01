@@ -1,7 +1,7 @@
 ## Project Stage 1
 
 1. [Original documents](https://github.com/WenFuLee/CS-839-Data-Science)
-- provide a `README` file that tells us the entity type that you have marked up, ex. <>person's name<\>.
+- provide a `README` file that tells us the entity type that you have marked up, ex. <>person's name<\\>.
 2. [Documents with markup](https://github.com/WenFuLee/CS-839-Data-Science) 
 3. [Documents in set I](https://github.com/WenFuLee/CS-839-Data-Science)
 4. [Documents in set J](https://github.com/WenFuLee/CS-839-Data-Science)
