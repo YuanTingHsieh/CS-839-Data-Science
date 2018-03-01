@@ -1,5 +1,16 @@
-## Welcome to GitHub Pages
+## Project Stage 1
 
+1. provide [link](https://github.com/WenFuLee/CS-839-Data-Science) to a directory that stores the 300+ documents. Do not zip all the documents into a single file. Instead, we should be able to browse the documents in that directory, i.e., each document must be in a file, and that file should be browsable. 
+ - Within the above directory, provide a README file that tells us the entity type that you have marked up in the documents, and give us information on where to find these markups. For example, if you have marked up person names, you can say something like: person names are marked up in the documents using <person>...</> tags. 
+2. provide [link](https://github.com/WenFuLee/CS-839-Data-Science) to a browsable directory that stores all documents in set I.
+3. provide [link](https://github.com/WenFuLee/CS-839-Data-Science) to a browsable directory that stores all documents in set J.
+4. provide [link](https://github.com/WenFuLee/CS-839-Data-Science) to a directory that stores all of your code (this directory must also be browsable).
+5. provide [link](https://github.com/WenFuLee/CS-839-Data-Science) to a compressed file that stores all of the above directories. 
+6. provide [link](https://github.com/WenFuLee/CS-839-Data-Science) to a pdf document that contains at least the following: 
+
+  
+
+## Reference
 You can use the [editor on GitHub](https://github.com/WenFuLee/CS-839_Data_Science/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
