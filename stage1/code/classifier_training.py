@@ -213,14 +213,14 @@ def post_processing(y_test_pred, train_type):
                     y_test_pred_new[i] = 0
                     break
 
-    # remove words that contains country names
-    country_name = pd.read_csv(folder_path + 'country_name.csv')
-    all_names = country_name.Name.values
+    # remove pred-positive examples that contains stop words
+    stop_words = pd.read_csv('stop_words.csv')
+    all_stops = stop_words.Word.values
     for i in range(len(y_test_pred)):
         if y_test_pred_new[i] == 1:
-            for cname in all_names:
-                cname = cname.replace('"', '')
-                if cname.lower() in all_strings[i].lower().split():
+            for sname in all_stops:
+                sname = sname.replace('"', '')
+                if sname.lower() in all_strings[i].lower().split():
                     y_test_pred_new[i] = 0
                     break
 
