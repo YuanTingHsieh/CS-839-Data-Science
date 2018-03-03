@@ -1,13 +1,13 @@
 ## Project Stage 1
 
-1. [Original documents](https://github.com/WenFuLee/CS-839-Data-Science)
+1. [Original documents](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage1/documents/original)
 - provide a `README` file that tells us the entity type that you have marked up, ex. <>person's name<\\>.
-2. [Documents with markup](https://github.com/WenFuLee/CS-839-Data-Science) 
-3. [Documents in set I](https://github.com/WenFuLee/CS-839-Data-Science)
-4. [Documents in set J](https://github.com/WenFuLee/CS-839-Data-Science)
-5. [Code](https://github.com/WenFuLee/CS-839-Data-Science)
-6. [Compressed file, including all the files above](https://github.com/WenFuLee/CS-839-Data-Science)
-7. [PDF Report](https://github.com/WenFuLee/CS-839-Data-Science) 
+2. [Documents with markup](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage1/documents/marked) 
+3. [Documents in set I](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage1/documents/set_I)
+4. [Documents in set J](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage1/documents/set_J)
+5. [Code](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage1/code)
+6. [Compressed file, including all the files above](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage1)
+7. [PDF Report](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage1) 
 - the names of all team members.
 - the entity type that you have decided to extract, give a few examples of mentions of this entity type. 
 - the total number of mentions that you have marked up.
