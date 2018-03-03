@@ -1,6 +1,6 @@
 ## Project Stage 1
 
-1. [Original documents](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage1/documents/original)
+1. [Original documents](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage1/documents/original){:target="_blank"}
 - provide a `README` file that tells us the entity type that you have marked up, ex. <>person's name<\\>.
 2. [Documents with markup](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage1/documents/marked) 
 3. [Documents in set I](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage1/documents/set_I)
