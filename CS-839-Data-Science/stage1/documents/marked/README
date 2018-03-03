@@ -1,0 +1,18 @@
+In this stage, the entity we tried to extract from the texts is "Person name".
+We put <> ahead of the person name and <\> after it. So the marked person name should look like <>....<\>.
+
+If the end of the person name concatenate with non-alphabetic characters, we added a space between the end of the word and the special character. The following are some examples.
+
+Ex. 1
+(In Raw text)
+Now that Chris and his girlfriend
+
+(In Marked text)
+Now that <>Chris<\> and his girlfriend
+
+Ex. 2
+(In Raw text)
+Now that Chris and his girlfriend, Rose, have reached....
+
+(In Marked text)
+Now that <>Chris<\> and his girlfriend, <>Rose<\> , have reached ....
