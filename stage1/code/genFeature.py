@@ -42,11 +42,11 @@ input_file.close()
 
 
 # random shuffle of doc numbers
-np.random.seed(68)
+np.random.seed(7)
 indexes = np.arange(1, doc_count+1)
 np.random.shuffle(indexes)
-train_index = indexes[0:doc_count*2/3]
-test_index = indexes[doc_count*2/3:]
+train_index = indexes[0:221]
+test_index = indexes[221:]
 
 
 # these are for DEBUG
