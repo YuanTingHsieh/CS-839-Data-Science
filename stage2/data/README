@@ -9,9 +9,10 @@ The meaning of the attributes
 - movie_gross: movie gross
 - movie_director: movie directors
 - movie_star: movie stars
-- movie_writer	
-- tomatoter	
-- audience
+- movie_writer: movie writer	
+- tomatoter: tomatoter review socre
+- audience: audience review score
 
 The number of tuples per table
 - imdb.csv: 3000
+- tomato.csv: 3012
