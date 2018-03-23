@@ -15,11 +15,11 @@ Requirements
   - Then extract data from these two sources to form two tables A and B (one from each source). The two tables should have the same schema, and each tuple in each table must describe a single entity (all of the same type). For example, if the entity type is  person, then each tuple describes a person, and a possible table schema can be A(name, city, state, zip, phone) (and the same schema for Table B). 
 **Each table must have at least 3000 tuples and be in CSV format. **
 
-1. [A link to a DATA directory] that stores both tables A and B. They should be stored in two files, each file storing a table in CSV format. We should be able to browse these files to examine the tables. There should be a README file in the same directory that explains the tables (e.g., the meaning of the attributes) and lists the number of tuples per table.
+1. [A link to a DATA directory](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage2/data) that stores both tables A and B. They should be stored in two files, each file storing a table in CSV format. We should be able to browse these files to examine the tables. There should be a README file in the same directory that explains the tables (e.g., the meaning of the attributes) and lists the number of tuples per table.
 
-2. [A link to a CODE directory] that stores all of your code (this directory must also be browsable). 
+2. [A link to a CODE directory](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage2/code) that stores all of your code (this directory must also be browsable). 
 
-3. [A link to a pdf file] that describes the following:
+3. [A link to a pdf file](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage2/) that describes the following:
   - a description of the two Web data sources that you have selected. Recall that you are supposed to select two Web data sources from which you can extract structured data.
   - a description of how you have extracted structured data from the two data sources.
   - describe the type of entity you extract, briefly describe the two tables, list the number of tuples per table.
