@@ -9,8 +9,6 @@
 7. [PDF Report](https://github.com/WenFuLee/CS-839-Data-Science/blob/master/stage1/Project%20Stage%201_Report.pdf)
 
 ## Project Stage 2
-1. [A link to a DATA directory](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage2/data)
-
-2. [A link to a CODE directory](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage2/code)
-
-3. [A link to a pdf file](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage2/stage2_report.pdf) 
+1. [Data](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage2/data)
+2. [Code](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage2/code)
+3. [PDF Report](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage2/stage2_report.pdf) 
