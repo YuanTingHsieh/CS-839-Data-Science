@@ -1,7 +1,10 @@
 import pandas as pd
+import os
 
-imdb = pd.read_csv('./imdb.csv')
-tomato = pd.read_csv('./tomato.csv')
+DATA_DIR = '../data'
+
+imdb = pd.read_csv(os.path.join(DATA_DIR, 'imdb.csv'))
+tomato = pd.read_csv(os.path.join(DATA_DIR ,'tomato.csv'))
 
 print "Normalizing dataframes"
 # normalizing phase
@@ -17,5 +20,5 @@ tomato.dropna(subset=['movie_year', 'movie_director'], inplace=True)
 tomato['movie_star'].fillna(value = 'NoStar', inplace=True)
 tomato['movie_name'] = tomato['movie_name'].str.lower()
 
-imdb.to_csv('./imdb_clean.csv')
-tomato.to_csv('./tomato_clean.csv')
+imdb.to_csv(os.path.join(DATA_DIR, 'imdb_clean.csv'))
+tomato.to_csv(os.path.join(DATA_DIR, './tomato_clean.csv'))

@@ -4,7 +4,7 @@ import pandas as pd
 
 import os
 
-DATA_DIR = './'
+DATA_DIR = '../data'
 
 imdb = em.read_csv_metadata(os.path.join(DATA_DIR, 'imdb_clean.csv'), key = 'movie_no')
 tomato = em.read_csv_metadata(os.path.join(DATA_DIR, 'tomato_clean.csv'), key = 'movie_no')
@@ -70,5 +70,9 @@ print "Blocking with cos sim threshold ", cos_thres
 bb.set_black_box_function(f_threshold_cos)
 C4 = bb.block_candset(C3)
 
-print "Debugging blockers..."
-D = em.debug_blocker(C4, imdb, tomato, output_size=200)
+print "Saving blocking result"
+C4.to_csv(os.path.join(DATA_DIR, 'block.csv'))
+
+#print "Debugging blockers..."
+#D = em.debug_blocker(C4, imdb, tomato, output_size=200)
+
