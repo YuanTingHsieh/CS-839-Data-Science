@@ -42,7 +42,7 @@ bb.set_black_box_function(f_star_block)
 C2 = bb.block_candset(C1)
 
 # block by offset of movie year
-# if l.year = r.year +- 1
+# if l.year = r.year +- offset
 # then it is valid
 year_offset = 2
 def f_year_block(ltuple, rtuple):
@@ -51,21 +51,20 @@ def f_year_block(ltuple, rtuple):
         return False
     return True
 
+print "Blocking with year offset +- ", year_offset
+bb.set_black_box_function(f_year_block)
+C3 = bb.block_candset(C2)
+
 # block by cos sim of movie name
 # cos sim lower than thershold would be blocked
-cos_thres = 0.5
+cos_thres = 0.4
 def f_threshold_cos(ltuple, rtuple):
-    cos_thres = 0.5
     l_movie_name = ltuple['movie_name'].split()
     r_movie_name = rtuple['movie_name'].split()
     cos_sim = em.cosine(l_movie_name, r_movie_name)
     if cos_sim < cos_thres:
         return True
     return False
-
-print "Blocking with year offset +- ", year_offset
-bb.set_black_box_function(f_year_block)
-C3 = bb.block_candset(C2)
 
 print "Blocking with cos sim threshold ", cos_thres
 bb.set_black_box_function(f_threshold_cos)
