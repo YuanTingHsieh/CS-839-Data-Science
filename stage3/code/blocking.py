@@ -71,8 +71,11 @@ bb.set_black_box_function(f_threshold_cos)
 C4 = bb.block_candset(C3)
 
 print "Saving blocking result"
-C4.to_csv(os.path.join(DATA_DIR, 'block.csv'))
+em.to_csv_metadata(C4, os.path.join(DATA_DIR, 'block.csv'))
 
 #print "Debugging blockers..."
 #D = em.debug_blocker(C4, imdb, tomato, output_size=200)
 
+np.random.seed(7)
+S = em.sample_table(C4, sample_size = 510)
+em.to_csv_metadata(S, os.path.join(DATA_DIR, 'samples.csv'))

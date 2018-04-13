@@ -1,0 +1,5 @@
+#rtable=POINTER
+#key=_id
+#fk_rtable=rtable_movie_no
+#fk_ltable=ltable_movie_no
+#ltable=POINTER
