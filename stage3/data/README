@@ -1,0 +1,22 @@
+Two tables
+- imdb.csv
+- tomato.csv
+
+The meaning of the attributes
+- movie_no: movie number
+- movie_name: movie name
+- movie_year: movie year
+- movie_certificate: movie certificate
+- movie_runtime: movie runtime
+- movie_genre: movie genre
+- movie_score: imdb score	
+- movie_gross: movie gross
+- movie_director: movie directors
+- movie_star: movie stars
+- movie_writer: movie writer	
+- tomatoter: tomatoter review socre
+- audience: audience review score
+
+The number of tuples per table
+- imdb.csv: 3000
+- tomato.csv: 3012
