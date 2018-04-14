@@ -1,0 +1,14 @@
+provide a Jupyter notebook???
+
+Blocking process
+- normalize.py: for data cleaning
+- blocking.py: for executing blocking
+- split.py: split data from blocking into 3 tables for each member to label
+
+Matching process
+- stage3.ipynb: training for best matcher, and testing
+
+To remove?
+imdb.csv
+tomato.csv
+labeled_data.csv
