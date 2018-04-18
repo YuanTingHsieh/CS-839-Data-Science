@@ -11,9 +11,9 @@
 ## Project Stage 2
 1. [Data](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage2/data)
 2. [Code](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage2/code)
-3. [PDF Report](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage2/stage2_report.pdf) 
+3. [PDF Report](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage2/stage2_report.pdf)
 
 ## Project Stage 3
-1. [Data](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage3/data)
-2. [Code](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage3/code)
-3. [PDF Report](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage2/stage2_report.pdf) 
+1. [Data](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage3/data)<br>- Please check README to see what files to look at
+2. [Code](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage3/code)<br>- Please check README to see what files to look at
+3. [PDF Report](https://github.com/WenFuLee/CS-839-Data-Science/tree/master/stage3/stage3_report.pdf)

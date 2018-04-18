@@ -9,11 +9,11 @@ The meaning of the attributes
 - movie_certificate: movie certificate
 - movie_runtime: movie runtime
 - movie_genre: movie genre
-- movie_score: imdb score	
+- movie_score: imdb score
 - movie_gross: movie gross
 - movie_director: movie directors
 - movie_star: movie stars
-- movie_writer: movie writer	
+- movie_writer: movie writer
 - tomatoter: tomatoter review socre
 - audience: audience review score
 
@@ -24,9 +24,10 @@ The number of tuples per table
 The file that lists all tuple pairs that survive the blocking step
 - block.csv
 
-The file that lists all tuple pairs in the sample you have taken, 
+The file that lists all tuple pairs in the sample you have taken,
 together with the labels, one label per each tuple pair.
 - labeled_data.csv
 
 Two files that describe the sets I and J, respectively
-- ???
+- I.csv
+- J.csv
