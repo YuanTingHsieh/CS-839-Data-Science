@@ -3,7 +3,7 @@ Blocking process
 - blocking.ipynb: for executing blocking
 
 Matching process
-- stage3.ipynb: training for best matcher, and testing
+- matching_py2.ipynb: training for best matcher, and testing
 
 
 
