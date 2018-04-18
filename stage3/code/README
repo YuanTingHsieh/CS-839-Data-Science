@@ -5,10 +5,7 @@ Blocking process
 Matching process
 - stage3.ipynb: training for best matcher, and testing
 
-
-
 Other files
 - normalize.ipynb: for data cleaning
 - matching_py3.ipynb: for matching process in python 3
 - split.py: split data from blocking into 3 tables for each member to label
-
