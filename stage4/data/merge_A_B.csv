@@ -1,0 +1,726 @@
+,movie_name,movie_year,movie_certificate,movie_runtime,movie_genre,movie_score,movie_gross,movie_director,movie_star,movie_writer,tomatoter,audience
+0,jumanji: welcome to the jungle,2017,PG-13,119 min,"Action, Adventure, Comedy",7.0,$403.11M,Jake Kasdan,"Dwayne Johnson, Karen Gillan, Kevin Hart, Jack Black","Chris McKenna, Erik Sommers, Scott Rosenberg, Jeff Pinkner",76%,88%
+1,the shape of water,2017,R,123 min,"Adventure, Drama, Fantasy",7.5,$63.54M,Guillermo del Toro,"Sally Hawkins, Octavia Spencer, Michael Shannon, Doug Jones","Guillermo del Toro, Vanessa Taylor",92%,75%
+2,thor: ragnarok,2017,PG-13,130 min,"Action, Adventure, Comedy",7.9,$315.06M,Taika Waititi,"Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Mark Ruffalo",Eric Pearson,92%,87%
+3,justice league,2017,PG-13,120 min,"Action, Adventure, Fantasy",6.7,$229.02M,Zack Snyder,"Ben Affleck, Gal Gadot, Jason Momoa, Ezra Miller","Chris Terrio, Joss Whedon",40%,76%
+4,coco,2017,PG,105 min,"Animation, Adventure, Comedy",8.5,$209.54M,"Lee Unkrich, Adrian Molina","Anthony Gonzalez, Gael Garca Bernal, Benjamin Bratt, Alanna Ubach","Matthew Aldrich, Adrian Molina",97%,95%
+5,"three billboards outside ebbing, missouri",2017,R,115 min,"Crime, Drama",8.2,$54.25M,Martin McDonagh,"Frances McDormand, Woody Harrelson, Sam Rockwell, Caleb Landry Jones",Martin McDonagh,92%,87%
+6,pitch perfect 3,2017,PG-13,93 min,"Comedy, Music",6.0,$104.90M,Trish Sie,"Anna Kendrick, Rebel Wilson, Brittany Snow, Anna Camp","Mike White, Kay Cannon",32%,49%
+7,murder on the orient express,2017,PG-13,114 min,"Crime, Drama, Mystery",6.6,$102.83M,Kenneth Branagh,"Kenneth Branagh, Penlope Cruz, Willem Dafoe, Judi Dench",Michael Green,57%,56%
+8,ferdinand,2017,PG,108 min,"Animation, Adventure, Comedy",6.7,$84.14M,Carlos Saldanha,"John Cena, Kate McKinnon, Bobby Cannavale, Jack Gore","Robert L. Baird, Tim Federle, Brad Copeland",71%,49%
+9,"i, tonya",2017,R,120 min,"Biography, Comedy, Drama",7.6,$29.95M,Craig Gillespie,"Margot Robbie, Sebastian Stan, Allison Janney, Julianne Nicholson",Steven Rogers,90%,89%
+10,downsizing,2017,R,135 min,"Comedy, Drama, Sci-Fi",5.7,$24.45M,Alexander Payne,"Matt Damon, Christoph Waltz, Hong Chau, Kristen Wiig","Alexander Payne, Jim Taylor",51%,23%
+11,call me by your name,2017,R,132 min,"Drama, Romance",8.0,$17.97M,Luca Guadagnino,"Armie Hammer, Timothe Chalamet, Michael Stuhlbarg, Amira Casar",James Ivory,95%,86%
+12,wonder woman,2017,PG-13,141 min,"Action, Adventure, Fantasy",7.5,$412.56M,Patty Jenkins,"Gal Gadot, Chris Pine, Robin Wright, Lucy Davis","Allan Heinberg, Zack Snyder, Jason Fuchs",92%,88%
+13,atomic blonde,2017,R,115 min,"Action, Mystery, Thriller",6.7,$51.57M,David Leitch,"Charlize Theron, James McAvoy, John Goodman, Eddie Marsan",Kurt Johnstad,77%,64%
+14,blade runner 2049,2017,R,164 min,"Drama, Mystery, Sci-Fi",8.1,$92.05M,Denis Villeneuve,"Harrison Ford, Ryan Gosling, Ana de Armas, Dave Bautista","Michael Green, Hampton Fancher",87%,81%
+15,spider-man: homecoming,2017,PG-13,133 min,"Action, Adventure, Sci-Fi",7.5,$334.20M,Jon Watts,"Tom Holland, Michael Keaton, Robert Downey Jr., Marisa Tomei","John Francis Daley, Christopher Ford, Chris McKenna, Erik Sommers",92%,88%
+16,wonder,2017,PG,113 min,"Drama, Family",8.0,$132.42M,Stephen Chbosky,"Jacob Tremblay, Owen Wilson, Izabela Vidovic, Julia Roberts","Jack Thorne, Steven Conrad, Stephen Chbosky",85%,88%
+17,get out,2017,R,104 min,"Horror, Mystery, Thriller",7.7,$176.04M,Jordan Peele,"Daniel Kaluuya, Allison Williams, Bradley Whitford, Catherine Keener",Jordan Peele,99%,87%
+18,lady bird,2017,R,94 min,"Comedy, Drama",7.6,$48.95M,Greta Gerwig,"Saoirse Ronan, Laurie Metcalf, Tracy Letts, Lucas Hedges",Greta Gerwig,99%,80%
+19,it,2017,R,135 min,"Drama, Horror, Thriller",7.5,$327.48M,Andy Muschietti,"Bill Skarsgrd, Jaeden Lieberher, Finn Wolfhard, Sophia Lillis","Chase Palmer, Cary Joji Fukunaga, Gary Dauberman",85%,84%
+20,guardians of the galaxy vol. 2,2017,PG-13,136 min,"Action, Adventure, Sci-Fi",7.7,$389.81M,James Gunn,"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel",James Gunn,83%,88%
+21,wind river,2017,R,107 min,"Crime, Drama, Mystery",7.8,$33.80M,Taylor Sheridan,"Kelsey Asbille, Jeremy Renner, Julia Jones, Teo Briones",Taylor Sheridan,87%,90%
+22,darkest hour,2017,PG-13,125 min,"Biography, Drama, History",7.4,$56.44M,Joe Wright,"Gary Oldman, Lily James, Kristin Scott Thomas, Ben Mendelsohn",Anthony McCarten,85%,83%
+23,the outsider,2018,TV-MA,120 min,"Crime, Drama, Mystery",6.3,,Martin Zandvliet,"Jared Leto, Tadanobu Asano, Kippei Shna, Shioli Kutsuna",Andrew Baldwin,22%,78%
+24,deadpool,2016,R,108 min,"Action, Adventure, Comedy",8.0,$363.07M,Tim Miller,"Ryan Reynolds, Morena Baccarin, T.J. Miller, Ed Skrein","Rhett Reese, Paul Wernick",83%,90%
+25,dunkirk,2017,PG-13,106 min,"Action, Drama, History",8.0,$188.37M,Christopher Nolan,"Fionn Whitehead, Barry Keoghan, Mark Rylance, Tom Hardy",Christopher Nolan,92%,81%
+26,baby driver,2017,R,112 min,"Action, Crime, Music",7.7,$107.83M,Edgar Wright,"Ansel Elgort, Jon Bernthal, Jon Hamm, Eiza Gonzlez",Edgar Wright,93%,86%
+27,zootopia,2016,PG,108 min,"Animation, Adventure, Comedy",8.0,$341.27M,"Byron Howard, Rich Moore, Jared Bush","Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate","Jared Bush, Phil Johnston",98%,92%
+28,captain america: civil war,2016,PG-13,147 min,"Action, Adventure, Sci-Fi",7.8,$408.08M,"Anthony Russo, Joe Russo","Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan","Christopher Markus, Stephen McFeely",91%,89%
+29,the florida project,2017,R,111 min,Drama,7.7,$5.90M,Sean Baker,"Brooklynn Prince, Bria Vinaite, Willem Dafoe, Christopher Rivera","Chris Bergoch, Sean Baker",95%,79%
+30,avengers: age of ultron,2015,PG-13,141 min,"Action, Adventure, Sci-Fi",7.4,$459.01M,Joss Whedon,"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth","Stan Lee, Jack Kirby, Joss Whedon",75%,83%
+31,kingsman: the golden circle,2017,R,141 min,"Action, Adventure, Comedy",6.8,$100.23M,Matthew Vaughn,"Taron Egerton, Colin Firth, Mark Strong, Channing Tatum","Jane Goldman, Matthew Vaughn",52%,66%
+32,transformers: the last knight,2017,PG-13,154 min,"Action, Adventure, Sci-Fi",5.2,$130.17M,Michael Bay,"Mark Wahlberg, Anthony Hopkins, Josh Duhamel, Laura Haddock","Ken Nolan, Matt Holloway, Art Marcum",16%,45%
+33,valerian and the city of a thousand planets,2017,PG-13,137 min,"Action, Adventure, Fantasy",6.5,$40.48M,Luc Besson,"Dane DeHaan, Cara Delevingne, Clive Owen, Rihanna",Luc Besson,49%,54%
+34,suicide squad,2016,PG-13,123 min,"Action, Adventure, Fantasy",6.1,$325.10M,David Ayer,"Will Smith, Jared Leto, Margot Robbie, Viola Davis",David Ayer,26%,60%
+35,interstellar,2014,PG-13,169 min,"Adventure, Drama, Sci-Fi",8.6,$188.02M,Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy","Christopher Nolan, Jonathan Nolan",71%,85%
+36,beauty and the beast,2017,PG,129 min,"Family, Fantasy, Musical",7.2,$504.01M,Bill Condon,"Emma Watson, Dan Stevens, Luke Evans, Josh Gad","Evan Spiliotopoulos, Stephen Chbosky",71%,81%
+37,doctor strange,2016,PG-13,115 min,"Action, Adventure, Fantasy",7.5,$232.64M,Scott Derrickson,"Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong","Thomas Dean Donnelly, Joshua Oppenheimer, Jon Spaihts, Scott Derrickson, C. Robert Cargill",90%,86%
+38,logan,2017,R,137 min,"Action, Drama, Sci-Fi",8.1,$226.28M,James Mangold,"Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook","James Mangold, Scott Frank, Michael Green",93%,90%
+39,everest,2015,PG-13,121 min,"Action, Adventure, Drama",7.1,$43.48M,Baltasar Kormkur,"Jason Clarke, Ang Phula Sherpa, Thomas M. Wright, Martin Henderson","William Nicholson, Simon Beaufoy, Lem Dobbs",73%,68%
+40,moana,2016,PG,107 min,"Animation, Adventure, Comedy",7.6,$248.76M,"Ron Clements, John Musker, Don Hall, Chris Williams","Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison",Jared Bush,95%,89%
+41,alien: covenant,2017,R,122 min,"Horror, Sci-Fi, Thriller",6.5,$74.26M,Ridley Scott,"Michael Fassbender, Katherine Waterston, Billy Crudup, Danny McBride","John Logan, Dante Harper, Jack Paglen, Michael Green",68%,56%
+42,baywatch,2017,R,116 min,"Action, Comedy, Crime",5.6,$58.06M,Seth Gordon,"Dwayne Johnson, Zac Efron, Alexandra Daddario, Priyanka Chopra","Robert Ben Garant, Justin Malen, Damian Shannon, Barry Schwartz, Mark Swift",18%,56%
+43,sicario,2015,R,121 min,"Action, Crime, Drama",7.6,$46.89M,Denis Villeneuve,"Emily Blunt, Josh Brolin, Benicio Del Toro, Jon Bernthal",Taylor Sheridan,93%,84%
+44,the beguiled,2017,R,93 min,"Drama, Thriller",6.4,$10.58M,Sofia Coppola,"Nicole Kidman, Kirsten Dunst, Elle Fanning, Colin Farrell",Sofia Coppola,78%,48%
+45,pirates of the caribbean: dead men tell no tales,2017,PG-13,129 min,"Action, Adventure, Fantasy",6.6,$172.56M,"Joachim Rnning, Espen Sandberg","Johnny Depp, Geoffrey Rush, Javier Bardem, Orlando Bloom",Jeff Nathanson,30%,61%
+46,logan lucky,2017,PG-13,118 min,"Comedy, Crime, Drama",7.1,$27.78M,Steven Soderbergh,"Channing Tatum, Adam Driver, Daniel Craig, Farrah Mackenzie",Rebecca Blunt,93%,75%
+47,the killing of a sacred deer,2017,R,121 min,"Drama, Mystery, Thriller",7.1,$2.29M,Yorgos Lanthimos,"Barry G. Bernson, Herb Caillouet, Bill Camp, Raffey Cassidy","Yorgos Lanthimos, Efthimis Filippou",79%,64%
+48,john wick,2014,R,101 min,"Action, Crime, Thriller",7.3,$43.04M,"Chad Stahelski, David Leitch","Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe","Joel Zadak, Derek Kolstad",86%,80%
+49,ex machina,2014,R,108 min,"Drama, Mystery, Sci-Fi",7.7,$25.44M,Alex Garland,"Alicia Vikander, Domhnall Gleeson, Oscar Isaac, Sonoya Mizuno",Alex Garland,92%,86%
+50,mute,2018,TV-MA,126 min,"Mystery, Sci-Fi, Thriller",5.4,,Duncan Jones,"Alexander Skarsgrd, Paul Rudd, Justin Theroux, Levi Eisenbltter","Duncan Jones, Michael Robert Johnson",13%,50%
+51,mother!,2017,R,121 min,"Drama, Horror, Mystery",6.7,$17.80M,Darren Aronofsky,"Jennifer Lawrence, Javier Bardem, Ed Harris, Michelle Pfeiffer",Darren Aronofsky,69%,50%
+52,john wick: chapter 2,2017,R,122 min,"Action, Crime, Thriller",7.5,$92.03M,Chad Stahelski,"Keanu Reeves, Riccardo Scamarcio, Ian McShane, Ruby Rose",Derek Kolstad,89%,85%
+53,bright,2017,TV-MA,117 min,"Action, Crime, Fantasy",6.4,,David Ayer,"Will Smith, Joel Edgerton, Noomi Rapace, Edgar Ramrez",Max Landis,27%,85%
+54,split,2016,PG-13,117 min,"Horror, Thriller",7.3,$138.29M,M. Night Shyamalan,"James McAvoy, Anya Taylor-Joy, Haley Lu Richardson, Jessica Sula",M. Night Shyamalan,75%,78%
+55,fantastic beasts and where to find them,2016,PG-13,133 min,"Adventure, Family, Fantasy",7.4,$234.04M,David Yates,"Eddie Redmayne, Katherine Waterston, Alison Sudol, Dan Fogler","J.K. Rowling, J.K. Rowling",74%,79%
+56,kong: skull island,2017,PG-13,118 min,"Action, Adventure, Fantasy",6.7,$168.05M,Jordan Vogt-Roberts,"Tom Hiddleston, Samuel L. Jackson, Brie Larson, John C. Reilly","Dan Gilroy, Max Borenstein, Derek Connolly",75%,70%
+57,sing,2016,PG,108 min,"Animation, Comedy, Family",7.1,$270.33M,"Garth Jennings, Christophe Lourdelet","Matthew McConaughey, Reese Witherspoon, Seth MacFarlane, Scarlett Johansson","Garth Jennings, Garth Jennings",73%,73%
+58,the wolf of wall street,2013,R,180 min,"Biography, Comedy, Crime",8.2,$116.90M,Martin Scorsese,"Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",Terence Winter,78%,82%
+59,star wars: the force awakens,2015,PG-13,136 min,"Action, Adventure, Fantasy",8.0,$936.66M,J.J. Abrams,"Daisy Ridley, John Boyega, Oscar Isaac, Domhnall Gleeson","J.J. Abrams, Lawrence Kasdan, Michael Arndt",93%,88%
+60,the ritual,2017,TV-MA,94 min,Horror,6.3,,David Bruckner,"Rafe Spall, Arsher Ali, Robert James-Collier, Sam Troughton","Adam Nevill, Joe Barton",71%,59%
+61,king arthur: legend of the sword,2017,PG-13,126 min,"Action, Adventure, Drama",6.8,$39.18M,Guy Ritchie,"Charlie Hunnam, Astrid Bergs-Frisbey, Jude Law, Djimon Hounsou","Joby Harold, Guy Ritchie, Lionel Wigram",29%,69%
+62,daddy's home 2,2017,PG-13,100 min,Comedy,6.0,$104.03M,Sean Anders,"Will Ferrell, Mark Wahlberg, Mel Gibson, John Lithgow","Sean Anders, John Morris",19%,53%
+63,batman v superman: dawn of justice,2016,PG-13,151 min,"Action, Adventure, Fantasy",6.6,$330.36M,Zack Snyder,"Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg","Zack Snyder, David S. Goyer, Chris Terrio",27%,63%
+64,suburbicon,2017,R,105 min,"Crime, Drama, Mystery",5.5,$5.78M,George Clooney,"Matt Damon, Julianne Moore, Oscar Isaac, Noah Jupe","Ethan Coen, Joel Coen, Grant Heslov, George Clooney",29%,24%
+65,frozen,2013,PG,102 min,"Animation, Adventure, Comedy",7.5,$400.74M,"Chris Buck, Jennifer Lee","Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad",Jennifer Lee,90%,85%
+66,the hitman's bodyguard,2017,R,118 min,"Action, Comedy, Thriller",6.9,$75.47M,Patrick Hughes,"Ryan Reynolds, Samuel L. Jackson, Gary Oldman, Elodie Yung",Tom O'Connor,40%,68%
+67,x-men: apocalypse,2016,PG-13,144 min,"Action, Adventure, Sci-Fi",7.0,$155.44M,Bryan Singer,"James McAvoy, Michael Fassbender, Jennifer Lawrence, Nicholas Hoult",Simon Kinberg,48%,66%
+68,going in style,2017,PG-13,96 min,"Comedy, Crime",6.6,$45.00M,Zach Braff,"Michael Caine, Richie Moriarty, Josh Pais, John Ortiz",Ted Melfi,49%,57%
+69,when we first met,2018,TV-14,97 min,"Comedy, Fantasy, Romance",6.4,,Ari Sandel,"Adam Devine, Alexandra Daddario, Shelley Hennig, Andrew Bachelor",John Whittington,35%,62%
+70,mad max: fury road,2015,R,120 min,"Action, Adventure, Sci-Fi",8.1,$153.64M,George Miller,"Tom Hardy, Charlize Theron, Nicholas Hoult, Zo Kravitz","Brendan McCarthy, Nick Lathouris, George Miller",97%,85%
+71,hacksaw ridge,2016,R,139 min,"Biography, Drama, History",8.2,$67.21M,Mel Gibson,"Andrew Garfield, Sam Worthington, Luke Bracey, Teresa Palmer","Andrew Knight, Robert Schenkkan",86%,91%
+72,gone girl,2014,R,149 min,"Crime, Drama, Mystery",8.1,$167.77M,David Fincher,"Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry",Gillian Flynn,87%,87%
+73,only the brave,2017,PG-13,134 min,"Biography, Drama",7.7,$18.34M,Joseph Kosinski,"Josh Brolin, Miles Teller, Jeff Bridges, Jennifer Connelly","Ken Nolan, Eric Warren Singer",87%,92%
+74,prisoners,2013,R,153 min,"Crime, Drama, Mystery",8.1,$61.00M,Denis Villeneuve,"Hugh Jackman, Jake Gyllenhaal, Viola Davis, Melissa Leo",Aaron Guzikowski,82%,87%
+75,captain america: the winter soldier,2014,PG-13,136 min,"Action, Adventure, Sci-Fi",7.8,$259.77M,"Anthony Russo, Joe Russo","Chris Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford","Stephen McFeely, Christopher Markus",89%,92%
+76,the grand budapest hotel,2014,R,99 min,"Adventure, Comedy, Drama",8.1,$59.10M,Wes Anderson,"Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody","Hugo Guinness, Wes Anderson",91%,86%
+77,geostorm,2017,PG-13,109 min,"Action, Sci-Fi, Thriller",5.4,$33.70M,Dean Devlin,"Gerard Butler, Jim Sturgess, Abbie Cornish, Alexandra Maria Lara","Dean Devlin, Paul Guyot",13%,38%
+78,la la land,2016,PG-13,128 min,"Comedy, Drama, Music",8.1,$151.10M,Damien Chazelle,"Ryan Gosling, Emma Stone, Rosemarie DeWitt, J.K. Simmons",Damien Chazelle,92%,81%
+79,the square,2017,R,151 min,"Comedy, Drama",7.4,$1.50M,Ruben stlund,"Claes Bang, Elisabeth Moss, Dominic West, Terry Notary",Ruben Östlund,84%,70%
+80,despicable me 3,2017,PG,89 min,"Animation, Action, Adventure",6.3,$264.62M,"Kyle Balda, Pierre Coffin, Eric Guillon","Steve Carell, Kristen Wiig, Trey Parker, Miranda Cosgrove","Ken Daurio, Cinco Paul",60%,55%
+81,the fate of the furious,2017,PG-13,136 min,"Action, Crime, Thriller",6.7,$225.76M,F. Gary Gray,"Vin Diesel, Jason Statham, Dwayne Johnson, Michelle Rodriguez",Chris Morgan,66%,73%
+82,kingsman: the secret service,2014,R,129 min,"Action, Adventure, Comedy",7.7,$128.26M,Matthew Vaughn,"Colin Firth, Taron Egerton, Samuel L. Jackson, Michael Caine","Matthew Vaughn, Jane Goldman",74%,84%
+83,star trek: beyond,2016,PG-13,122 min,"Action, Adventure, Sci-Fi",7.1,$158.85M,Justin Lin,"Chris Pine, Zachary Quinto, Karl Urban, Zoe Saldana","Doug Jung, Simon Pegg",84%,80%
+84,the equalizer,2014,R,132 min,"Action, Crime, Thriller",7.2,$101.53M,Antoine Fuqua,"Denzel Washington, Marton Csokas, Chlo Grace Moretz, David Harbour",Richard Wenk,60%,76%
+85,the foreigner,2017,R,113 min,"Action, Crime, Drama",7.1,$34.39M,Martin Campbell,"Katie Leung, Jackie Chan, Rufus Jones, Mark Tandy",David Marconi,62%,72%
+86,the man from u.n.c.l.e.,2015,PG-13,116 min,"Action, Adventure, Comedy",7.3,$45.45M,Guy Ritchie,"Henry Cavill, Armie Hammer, Alicia Vikander, Elizabeth Debicki","Guy Ritchie, Lionel Wigram",66%,73%
+87,cars 3,2017,G,102 min,"Animation, Adventure, Comedy",6.8,$152.90M,Brian Fee,"Owen Wilson, Cristela Alonzo, Chris Cooper, Nathan Fillion","Kiel Murray, Bob Peterson, Mike Rich",68%,70%
+88,pitch perfect 2,2015,PG-13,115 min,"Comedy, Music",6.4,$184.30M,Elizabeth Banks,"Anna Kendrick, Rebel Wilson, Hailee Steinfeld, Brittany Snow","Mickey Rapkin, Kay Cannon",65%,64%
+89,the girl on the train,2016,R,112 min,"Crime, Drama, Mystery",6.5,$75.40M,Tate Taylor,"Emily Blunt, Haley Bennett, Rebecca Ferguson, Justin Theroux",Erin Cressida Wilson,44%,49%
+90,fifty shades of grey,2015,R,125 min,"Drama, Romance, Thriller",4.1,$166.17M,Sam Taylor-Johnson,"Dakota Johnson, Jamie Dornan, Jennifer Ehle, Eloise Mumford",Kelly Marcel,25%,41%
+91,jungle,2017,R,115 min,"Action, Adventure, Biography",6.7,,Greg McLean,"Daniel Radcliffe, Thomas Kretschmann, Alex Russell, Yasmin Kassim",Justin Monjo,55%,56%
+92,american made,2017,R,115 min,"Action, Biography, Comedy",7.2,$51.34M,Doug Liman,"Tom Cruise, Domhnall Gleeson, Sarah Wright, Jesse Plemons",Gary Spinelli,86%,79%
+93,thor: the dark world,2013,PG-13,112 min,"Action, Adventure, Sci-Fi",7.0,$206.36M,Alan Taylor,"Chris Hemsworth, Natalie Portman, Tom Hiddleston, Stellan Skarsgrd","Christopher Yost, Christopher Markus, Stephen McFeely",66%,77%
+94,the hateful eight,2015,R,187 min,"Crime, Drama, Mystery",7.8,$54.12M,Quentin Tarantino,"Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins",Quentin Tarantino,75%,76%
+95,furious 7,2015,PG-13,137 min,"Action, Crime, Thriller",7.2,$353.01M,James Wan,"Vin Diesel, Paul Walker, Dwayne Johnson, Jason Statham",Chris Morgan,80%,82%
+96,jigsaw,2017,R,92 min,"Crime, Horror, Mystery",5.8,$38.05M,"Michael Spierig, Peter Spierig","Matt Passmore, Tobin Bell, Callum Keith Rennie, Hannah Emily Anderson","Josh Stolberg, Peter Goldfinger",34%,91%
+97,annabelle: creation,2017,R,109 min,"Horror, Mystery, Thriller",6.6,$102.09M,David F. Sandberg,"Anthony LaPaglia, Samara Lee, Miranda Otto, Brad Greenquist",Gary Dauberman,69%,68%
+98,spectre,2015,PG-13,148 min,"Action, Adventure, Thriller",6.8,$200.07M,Sam Mendes,"Daniel Craig, Christoph Waltz, La Seydoux, Ralph Fiennes","Ian Fleming , John Logan, Neal Purvis, Robert Wade",63%,61%
+99,the mummy,2017,PG-13,110 min,"Action, Adventure, Fantasy",5.5,$80.10M,Alex Kurtzman,"Tom Cruise, Sofia Boutella, Annabelle Wallis, Russell Crowe","David Koepp, Christopher McQuarrie, Dylan Kussman",16%,36%
+100,war for the planet of the apes,2017,PG-13,140 min,"Action, Adventure, Drama",7.5,$146.88M,Matt Reeves,"Andy Serkis, Woody Harrelson, Steve Zahn, Karin Konoval","Mark Bomback, Matt Reeves",93%,84%
+101,the big sick,2017,R,120 min,"Comedy, Drama, Romance",7.6,$42.87M,Michael Showalter,"Kumail Nanjiani, Zoe Kazan, Holly Hunter, Ray Romano","Kumail Nanjiani, Emily V. Gordon",98%,88%
+102,the jungle book,2016,PG,106 min,"Adventure, Drama, Family",7.5,$364.00M,Jon Favreau,"Neel Sethi, Bill Murray, Ben Kingsley, Idris Elba",Justin Marks,95%,86%
+103,the danish girl,2015,R,119 min,"Biography, Drama, History",7.1,$12.71M,Tom Hooper,"Eddie Redmayne, Alicia Vikander, Amber Heard, Ben Whishaw",Lucinda Coxon,68%,72%
+104,the martian,2015,PG-13,144 min,"Adventure, Drama, Sci-Fi",8.0,$228.43M,Ridley Scott,"Matt Damon, Jessica Chastain, Kristen Wiig, Kate Mara",Drew Goddard,91%,91%
+105,arrival,2016,PG-13,116 min,"Drama, Mystery, Sci-Fi",7.9,$100.55M,Denis Villeneuve,"Amy Adams, Jeremy Renner, Forest Whitaker, Michael Stuhlbarg",Eric Heisserer,94%,82%
+106,inside out,2015,PG,95 min,"Animation, Adventure, Comedy",8.2,$356.46M,"Pete Docter, Ronnie Del Carmen","Amy Poehler, Bill Hader, Lewis Black, Mindy Kaling","Meg LeFauve, Josh Cooley, Pete Docter",98%,89%
+107,leap!,2016,PG,89 min,"Animation, Adventure, Comedy",6.8,$24.48M,"Eric Summer, ric Warin, Mimi Maynard, Paulette Victor-Lifton","Elle Fanning, Dane DeHaan, Carly Rae Jepsen, Maddie Ziegler","Carol Noble, Eric Summer, Laurent Zeitoun",37%,63%
+108,professor marston and the wonder women,2017,R,108 min,"Biography, Drama",7.1,$1.58M,Angela Robinson,"Luke Evans, Rebecca Hall, Bella Heathcote, Connie Britton",Angela Robinson,87%,78%
+109,pride and prejudice and zombies,2016,PG-13,108 min,"Action, Horror, Romance",5.8,$10.91M,Burr Steers,"Lily James, Sam Riley, Jack Huston, Bella Heathcote",Burr Steers,43%,44%
+110,xxx: return of xander cage,2017,PG-13,107 min,"Action, Adventure, Thriller",5.2,$44.90M,D.J. Caruso,"Vin Diesel, Donnie Yen, Deepika Padukone, Kris Wu",,45%,38%
+111,moonlight,2016,R,111 min,Drama,7.4,$27.85M,Barry Jenkins,"Mahershala Ali, Naomie Harris, Trevante Rhodes, Alex R. Hibbert",Barry Jenkins,98%,79%
+112,small town crime,2017,R,91 min,"Crime, Mystery, Thriller",6.6,,"Eshom Nelms, Ian Nelms","John Hawkes, Anthony Anderson, Octavia Spencer, Robert Forster","Eshom Nelms, Ian Nelms",75%,72%
+113,happy death day,2017,PG-13,96 min,"Horror, Mystery, Thriller",6.5,$55.68M,Christopher Landon,"Jessica Rothe, Israel Broussard, Ruby Modine, Charles Aitken",Scott Lobdell,71%,65%
+114,jurassic world,2015,PG-13,124 min,"Action, Adventure, Sci-Fi",7.0,$652.27M,Colin Trevorrow,"Chris Pratt, Bryce Dallas Howard, Ty Simpkins, Judy Greer","Rick Jaffa, Amanda Silver, Derek Connolly, Colin Trevorrow",71%,78%
+115,tulip fever,2017,R,105 min,"Drama, Romance",6.2,$2.43M,Justin Chadwick,"Alicia Vikander, Dane DeHaan, Jack O'Connell, Holliday Grainger",Tom Stoppard,9%,45%
+116,trolls,2016,PG,92 min,"Animation, Adventure, Comedy",6.5,$153.71M,"Mike Mitchell, Walt Dohrn","Anna Kendrick, Justin Timberlake, Zooey Deschanel, Christopher Mintz-Plasse","Jonathan Aibel, Glenn Berger",73%,68%
+117,warcraft,2016,PG-13,123 min,"Action, Adventure, Fantasy",6.9,$47.37M,Duncan Jones,"Travis Fimmel, Paula Patton, Ben Foster, Dominic Cooper","Charles Leavitt, Duncan Jones",28%,77%
+118,the snowman,2017,R,119 min,"Crime, Drama, Mystery",5.1,$6.67M,Tomas Alfredson,"Michael Fassbender, Rebecca Ferguson, Charlotte Gainsbourg, Jonas Karlsson","Hossein Amini, Peter Straughan",8%,19%
+119,ant-man,2015,PG-13,117 min,"Action, Adventure, Comedy",7.3,$180.20M,Peyton Reed,"Paul Rudd, Michael Douglas, Corey Stoll, Evangeline Lilly","Joe Cornish, Edgar Wright, Adam McKay, Paul Rudd, Stan Lee, Larry Lieber, Jack Kirby",82%,86%
+120,what happened to monday,2017,TV-MA,123 min,"Action, Adventure, Crime",6.9,,Tommy Wirkola,"Noomi Rapace, Glenn Close, Willem Dafoe, Marwan Kenzari","Max Botkin, Kerry Williamson",60%,67%
+121,patriots day,2016,R,133 min,"Crime, Drama, History",7.4,$31.89M,Peter Berg,"Mark Wahlberg, Michelle Monaghan, J.K. Simmons, John Goodman","Matt Cook, Peter Berg, Joshua Zetumer",81%,87%
+122,the gift,2015,R,108 min,"Drama, Mystery, Thriller",7.1,$43.77M,Joel Edgerton,"Jason Bateman, Rebecca Hall, Joel Edgerton, Allison Tolman",Joel Edgerton,92%,75%
+123,the revenant,2015,R,156 min,"Adventure, Drama, History",8.0,$183.64M,Alejandro G. Irritu,"Leonardo DiCaprio, Tom Hardy, Will Poulter, Domhnall Gleeson","Mark L. Smith, Alejandro González Iñárritu",80%,84%
+124,benji,2018,,87 min,"Crime, Drama, Family",6.4,,Brandon Camp,"Gabriel Bateman, Darby Camp, Kiele Sanchez, Gralen Bryant Banks",Brandon Camp,63%,93%
+125,hidden figures,2016,PG,127 min,"Biography, Drama, History",7.8,$169.39M,Theodore Melfi,"Taraji P. Henson, Octavia Spencer, Janelle Mone, Kevin Costner","Allison Schroeder, Ted Melfi",93%,93%
+126,the book of henry,2017,PG-13,105 min,"Crime, Drama, Thriller",6.5,$4.22M,Colin Trevorrow,"Naomi Watts, Jaeden Lieberher, Jacob Tremblay, Sarah Silverman",Gregg Hurwitz,20%,63%
+127,whiplash,2014,R,107 min,"Drama, Music",8.5,$13.09M,Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist, Paul Reiser",Damien Chazelle,94%,94%
+128,me before you,2016,PG-13,106 min,"Drama, Romance",7.4,$56.25M,Thea Sharrock,"Emilia Clarke, Sam Claflin, Janet McTeer, Charles Dance",Jojo Moyes,56%,73%
+129,ghost in the shell,2017,PG-13,107 min,"Action, Crime, Drama",6.4,$40.53M,Rupert Sanders,"Scarlett Johansson, Pilou Asbk, Takeshi Kitano, Juliette Binoche","Jonathan Herman, Jamie Moss",44%,51%
+130,fury,2014,R,134 min,"Action, Drama, War",7.6,$85.82M,David Ayer,"Brad Pitt, Shia LaBeouf, Logan Lerman, Michael Pea",David Ayer,76%,84%
+131,the magnificent seven,2016,PG-13,132 min,"Action, Adventure, Western",6.9,$93.43M,Antoine Fuqua,"Denzel Washington, Chris Pratt, Ethan Hawke, Vincent D'Onofrio","Nic Pizzolatto, Richard Wenk",63%,72%
+132,the emoji movie,2017,PG,86 min,"Animation, Adventure, Comedy",3.1,$86.09M,Tony Leondis,"T.J. Miller, James Corden, Anna Faris, Maya Rudolph","Anthony Leondis, Eric Siegel, Mike White",9%,39%
+133,love,2015,Not Rated,135 min,"Drama, Romance",6.0,,Gaspar No,"Aomi Muyock, Karl Glusman, Klara Kristin, Juan Saavedra",Gaspar Noé,39%,38%
+134,"roman j. israel, esq.",2017,PG-13,122 min,"Crime, Drama",6.4,$11.96M,Dan Gilroy,"Denzel Washington, Colin Farrell, Carmen Ejogo, Lynda Gravatt",Dan Gilroy,51%,56%
+135,mudbound,2017,R,134 min,"Drama, War",7.5,,Dee Rees,"Carey Mulligan, Garrett Hedlund, Jason Clarke, Jonathan Banks","Dee Rees, Virgil Williams",96%,85%
+136,ghostbusters,2016,PG-13,116 min,"Action, Comedy, Fantasy",5.3,$128.34M,Paul Feig,"Melissa McCarthy, Kristen Wiig, Kate McKinnon, Leslie Jones","Paul Feig, Katie Dippold",74%,52%
+137,the dark tower,2017,PG-13,95 min,"Action, Adventure, Fantasy",5.7,$50.70M,Nikolaj Arcel,"Idris Elba, Matthew McConaughey, Tom Taylor, Dennis Haysbert","Nikolaj Arcel, Akiva Goldsman, Anders Thomas Jensen, Jeff Pinkner",16%,46%
+138,nocturnal animals,2016,R,116 min,"Crime, Drama, Romance",7.5,$10.64M,Tom Ford,"Amy Adams, Jake Gyllenhaal, Michael Shannon, Aaron Taylor-Johnson",Tom Ford,73%,72%
+139,wonderstruck,2017,PG,116 min,"Drama, Family, Mystery",6.3,$1.03M,Todd Haynes,"Oakes Fegley, Julianne Moore, Michelle Williams, Millicent Simmonds",Brian Selznick,69%,60%
+140,detroit,2017,R,143 min,"Crime, Drama, Thriller",7.4,$16.79M,Kathryn Bigelow,"John Boyega, Anthony Mackie, Algee Smith, Jacob Latimore",Mark Boal,84%,79%
+141,good time,2017,R,101 min,"Crime, Drama, Thriller",7.3,$2.01M,"Benny Safdie, Josh Safdie","Robert Pattinson, Benny Safdie, Jennifer Jason Leigh, Buddy Duress","Joshua Safdie, Ronald Bronstein",92%,80%
+142,the mountain between us,2017,PG-13,112 min,"Action, Adventure, Drama",6.4,$30.35M,Hany Abu-Assad,"Idris Elba, Kate Winslet, Beau Bridges, Dermot Mulroney","J. Mills Goodloe, Chris Weitz",41%,48%
+143,"everything, everything",2017,PG-13,96 min,"Drama, Romance",6.4,$34.00M,Stella Meghie,"Amandla Stenberg, Nick Robinson, Anika Noni Rose, Ana de la Reguera",J. Mills Goodloe,46%,62%
+144,a bad moms christmas,2017,R,104 min,"Adventure, Comedy",5.5,$72.11M,"Jon Lucas, Scott Moore","Mila Kunis, Kristen Bell, Kathryn Hahn, Jay Hernandez","Jon Lucas, Scott Moore",29%,46%
+145,in the heart of the sea,2015,PG-13,122 min,"Action, Adventure, Biography",6.9,$25.02M,Ron Howard,"Chris Hemsworth, Cillian Murphy, Brendan Gleeson, Ben Whishaw","Rick Jaffa, Amanda Silver, Peter Morgan, Charles Leavitt",42%,53%
+146,terminator genisys,2015,PG-13,126 min,"Action, Adventure, Sci-Fi",6.5,$89.76M,Alan Taylor,"Arnold Schwarzenegger, Jason Clarke, Emilia Clarke, Jai Courtney","Patrick Lussier, Laeta Kalogridis",26%,53%
+147,the circle,2017,PG-13,110 min,"Drama, Sci-Fi, Thriller",5.3,$20.48M,James Ponsoldt,"Emma Watson, Tom Hanks, John Boyega, Ellar Coltrane","James Ponsoldt, Dave Eggers",16%,22%
+148,battle of the sexes,2017,PG-13,121 min,"Biography, Comedy, Drama",6.8,$12.64M,"Jonathan Dayton, Valerie Faris","Emma Stone, Steve Carell, Andrea Riseborough, Sarah Silverman",Simon Beaufoy,85%,73%
+149,the boss baby,2017,PG,97 min,"Animation, Comedy, Family",6.3,$175.00M,Tom McGrath,"Alec Baldwin, Steve Buscemi, Jimmy Kimmel, Lisa Kudrow",Michael McCullers,52%,52%
+150,cinderella,2015,PG,105 min,"Drama, Family, Fantasy",6.9,$201.15M,Kenneth Branagh,"Lily James, Cate Blanchett, Richard Madden, Helena Bonham Carter","Aline Brosh McKenna, Chris Weitz",84%,78%
+151,we're the millers,2013,R,110 min,"Comedy, Crime",7.0,$150.39M,Rawson Marshall Thurber,"Jason Sudeikis, Jennifer Aniston, Emma Roberts, Ed Helms","Sean Anders, John Morris, Bob Fisher, Steve Faber",47%,72%
+152,the babysitter,2017,TV-MA,85 min,"Comedy, Horror",6.3,,McG,"Judah Lewis, Samara Weaving, Robbie Amell, Hana Mae Lee",Brian Duffield,75%,60%
+153,crooked house,2017,PG-13,115 min,"Crime, Drama, Mystery",6.3,,Gilles Paquet-Brenner,"Max Irons, Stefanie Martini, Glenn Close, Honor Kneafsey","Julian Fellowes, Tim Rose Price, Gilles Paquet-Brenner",71%,59%
+154,the vanishing of sidney hall,2017,R,119 min,"Drama, Mystery",6.8,,Shawn Christensen,"Michelle Monaghan, Elle Fanning, Logan Lerman, Margaret Qualley","Shawn Christensen, Jason Dolan",9%,85%
+155,gerald's game,2017,TV-MA,103 min,"Drama, Horror, Thriller",6.7,,Mike Flanagan,"Carla Gugino, Bruce Greenwood, Chiara Aurelia, Carel Struycken","Mike Flanagan, Jeff Howard",91%,73%
+156,life,2017,R,104 min,"Horror, Sci-Fi, Thriller",6.6,$30.23M,Daniel Espinosa,"Jake Gyllenhaal, Rebecca Ferguson, Ryan Reynolds, Hiroyuki Sanada","Paul Wernick, Rhett Reese",67%,55%
+157,bridge of spies,2015,PG-13,142 min,"Drama, History, Thriller",7.6,$72.31M,Steven Spielberg,"Tom Hanks, Mark Rylance, Alan Alda, Amy Ryan","Matt Charman, Ethan Coen, Joel Coen, Matthew Charman",91%,87%
+158,the house,2017,R,88 min,Comedy,5.6,$25.48M,Andrew Jay Cohen,"Will Ferrell, Amy Poehler, Ryan Simpkins, Jason Mantzoukas","Andrew Jay Cohen, Brendan O'Brien",18%,36%
+159,the lost city of z,2016,PG-13,141 min,"Adventure, Biography, Drama",6.6,$8.58M,James Gray,"Charlie Hunnam, Robert Pattinson, Sienna Miller, Tom Holland",James Gray,87%,57%
+160,spotlight,2015,R,128 min,"Crime, Drama, History",8.1,$45.06M,Tom McCarthy,"Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber","Tom McCarthy, Josh Singer",97%,93%
+161,american assassin,2017,R,112 min,"Action, Thriller",6.2,$36.25M,Michael Cuesta,"Dylan O'Brien, Michael Keaton, Sanaa Lathan, Taylor Kitsch","Stephen Schiff, Michael Finch, Edward Zwick, Marshall Herskovitz",34%,62%
+162,passengers,2016,PG-13,116 min,"Drama, Sci-Fi, Thriller",7.0,$100.01M,Morten Tyldum,"Jennifer Lawrence, Chris Pratt, Michael Sheen, Laurence Fishburne",Jon Spaihts,31%,63%
+163,what we do in the shadows,2014,R,86 min,"Comedy, Horror",7.6,$3.33M,"Jemaine Clement, Taika Waititi","Jemaine Clement, Taika Waititi, Cori Gonzalez-Macuer, Jonny Brugh","Jemaine Clement, Taika Waititi",96%,86%
+164,gods of egypt,2016,PG-13,127 min,"Action, Adventure, Fantasy",5.4,$31.15M,Alex Proyas,"Brenton Thwaites, Nikolaj Coster-Waldau, Gerard Butler, Chadwick Boseman","Burk Sharpless, Matt Sazama",15%,36%
+165,it comes at night,2017,R,91 min,"Horror, Mystery",6.2,$13.99M,Trey Edward Shults,"Joel Edgerton, Christopher Abbott, Carmen Ejogo, Riley Keough",Trey Edward Shults,88%,44%
+166,brooklyn,2015,PG-13,117 min,"Drama, Romance",7.5,$38.32M,John Crowley,"Saoirse Ronan, Emory Cohen, Domhnall Gleeson, Jim Broadbent",Nick Hornby,97%,87%
+167,man of steel,2013,PG-13,143 min,"Action, Adventure, Fantasy",7.1,$291.05M,Zack Snyder,"Henry Cavill, Amy Adams, Michael Shannon, Diane Lane","Christopher Nolan, Kurt Johnstad, David S. Goyer",55%,75%
+168,hangman,2017,R,98 min,"Crime, Mystery, Thriller",5.1,,Johnny Martin,"Brittany Snow, Al Pacino, Karl Urban, Sarah Shahi","Michael Caissie, Charles Huttinger, Phil Hawkins",6%,27%
+169,divergent,2014,PG-13,139 min,"Adventure, Mystery, Sci-Fi",6.7,$150.95M,Neil Burger,"Shailene Woodley, Theo James, Kate Winslet, Jai Courtney","Vanessa Taylor, Evan Daugherty",41%,69%
+170,x-men: days of future past,2014,PG-13,132 min,"Action, Adventure, Sci-Fi",8.0,$233.92M,Bryan Singer,"Patrick Stewart, Ian McKellen, Hugh Jackman, James McAvoy","Jane Goldman, Matthew Vaughn, Simon Kinberg",90%,91%
+171,san andreas,2015,PG-13,114 min,"Action, Adventure, Drama",6.1,$155.19M,Brad Peyton,"Dwayne Johnson, Carla Gugino, Alexandra Daddario, Colton Haynes","Jeremy Passmore, Chad Hayes, Carlton Cuse, Carey Hayes",50%,52%
+172,fantastic four,2015,PG-13,100 min,"Action, Adventure, Sci-Fi",4.3,$56.12M,Josh Trank,"Miles Teller, Kate Mara, Michael B. Jordan, Jamie Bell","Jack Kirby, Stan Lee, Jeremy Slater, Simon Kinberg, Josh Trank",9%,18%
+173,bullet head,2017,R,93 min,"Crime, Drama, Thriller",5.3,,Paul Solet,"Rory Culkin, Adrien Brody, Antonio Banderas, John Malkovich",Paul Solet,53%,28%
+174,flatliners,2017,PG-13,109 min,"Drama, Sci-Fi, Thriller",5.2,$16.87M,Niels Arden Oplev,"Ellen Page, Diego Luna, Nina Dobrev, James Norton",Ben Ripley,5%,34%
+175,her,2013,R,126 min,"Drama, Romance, Sci-Fi",8.0,$25.57M,Spike Jonze,"Joaquin Phoenix, Amy Adams, Scarlett Johansson, Rooney Mara",Spike Jonze,94%,82%
+176,about time,2013,R,123 min,"Comedy, Drama, Fantasy",7.8,$15.32M,Richard Curtis,"Domhnall Gleeson, Rachel McAdams, Bill Nighy, Lydia Wilson",Richard Curtis,68%,81%
+177,creed,2015,PG-13,133 min,"Drama, Sport",7.6,$109.77M,Ryan Coogler,"Michael B. Jordan, Sylvester Stallone, Tessa Thompson, Phylicia Rashad","Ryan Coogler, Aaron Covington",95%,89%
+178,the space between us,2017,PG-13,120 min,"Adventure, Drama, Romance",6.4,$7.83M,Peter Chelsom,"Gary Oldman, Asa Butterfield, Carla Gugino, Britt Robertson","Allan Loeb, Peter Chelsom, Tinker Lindsay",16%,55%
+179,it follows,2014,R,100 min,"Horror, Mystery",6.9,$14.67M,David Robert Mitchell,"Maika Monroe, Keir Gilchrist, Olivia Luccardi, Lili Sepe",David Robert Mitchell,97%,66%
+180,the imitation game,2014,PG-13,114 min,"Biography, Drama, History",8.0,$91.13M,Morten Tyldum,"Benedict Cumberbatch, Keira Knightley, Matthew Goode, Allen Leech",Graham Moore,91%,91%
+181,edge of tomorrow,2014,PG-13,113 min,"Action, Adventure, Sci-Fi",7.9,$100.21M,Doug Liman,"Tom Cruise, Emily Blunt, Bill Paxton, Brendan Gleeson","Dante Harper, Joby Harold, Christopher McQuarrie, Jez Butterworth, John-Henry Butterworth",90%,90%
+182,a ghost story,2017,R,92 min,"Drama, Fantasy, Romance",6.9,$1.60M,David Lowery,"Casey Affleck, Rooney Mara, McColm Cephas Jr., Kenneisha Thompson",David Lowery,91%,66%
+183,47 meters down,2017,PG-13,89 min,"Adventure, Drama, Horror",5.7,$44.31M,Johannes Roberts,"Mandy Moore, Claire Holt, Matthew Modine, Chris Johnson","Johannes Roberts, Ernest Riera",55%,36%
+184,manchester by the sea,2016,R,137 min,Drama,7.8,$47.70M,Kenneth Lonergan,"Casey Affleck, Michelle Williams, Kyle Chandler, Lucas Hedges",Kenneth Lonergan,95%,77%
+185,10 cloverfield lane,2016,PG-13,103 min,"Drama, Horror, Mystery",7.2,$71.90M,Dan Trachtenberg,"John Goodman, Mary Elizabeth Winstead, John Gallagher Jr., Douglas M. Griffin","Josh Campbell, Matthew Stuecken, Damien Chazelle",90%,79%
+186,girls trip,2017,R,122 min,Comedy,6.3,$115.11M,Malcolm D. Lee,"Regina Hall, Queen Latifah, Jada Pinkett Smith, Tiffany Haddish","Kenya Barris, Tracy Oliver",90%,79%
+187,lion,2016,PG-13,118 min,"Biography, Drama",8.1,$51.69M,Garth Davis,"Dev Patel, Nicole Kidman, Rooney Mara, Sunny Pawar",Luke Davies,86%,91%
+188,dear dictator,2017,Not Rated,90 min,Comedy,4.6,,"Lisa Addario, Joe Syracuse","Michael Caine, Odeya Rush, Katie Holmes, Seth Green","Lisa Addario, Joe Syracuse",18%,69%
+189,breathe,2017,PG-13,118 min,"Biography, Drama, Romance",7.1,$0.49M,Andy Serkis,"Andrew Garfield, Claire Foy, Hugh Bonneville, Ed Speleers",William Nicholson,66%,72%
+190,thelma,2017,Not Rated,116 min,"Drama, Fantasy, Mystery",7.1,$0.15M,Joachim Trier,"Eili Harboe, Kaya Wilkins, Henrik Rafaelsen, Ellen Dorrit Petersen","Joachim Trier, Eskil Vogt",93%,78%
+191,hell or high water,2016,R,102 min,"Crime, Drama, Thriller",7.6,$26.86M,David Mackenzie,"Chris Pine, Ben Foster, Jeff Bridges, Gil Birmingham",Taylor Sheridan,97%,88%
+192,brawl in cell block 99,2017,Not Rated,132 min,"Crime, Drama",7.2,,S. Craig Zahler,"Vince Vaughn, Jennifer Carpenter, Don Johnson, Udo Kier",S. Craig Zahler,92%,73%
+193,big hero 6,2014,PG,102 min,"Animation, Action, Adventure",7.8,$222.53M,"Don Hall, Chris Williams","Ryan Potter, Scott Adsit, Jamie Chung, T.J. Miller","Jordan Roberts, Daniel Gerson",89%,91%
+194,maleficent,2014,PG,97 min,"Action, Adventure, Family",7.0,$241.41M,Robert Stromberg,"Angelina Jolie, Elle Fanning, Sharlto Copley, Lesley Manville",Linda Woolverton,51%,70%
+195,unlocked,2017,R,98 min,"Action, Drama, Mystery",6.2,,Michael Apted,"Noomi Rapace, Orlando Bloom, Toni Collette, John Malkovich",Peter O'Brien,25%,41%
+196,live by night,2016,R,129 min,"Action, Crime, Drama",6.4,$10.38M,Ben Affleck,"Ben Affleck, Elle Fanning, Brendan Gleeson, Chris Messina",Ben Affleck,35%,42%
+197,my friend dahmer,2017,R,107 min,"Biography, Drama, Horror",6.4,$1.36M,Marc Meyers,"Ross Lynch, Alex Wolff, Anne Heche, Zachary Davis Brown",Marc Meyers,83%,65%
+198,transformers: age of extinction,2014,PG-13,165 min,"Action, Adventure, Sci-Fi",5.7,$245.44M,Michael Bay,"Mark Wahlberg, Nicola Peltz, Jack Reynor, Stanley Tucci",Ehren Kruger,18%,51%
+199,rush,2013,R,123 min,"Action, Biography, Drama",8.1,$26.95M,Ron Howard,"Daniel Brhl, Chris Hemsworth, Olivia Wilde, Alexandra Maria Lara",Peter Morgan,89%,88%
+200,london has fallen,2016,R,99 min,"Action, Drama, Thriller",5.9,$62.52M,Babak Najafi,"Gerard Butler, Aaron Eckhart, Morgan Freeman, Angela Bassett","Creighton Rothenberger, Katrin Benedikt, Chad St. John, Christian Gudegast",25%,51%
+201,rough night,2017,R,101 min,Comedy,5.2,$22.06M,Lucia Aniello,"Scarlett Johansson, Kate McKinnon, Zo Kravitz, Ilana Glazer","Lucia Aniello, Paul W. Downs",45%,30%
+202,the big short,2015,R,130 min,"Biography, Comedy, Drama",7.8,$70.26M,Adam McKay,"Christian Bale, Steve Carell, Ryan Gosling, Brad Pitt","Adam McKay, Charles Randolph",88%,87%
+203,the edge of seventeen,2016,R,104 min,"Comedy, Drama",7.4,$14.26M,Kelly Fremon Craig,"Hailee Steinfeld, Haley Lu Richardson, Blake Jenner, Kyra Sedgwick",Kelly Fremon Craig,95%,83%
+204,ingrid goes west,2017,R,98 min,"Comedy, Drama",6.7,$3.02M,Matt Spicer,"Aubrey Plaza, Elizabeth Olsen, O'Shea Jackson Jr., Wyatt Russell","Matt Spicer, David Branson Smith",85%,71%
+205,shot caller,2017,R,121 min,"Crime, Drama, Thriller",7.3,,Ric Roman Waugh,"Jon Bernthal, Lake Bell, Emory Cohen, Nikolaj Coster-Waldau",Ric Roman Waugh,63%,79%
+206,wonder wheel,2017,PG-13,101 min,Drama,6.2,$1.40M,Woody Allen,"Justin Timberlake, Juno Temple, Robert C. Kirk, Kate Winslet",Woody Allen,31%,43%
+207,mission: impossible - rogue nation,2015,PG-13,131 min,"Action, Adventure, Thriller",7.4,$195.04M,Christopher McQuarrie,"Tom Cruise, Rebecca Ferguson, Jeremy Renner, Simon Pegg","Christopher McQuarrie, Bruce Geller",93%,87%
+208,captain fantastic,2016,R,118 min,"Comedy, Drama",7.9,$5.88M,Matt Ross,"Viggo Mortensen, George MacKay, Samantha Isler, Annalise Basso",Matt Ross,83%,85%
+209,the secret life of pets,2016,PG,87 min,"Animation, Adventure, Comedy",6.5,$368.38M,"Chris Renaud, Yarrow Cheney","Louis C.K., Eric Stonestreet, Kevin Hart, Lake Bell","Cinco Paul, Ken Daurio, Brian Lynch",75%,62%
+210,unbroken,2014,PG-13,137 min,"Biography, Drama, Sport",7.2,$115.64M,Angelina Jolie,"Jack O'Connell, Miyavi, Domhnall Gleeson, Garrett Hedlund","Ethan Coen, Joel Coen, Richard LaGravenese, William Nicholson",51%,70%
+211,straight outta compton,2015,R,147 min,"Biography, Drama, History",7.9,$161.20M,F. Gary Gray,"O'Shea Jackson Jr., Corey Hawkins, Jason Mitchell, Neil Brown Jr.","Jonathan Herman, Andrea Berloff",87%,91%
+212,the conjuring 2,2016,R,134 min,"Horror, Mystery, Thriller",7.4,$102.47M,James Wan,"Vera Farmiga, Patrick Wilson, Madison Wolfe, Frances O'Connor","Chad Hayes, Carey Hayes, David Leslie Johnson, James Wan",79%,81%
+213,crimson peak,2015,R,119 min,"Drama, Fantasy, Horror",6.5,$31.06M,Guillermo del Toro,"Mia Wasikowska, Jessica Chastain, Tom Hiddleston, Charlie Hunnam","Guillermo del Toro, Matthew Robbins, Lucinda Coxon",71%,55%
+214,the light between oceans,2016,PG-13,133 min,"Drama, Romance",7.2,$12.55M,Derek Cianfrance,"Michael Fassbender, Alicia Vikander, Rachel Weisz, Florence Clery",Derek Cianfrance,59%,61%
+215,blended,2014,PG-13,117 min,"Comedy, Romance",6.5,$46.29M,Frank Coraci,"Adam Sandler, Drew Barrymore, Wendi McLendon-Covey, Kevin Nealon","Ivan Menchell, Clare Sera",14%,63%
+216,bad moms,2016,R,100 min,Comedy,6.2,$113.26M,"Jon Lucas, Scott Moore","Mila Kunis, Kathryn Hahn, Kristen Bell, Christina Applegate","Jon Lucas, Scott Moore",58%,63%
+217,the star,2017,PG,86 min,"Animation, Adventure, Comedy",5.8,$40.85M,Timothy Reckart,"Steven Yeun, Keegan-Michael Key, Aidy Bryant, Gina Rodriguez","Simon Moore, Carlos Kotkin",45%,73%
+218,jason bourne,2016,PG-13,123 min,"Action, Thriller",6.6,$162.43M,Paul Greengrass,"Matt Damon, Tommy Lee Jones, Alicia Vikander, Vincent Cassel","Paul Greengrass, Christopher Rouse",55%,56%
+219,mom and dad,2017,R,86 min,"Horror, Thriller",5.5,,Brian Taylor,"Nicolas Cage, Selma Blair, Anne Winters, Zackary Arthur",Brian Taylor,73%,42%
+220,vacation,2015,R,99 min,"Adventure, Comedy",6.1,$58.88M,"John Francis Daley, Jonathan Goldstein","Ed Helms, Christina Applegate, Skyler Gisondo, Steele Stebbins","John Francis Daley, Jonathan M. Goldstein",26%,45%
+221,the legend of tarzan,2016,PG-13,110 min,"Action, Adventure, Drama",6.3,$126.64M,David Yates,"Alexander Skarsgrd, Rory J. Saper, Christian Stevens, Christoph Waltz","Adam Cozad, Craig Brewer",36%,59%
+222,the intern,2015,PG-13,121 min,"Comedy, Drama",7.1,$75.76M,Nancy Meyers,"Robert De Niro, Anne Hathaway, Rene Russo, Anders Holm",Nancy Meyers,60%,73%
+223,the accountant,2016,R,128 min,"Action, Crime, Drama",7.4,$86.26M,Gavin O'Connor,"Ben Affleck, Anna Kendrick, J.K. Simmons, Jon Bernthal",Bill Dubuque,52%,77%
+224,central intelligence,2016,PG-13,107 min,"Action, Comedy, Crime",6.3,$127.44M,Rawson Marshall Thurber,"Dwayne Johnson, Kevin Hart, Danielle Nicolet, Amy Ryan","Ike Barinholtz, David Stassen, Rawson Marshall Thurber",70%,61%
+225,paddington,2014,PG,95 min,"Animation, Adventure, Comedy",7.2,$76.22M,Paul King,"Hugh Bonneville, Sally Hawkins, Julie Walters, Jim Broadbent","Hamish McColl, Paul King",98%,80%
+226,just getting started,2017,PG-13,91 min,"Action, Comedy",4.1,$6.07M,Ron Shelton,"Morgan Freeman, Tommy Lee Jones, Rene Russo, Joe Pantoliano",Ron Shelton,5%,12%
+227,gravity,2013,PG-13,91 min,"Drama, Sci-Fi, Thriller",7.8,$274.09M,Alfonso Cuarn,"Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen","Alfonso Cuarón, Jonás Cuarón, Jonás Cuarón",96%,80%
+228,home again,2017,PG-13,97 min,"Comedy, Drama, Romance",5.7,$27.02M,Hallie Meyers-Shyer,"Reese Witherspoon, Michael Sheen, Candice Bergen, Pico Alexander",Hallie Meyers-Shyer,32%,46%
+229,1922,2017,TV-MA,102 min,"Crime, Drama, Mystery",6.3,,Zak Hilditch,"Thomas Jane, Molly Parker, Dylan Schmid, Kaitlyn Bernard",Zak Hilditch,86%,57%
+230,grown ups 2,2013,PG-13,101 min,Comedy,5.4,$133.67M,Dennis Dugan,"Adam Sandler, Kevin James, Chris Rock, David Spade","Adam Sandler, Tim Herlihy, Fred Wolf",7%,53%
+231,the nice guys,2016,R,116 min,"Action, Comedy, Crime",7.4,$36.26M,Shane Black,"Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer","Shane Black, Anthony Bagarozzi",92%,78%
+232,mike and dave need wedding dates,2016,R,98 min,"Adventure, Comedy, Romance",6.0,$46.01M,Jake Szymanski,"Zac Efron, Adam Devine, Anna Kendrick, Aubrey Plaza","Andrew Jay Cohen, Brendan O'Brien",35%,51%
+233,woody woodpecker,2017,PG,91 min,"Animation, Comedy, Family",4.2,,Alex Zamm,"Timothy Omundson, Thaila Ayala, Eric Bauza, Graham Verchere","Alex Zamm, Walter Lantz, William Robertson",20%,44%
+234,12 years a slave,2013,R,134 min,"Biography, Drama, History",8.1,$56.67M,Steve McQueen,"Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender, Brad Pitt",John Ridley,96%,90%
+235,finding dory,2016,PG,97 min,"Animation, Adventure, Comedy",7.3,$486.30M,"Andrew Stanton, Angus MacLane","Ellen DeGeneres, Albert Brooks, Ed O'Neill, Kaitlin Olson","Andrew Stanton, Victoria Strouse",94%,84%
+236,loving vincent,2017,PG-13,94 min,"Animation, Biography, Crime",7.9,$6.74M,"Dorota Kobiela, Hugh Welchman","Douglas Booth, Jerome Flynn, Robert Gulaczyk, Helen McCrory","Dorota Kobiela, Hugh Welchman, Jacek Dehnel",84%,86%
+237,godzilla,2014,PG-13,123 min,"Action, Adventure, Sci-Fi",6.4,$200.68M,Gareth Edwards,"Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston, Ken Watanabe","Dan Callahan, Frank Darabont, Max Borenstein",74%,66%
+238,lucy,2014,R,89 min,"Action, Sci-Fi, Thriller",6.4,$126.66M,Luc Besson,"Scarlett Johansson, Morgan Freeman, Min-sik Choi, Amr Waked",Luc Besson,67%,47%
+239,assassin's creed,2016,PG-13,115 min,"Action, Adventure, Fantasy",5.8,$54.65M,Justin Kurzel,"Michael Fassbender, Marion Cotillard, Jeremy Irons, Brendan Gleeson","Bill Collage, Adam Cooper, Michael Lesslie",18%,43%
+240,now you see me 2,2016,PG-13,129 min,"Action, Adventure, Comedy",6.5,$65.08M,Jon M. Chu,"Jesse Eisenberg, Mark Ruffalo, Woody Harrelson, Dave Franco",Ed Solomon,34%,53%
+241,kick-ass 2,2013,R,103 min,"Action, Comedy, Crime",6.6,$28.80M,Jeff Wadlow,"Aaron Taylor-Johnson, Chlo Grace Moretz, Christopher Mintz-Plasse, Jim Carrey",Jeff Wadlow,32%,57%
+242,american sniper,2014,R,133 min,"Action, Biography, Drama",7.3,$350.13M,Clint Eastwood,"Bradley Cooper, Sienna Miller, Kyle Gallner, Cole Konis",Jason Hall,72%,84%
+243,the lobster,2015,R,119 min,"Comedy, Drama, Romance",7.1,$8.70M,Yorgos Lanthimos,"Colin Farrell, Rachel Weisz, Jessica Barden, Olivia Colman","Yorgos Lanthimos, Efthimis Filippou",88%,64%
+244,silence,2016,R,161 min,"Adventure, Drama, History",7.2,$7.08M,Martin Scorsese,"Andrew Garfield, Adam Driver, Liam Neeson, Tadanobu Asano","Jay Cocks, Martin Scorsese",84%,69%
+245,my cousin rachel,2017,PG-13,106 min,"Drama, Mystery, Romance",6.0,$2.68M,Roger Michell,"Rachel Weisz, Sam Claflin, Holliday Grainger, Iain Glen",Roger Michell,76%,45%
+246,the lego batman movie,2017,PG,104 min,"Animation, Action, Adventure",7.3,$175.75M,Chris McKay,"Will Arnett, Michael Cera, Rosario Dawson, Ralph Fiennes","Seth Grahame-Smith, Chris McKenna, Erik Sommers, Jared Stern, John Whittington",90%,80%
+247,the amazing spider-man 2,2014,PG-13,142 min,"Action, Adventure, Sci-Fi",6.7,$202.85M,Marc Webb,"Andrew Garfield, Emma Stone, Jamie Foxx, Paul Giamatti","Roberto Orci, Alex Kurtzman, Jeff Pinkner",52%,64%
+248,exodus: gods and kings,2014,PG-13,150 min,"Action, Adventure, Drama",6.0,$65.01M,Ridley Scott,"Christian Bale, Joel Edgerton, Ben Kingsley, Sigourney Weaver","Steven Zaillian, Bill Collage, Adam Cooper",28%,35%
+249,sausage party,2016,R,89 min,"Animation, Adventure, Comedy",6.2,$97.66M,"Greg Tiernan, Conrad Vernon","Seth Rogen, Kristen Wiig, Jonah Hill, Alistair Abell","Kyle Hunter, Ariel Shaffir, Seth Rogen, Evan Goldberg",82%,50%
+250,stronger,2017,R,119 min,"Biography, Drama",7.0,$4.21M,David Gordon Green,"Jake Gyllenhaal, Tatiana Maslany, Miranda Richardson, Richard Lane Jr.",John Pollono,91%,82%
+251,jeepers creepers iii,2017,Not Rated,100 min,"Horror, Mystery, Thriller",4.2,$2.24M,Victor Salva,"Stan Shaw, Gabrielle Haugh, Brandon Smith, Meg Foster",Victor Salva,20%,37%
+252,inconceivable,2017,R,105 min,"Drama, Thriller",5.3,,Jonathan Baker,"Gina Gershon, Nicky Whelan, Nicolas Cage, Sienna Soho Baker",Chloe King,30%,70%
+253,nightcrawler,2014,R,118 min,"Crime, Drama, Thriller",7.9,$32.38M,Dan Gilroy,"Jake Gyllenhaal, Rene Russo, Bill Paxton, Riz Ahmed",Dan Gilroy,95%,85%
+254,jupiter ascending,2015,PG-13,127 min,"Action, Adventure, Sci-Fi",5.3,$47.39M,"Lana Wachowski, Lilly Wachowski","Channing Tatum, Mila Kunis, Eddie Redmayne, Sean Bean","Lana Wachowski, Lilly Wachowski",26%,38%
+255,legend,2015,R,132 min,"Biography, Crime, Drama",7.0,$1.87M,Brian Helgeland,"Tom Hardy, Emily Browning, Taron Egerton, Paul Anderson",Brian Helgeland,61%,59%
+256,noah,2014,PG-13,138 min,"Action, Adventure, Drama",5.8,$101.20M,Darren Aronofsky,"Russell Crowe, Jennifer Connelly, Anthony Hopkins, Emma Watson","John Logan, Darren Aronofsky, Ari Handel",76%,41%
+257,before i fall,2017,PG-13,98 min,"Drama, Mystery",6.4,$12.23M,Ry Russo-Young,"Zoey Deutch, Halston Sage, Cynthy Wu, Medalion Rahimi",Maria Maggenti,63%,56%
+258,don't breathe,2016,R,88 min,"Crime, Horror, Thriller",7.1,$89.22M,Fede Alvarez,"Stephen Lang, Jane Levy, Dylan Minnette, Daniel Zovatto","Fede Alvarez, Rodo Sayagues",87%,79%
+259,focus,2015,R,105 min,"Comedy, Crime, Drama",6.6,$53.86M,"Glenn Ficarra, John Requa","Will Smith, Margot Robbie, Rodrigo Santoro, Adrian Martinez","John Requa, Glenn Ficarra",56%,53%
+260,the great wall,2016,PG-13,103 min,"Action, Adventure, Fantasy",6.0,$45.54M,Yimou Zhang,"Matt Damon, Tian Jing, Willem Dafoe, Andy Lau","Carlo Bernard, Doug Miro, Tony Gilroy",35%,43%
+261,gold,2016,R,120 min,"Adventure, Drama, Thriller",6.7,$7.22M,Stephen Gaghan,"Matthew McConaughey, Edgar Ramrez, Bryce Dallas Howard, Corey Stoll","John Zinman, Patrick Massett",42%,46%
+262,newness,2017,,112 min,"Drama, Romance",6.4,,Drake Doremus,"Nicholas Hoult, Laia Costa, Danny Huston, Courtney Eaton",Ben York Jones,69%,62%
+263,miss sloane,2016,R,132 min,"Drama, Thriller",7.5,$3.44M,John Madden,"Jessica Chastain, Mark Strong, Gugu Mbatha-Raw, Michael Stuhlbarg",Jonathan Perera,75%,70%
+264,josie,2018,,100 min,"Drama, Thriller",4.6,,Eric England,"Sophie Turner, Dylan McDermott, Daeg Faerch, Jack Kilmer",Anthony Ragnone II,0%,62%
+265,american ultra,2015,R,96 min,"Action, Comedy, Sci-Fi",6.1,$14.43M,Nima Nourizadeh,"Jesse Eisenberg, Kristen Stewart, Connie Britton, John Leguizamo",Max Landis,43%,45%
+266,snatched,2017,R,90 min,"Action, Comedy",4.4,$45.83M,Jonathan Levine,"Amy Schumer, Goldie Hawn, Kim Caramele, Raven Goodwin",Katie Dippold,36%,30%
+267,the 5th wave,2016,PG-13,112 min,"Action, Adventure, Sci-Fi",5.2,$34.91M,J Blakeson,"Chlo Grace Moretz, Matthew Zuk, Gabriela Lopez, Bailey Anne Borders","Susannah Grant, Akiva Goldsman, Jeff Pinkner",15%,38%
+268,the expendables 3,2014,PG-13,126 min,"Action, Adventure, Thriller",6.1,$39.32M,Patrick Hughes,"Sylvester Stallone, Jason Statham, Jet Li, Antonio Banderas","Katrin Benedikt, Creighton Rothenberger, Sylvester Stallone",32%,49%
+269,the neon demon,2016,R,118 min,"Horror, Thriller",6.2,$1.33M,Nicolas Winding Refn,"Elle Fanning, Christina Hendricks, Keanu Reeves, Karl Glusman","Nicolas Winding Refn, Mary Laws, Polly Stenham",58%,51%
+270,a cure for wellness,2016,R,146 min,"Drama, Fantasy, Horror",6.4,$8.11M,Gore Verbinski,"Dane DeHaan, Jason Isaacs, Mia Goth, Ivo Nandi",Justin Haythe,41%,41%
+271,the belko experiment,2016,R,89 min,"Action, Horror, Thriller",6.1,$10.16M,Greg McLean,"John Gallagher Jr., Tony Goldwyn, Adria Arjona, John C. McGinley",James Gunn,52%,40%
+272,bone tomahawk,2015,Not Rated,132 min,"Adventure, Drama, Horror",7.1,,S. Craig Zahler,"Kurt Russell, Patrick Wilson, Matthew Fox, Richard Jenkins",S. Craig Zahler,90%,72%
+273,spy,2015,R,119 min,"Action, Comedy, Crime",7.0,$110.83M,Paul Feig,"Melissa McCarthy, Rose Byrne, Jude Law, Jason Statham",Paul Feig,94%,79%
+274,allegiant,2016,PG-13,120 min,"Action, Adventure, Mystery",5.7,$66.18M,Robert Schwentke,"Shailene Woodley, Theo James, Jeff Daniels, Naomi Watts","Noah Oppenheim, Adam Cooper, Bill Collage",12%,41%
+275,collateral beauty,2016,PG-13,97 min,"Drama, Romance",6.8,$30.98M,David Frankel,"Will Smith, Edward Norton, Kate Winslet, Michael Pea",Allan Loeb,14%,64%
+276,knock knock,2015,R,99 min,"Drama, Horror, Thriller",4.9,$0.04M,Eli Roth,"Keanu Reeves, Lorenza Izzo, Ana de Armas, Aaron Burns","Guillermo Amoedo, Nicolás López , Eli Roth",35%,21%
+277,need for speed,2014,PG-13,132 min,"Action, Crime, Thriller",6.5,$43.58M,Scott Waugh,"Aaron Paul, Dominic Cooper, Imogen Poots, Kid Cudi","John Gatins, George Gatins",22%,57%
+278,nerve,2016,PG-13,96 min,"Action, Adventure, Crime",6.6,$38.56M,"Henry Joost, Ariel Schulman","Emma Roberts, Dave Franco, Emily Meade, Miles Heizer",Jessica Sharzer,67%,66%
+279,dallas buyers club,2013,R,117 min,"Biography, Drama",8.0,$27.30M,Jean-Marc Valle,"Matthew McConaughey, Jennifer Garner, Jared Leto, Steve Zahn","Craig Borten, Melisa Wallack",93%,91%
+280,why him?,2016,R,111 min,Comedy,6.2,$60.27M,John Hamburg,"Zoey Deutch, James Franco, Tangie Ambrose, Cedric the Entertainer","John Hamburg, Ian Helfer",39%,51%
+281,red 2,2013,PG-13,116 min,"Action, Comedy, Crime",6.7,$53.26M,Dean Parisot,"Bruce Willis, Helen Mirren, John Malkovich, Anthony Hopkins","Jon Hoeber, Erich Hoeber",43%,63%
+282,brimstone,2016,R,148 min,"Thriller, Western",7.1,,Martin Koolhoven,"Dakota Fanning, Paul Anderson, Kit Harington, Carice van Houten",Martin Koolhoven,39%,54%
+283,the open house,2018,TV-MA,94 min,"Horror, Thriller",3.3,,"Matt Angel, Suzanne Coote","Dylan Minnette, Piercey Dalton, Patricia Bethune, Sharif Atkins","Matt Angel, Suzanne Coote",13%,9%
+284,the lego movie,2014,PG,100 min,"Animation, Action, Adventure",7.8,$257.76M,"Phil Lord, Christopher Miller","Chris Pratt, Will Ferrell, Elizabeth Banks, Will Arnett","Dan Hageman, Roy Lee, Christopher Miller, Phil Lord",96%,87%
+285,the fault in our stars,2014,PG-13,126 min,"Drama, Romance",7.8,$124.87M,Josh Boone,"Shailene Woodley, Ansel Elgort, Nat Wolff, Laura Dern","Michael H. Weber, Scott Neustadter",80%,85%
+286,risen,2016,PG-13,107 min,"Action, Adventure, Drama",6.3,$36.87M,Kevin Reynolds,"Joseph Fiennes, Tom Felton, Peter Firth, Cliff Curtis","Kevin Reynolds, Paul Aiello",52%,69%
+287,enemy,2013,R,91 min,"Mystery, Thriller",6.9,$1.01M,Denis Villeneuve,"Jake Gyllenhaal, Mlanie Laurent, Sarah Gadon, Isabella Rossellini",Javier Gullón,74%,63%
+288,insidious: chapter 3,2015,PG-13,97 min,"Horror, Mystery, Thriller",6.1,$52.22M,Leigh Whannell,"Dermot Mulroney, Stefanie Scott, Angus Sampson, Leigh Whannell",Leigh Whannell,58%,51%
+289,taken 3,2014,PG-13,108 min,"Action, Thriller",6.0,$89.26M,Olivier Megaton,"Liam Neeson, Forest Whitaker, Maggie Grace, Famke Janssen","Robert Mark Kamen, Luc Besson",12%,44%
+290,r.i.p.d.,2013,PG-13,96 min,"Action, Adventure, Comedy",5.6,$33.62M,Robert Schwentke,"Ryan Reynolds, Jeff Bridges, Mary-Louise Parker, Kevin Bacon","Phil Hay, Matt Manfredi",14%,38%
+291,allied,2016,R,124 min,"Action, Drama, Romance",7.1,$40.07M,Robert Zemeckis,"Brad Pitt, Marion Cotillard, Jared Harris, Vincent Ebrahim",Steven Knight,59%,64%
+292,the mortal instruments: city of bones,2013,PG-13,130 min,"Action, Fantasy, Horror",5.9,$31.17M,Harald Zwart,"Lily Collins, Jamie Campbell Bower, Robert Sheehan, Jemima West","Jessica Postigo Paquette, I. Marlene King",13%,58%
+293,the forgiven,2017,R,115 min,Thriller,5.5,,Roland Joff,"Forest Whitaker, Eric Bana, Jeff Gum, Morn Visser","Roland Joffé, Michael Ashton",52%,50%
+294,tomorrowland,2015,PG,130 min,"Action, Adventure, Family",6.5,$93.44M,Brad Bird,"George Clooney, Britt Robertson, Hugh Laurie, Raffey Cassidy","Brad Bird, Damon Lindelof",50%,49%
+295,jack reacher: never go back,2016,PG-13,118 min,"Action, Adventure, Crime",6.1,$58.70M,Edward Zwick,"Tom Cruise, Cobie Smulders, Aldis Hodge, Robert Knepper","Richard Wenk, Edward Zwick, Marshall Herskovitz",38%,42%
+296,hercules,2014,PG-13,98 min,"Action, Adventure, Fantasy",6.0,$72.69M,Brett Ratner,"Dwayne Johnson, John Hurt, Ian McShane, Joseph Fiennes","Ryan Condal, Evan Spiliotopoulos",59%,48%
+297,the shack,2017,PG-13,132 min,"Drama, Fantasy",6.3,$57.33M,Stuart Hazeldine,"Sam Worthington, Octavia Spencer, Tim McGraw, Radha Mitchell","John Fusco, Andrew Lanham, Destin Daniel Cretton",19%,77%
+298,the stanford prison experiment,2015,R,122 min,"Biography, Drama, History",6.9,$0.64M,Kyle Patrick Alvarez,"Ezra Miller, Tye Sheridan, Billy Crudup, Olivia Thirlby",Tim Talbott,84%,76%
+299,furious 6,2013,PG-13,130 min,"Action, Crime, Thriller",7.1,$238.68M,Justin Lin,"Vin Diesel, Paul Walker, Dwayne Johnson, Michelle Rodriguez",Chris Morgan,69%,83%
+300,the age of adaline,2015,PG-13,112 min,"Drama, Fantasy, Romance",7.2,$42.48M,Lee Toland Krieger,"Blake Lively, Michiel Huisman, Harrison Ford, Kathy Baker","Salvador Paskowitz, Allison Burnett, J. Mills Goodloe",56%,67%
+301,dracula untold,2014,PG-13,92 min,"Action, Drama, Fantasy",6.3,$56.28M,Gary Shore,"Luke Evans, Dominic Cooper, Sarah Gadon, Art Parkinson","Bram Stoker, Burk Sharpless, Matt Sazama",24%,57%
+302,scouts guide to the zombie apocalypse,2015,R,93 min,"Action, Comedy, Horror",6.3,$3.64M,Christopher Landon,"Tye Sheridan, Logan Miller, Joey Morgan, Sarah Dumont","Emi Mochizuki, Carrie Evans, Lona Williams, Christopher Landon",44%,48%
+303,teenage mutant ninja turtles: out of the shadows,2016,PG-13,112 min,"Action, Adventure, Comedy",6.0,$82.05M,Dave Green,"Megan Fox, Will Arnett, Tyler Perry, Laura Linney","Peter Laird, Kevin Eastman, Josh Appelbaum, André Nemec, Josh Applebaum",35%,47%
+304,trainwreck,2015,R,125 min,"Comedy, Drama, Romance",6.2,$110.21M,Judd Apatow,"Amy Schumer, Bill Hader, Brie Larson, Colin Quinn",Amy Schumer,86%,66%
+305,war dogs,2016,R,114 min,"Comedy, Crime, Drama",7.1,$43.02M,Todd Phillips,"Jonah Hill, Miles Teller, Steve Lantz, Gregg Weiner","Stephen Chin, Jason Smilovic, Todd Phillips",59%,69%
+306,chips,2017,R,100 min,"Action, Comedy, Crime",6.0,$18.59M,Dax Shepard,"Michael Pea, Dax Shepard, Vincent D'Onofrio, Rosa Salazar",Dax Shepard,17%,45%
+307,daddy's home,2015,PG-13,96 min,Comedy,6.1,$150.36M,Sean Anders,"Will Ferrell, Mark Wahlberg, Linda Cardellini, Thomas Haden Church","John Morris, Brian Burns, Sean Anders",31%,49%
+308,the zookeeper's wife,2017,PG-13,127 min,"Biography, Drama, History",7.0,$17.45M,Niki Caro,"Jessica Chastain, Johan Heldenbergh, Daniel Brhl, Timothy Radford",Angela Workman,61%,76%
+309,the glass castle,2017,PG-13,127 min,"Biography, Drama",7.1,$17.27M,Destin Daniel Cretton,"Brie Larson, Woody Harrelson, Naomi Watts, Ella Anderson","Destin Daniel Cretton, Andrew Lanham",50%,73%
+310,the invitation,2015,Not Rated,100 min,"Drama, Mystery, Thriller",6.7,$0.23M,Karyn Kusama,"Logan Marshall-Green, Emayatzy Corinealdi, Michiel Huisman, Tammy Blanchard","Phil Hay, Matt Manfredi",88%,70%
+311,marshall,2017,PG-13,118 min,"Biography, Drama",7.2,$10.05M,Reginald Hudlin,"Chadwick Boseman, Josh Gad, Kate Hudson, Sterling K. Brown","Jacob Koskoff, Michael Koskoff",83%,85%
+312,hunt for the wilderpeople,2016,PG-13,101 min,"Adventure, Comedy, Drama",7.9,$5.20M,Taika Waititi,"Sam Neill, Julian Dennison, Rima Te Wiata, Rachel House",Taika Waititi,97%,91%
+313,the shallows,2016,PG-13,86 min,"Drama, Horror, Thriller",6.3,$55.12M,Jaume Collet-Serra,"Blake Lively, scar Jaenada, Angelo Josue Lozano Corzo, Joseph Salas",Anthony Jaswinski,78%,59%
+314,underworld: blood wars,2016,R,91 min,"Action, Adventure, Fantasy",5.8,$30.35M,Anna Foerster,"Kate Beckinsale, Theo James, Tobias Menzies, Lara Pulver",Cory Goodman,20%,50%
+315,last flag flying,2017,R,125 min,"Comedy, Drama, War",6.9,$0.97M,Richard Linklater,"Bryan Cranston, Laurence Fishburne, Steve Carell, J. Quinton Johnson","Richard Linklater, Darryl Ponicsan",76%,70%
+316,the huntsman: winter's war,2016,PG-13,114 min,"Action, Adventure, Drama",6.1,$48.39M,Cedric Nicolas-Troyan,"Chris Hemsworth, Jessica Chastain, Charlize Theron, Emily Blunt","Craig Mazin, Evan Spiliotopoulos",17%,46%
+317,same kind of different as me,2017,PG-13,119 min,Drama,6.3,$6.42M,Michael Carney,"Greg Kinnear, Rene Zellweger, Djimon Hounsou, Jon Voight","Michael Carney , Alexander Foard, Ron Hall",38%,90%
+318,sin city: a dame to kill for,2014,R,102 min,"Crime, Thriller",6.5,$13.76M,"Frank Miller, Robert Rodriguez","Mickey Rourke, Jessica Alba, Josh Brolin, Joseph Gordon-Levitt","William Monahan, Frank Miller",43%,44%
+319,"hail, caesar!",2016,PG-13,106 min,"Comedy, Mystery",6.3,$30.08M,"Ethan Coen, Joel Coen","Josh Brolin, George Clooney, Alden Ehrenreich, Ralph Fiennes","Joel Coen, Ethan Coen",85%,44%
+320,the layover,2017,R,88 min,Comedy,4.7,,William H. Macy,"Kate Upton, Alexandra Daddario, Matt Barr, Matt Jones","David Hornsby, Lance Krall",0%,24%
+321,mother's day,2016,PG-13,118 min,"Comedy, Drama",5.6,$32.46M,Garry Marshall,"Jennifer Aniston, Kate Hudson, Julia Roberts, Jason Sudeikis","Anya Kochoff, Matthew Walker, Tom Hines",6%,44%
+322,the meyerowitz stories (new and selected),2017,TV-MA,112 min,"Comedy, Drama",7.0,,Noah Baumbach,"Adam Sandler, Grace Van Patten, Dustin Hoffman, Elizabeth Marvel",Noah Baumbach,92%,73%
+323,300: rise of an empire,2014,R,102 min,"Action, Fantasy",6.2,$106.58M,Noam Murro,"Sullivan Stapleton, Eva Green, Lena Headey, Hans Matheson","Zack Snyder, Kurt Johnstad",43%,51%
+324,death note,2017,TV-MA,101 min,"Adventure, Crime, Drama",4.6,,Adam Wingard,"Nat Wolff, Lakeith Stanfield, Margaret Qualley, Shea Whigham","Charley Parlapanides, Vlas Parlapanides, Jeremy Slater",41%,25%
+325,the founder,2016,PG-13,115 min,"Biography, Drama, History",7.2,$12.79M,John Lee Hancock,"Michael Keaton, Nick Offerman, John Carroll Lynch, Linda Cardellini",Robert D. Siegel,83%,82%
+326,t2 trainspotting,2017,R,117 min,Drama,7.3,$2.40M,Danny Boyle,"Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Robert Carlyle",John Hodge,79%,78%
+327,god's own country,2017,Not Rated,104 min,"Drama, Romance",7.7,$0.34M,Francis Lee,"Josh O'Connor, Alec Secareanu, Gemma Jones, Ian Hart",Francis Lee,99%,85%
+328,mark felt: the man who brought down the white house,2017,PG-13,103 min,"Biography, Drama, History",6.4,$0.77M,Peter Landesman,"Liam Neeson, Diane Lane, Marton Csokas, Tony Goldwyn",Peter Landesman,35%,43%
+329,chappie,2015,R,120 min,"Action, Crime, Drama",6.8,$31.57M,Neill Blomkamp,"Sharlto Copley, Dev Patel, Hugh Jackman, Sigourney Weaver","Terri Tatchell, Neill Blomkamp",32%,56%
+330,carrie,2013,R,100 min,"Drama, Horror",5.9,$35.27M,Kimberly Peirce,"Chlo Grace Moretz, Julianne Moore, Gabriella Wilde, Portia Doubleday","Roberto Aguirre-Sacasa, Lawrence D. Cohen",49%,44%
+331,the babadook,2014,Not Rated,93 min,"Drama, Horror",6.8,$0.92M,Jennifer Kent,"Essie Davis, Noah Wiseman, Daniel Henshall, Hayley McElhinney",Jennifer Kent,98%,72%
+332,all eyez on me,2017,R,139 min,"Biography, Drama, Music",5.8,$44.92M,Benny Boom,"Demetrius Shipp Jr., Danai Gurira, Kat Graham, Annie Ilonzeh","Jeremy Haft, Steven Bagatourian, Eddie Gonzalez",17%,53%
+333,monster family,2017,PG,93 min,"Animation, Comedy, Family",4.6,$0.11M,Holger Tappe,"Emily Watson, Jason Isaacs, Nick Frost, Jessica Brown Findlay",Catharina Junk,10%,22%
+334,"love, rosie",2014,R,102 min,"Comedy, Romance",7.2,$0.01M,Christian Ditter,"Lily Collins, Sam Claflin, Christian Cooke, Jaime Winstone",Juliette Towhidi,31%,62%
+335,carol,2015,R,118 min,"Drama, Romance",7.2,$12.71M,Todd Haynes,"Cate Blanchett, Rooney Mara, Sarah Paulson, Kyle Chandler",Phyllis Nagy,95%,73%
+336,inherent vice,2014,R,148 min,"Comedy, Crime, Drama",6.7,$8.11M,Paul Thomas Anderson,"Joaquin Phoenix, Josh Brolin, Owen Wilson, Katherine Waterston",Paul Thomas Anderson,73%,52%
+337,southpaw,2015,R,124 min,"Drama, Sport",7.4,$52.42M,Antoine Fuqua,"Jake Gyllenhaal, Rachel McAdams, Oona Laurence, Forest Whitaker","Kurt Sutter, Richard Wenk",59%,75%
+338,white house down,2013,PG-13,131 min,"Action, Drama, Thriller",6.4,$73.10M,Roland Emmerich,"Channing Tatum, Jamie Foxx, Maggie Gyllenhaal, Jason Clarke",James Vanderbilt,50%,62%
+339,7 guardians of the tomb,2018,TV-MA,90 min,"Action, Adventure",5.0,,Kimble Rendall,"Bingbing Li, Kelsey Grammer, Kellan Lutz, Yasmin Kassim","Kimble Rendall, Paul Staheli",0%,22%
+340,the other woman,2014,PG-13,109 min,"Comedy, Romance",6.0,$83.91M,Nick Cassavetes,"Cameron Diaz, Leslie Mann, Kate Upton, Nikolaj Coster-Waldau",Melissa Stack,25%,57%
+341,teenage mutant ninja turtles,2014,PG-13,101 min,"Action, Adventure, Comedy",5.8,$191.20M,Jonathan Liebesman,"Megan Fox, Will Arnett, William Fichtner, Noel Fisher","Josh Appelbaum, André Nemec",22%,51%
+342,despicable me 2,2013,PG,98 min,"Animation, Adventure, Comedy",7.4,$368.06M,"Pierre Coffin, Chris Renaud","Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove","Cinco Paul, Ken Daurio",74%,85%
+343,foxcatcher,2014,R,134 min,"Biography, Drama, Sport",7.0,$12.10M,Bennett Miller,"Steve Carell, Channing Tatum, Mark Ruffalo, Vanessa Redgrave","Dan Futterman, E. Max Frye",88%,66%
+344,independence day: resurgence,2016,PG-13,120 min,"Action, Adventure, Sci-Fi",5.2,$103.14M,Roland Emmerich,"Liam Hemsworth, Jeff Goldblum, Bill Pullman, Maika Monroe","Nicolas Wright, James A. Woods, Dean Devlin, Roland Emmerich, Jamie Vanderbilt, James Vanderbilt",31%,30%
+345,me and earl and the dying girl,2015,PG-13,105 min,"Comedy, Drama",7.8,$6.74M,Alfonso Gomez-Rejon,"Thomas Mann, RJ Cyler, Olivia Cooke, Nick Offerman",Jesse Andrews,82%,86%
+346,insidious: chapter 2,2013,PG-13,106 min,"Horror, Mystery, Thriller",6.6,$83.59M,James Wan,"Patrick Wilson, Rose Byrne, Barbara Hershey, Lin Shaye",Leigh Whannell,39%,56%
+347,the bad batch,2016,R,118 min,"Drama, Horror, Romance",5.3,$0.18M,Ana Lily Amirpour,"Suki Waterhouse, Jason Momoa, Jayda Fink, Keanu Reeves",Ana Lily Amirpour,42%,30%
+348,the last witch hunter,2015,PG-13,106 min,"Action, Adventure, Fantasy",6.0,$27.37M,Breck Eisner,"Vin Diesel, Rose Leslie, Elijah Wood, lafur Darri lafsson","Matt Sazama, Burk Sharpless, Cory Goodman",17%,43%
+349,24 hours to live,2017,R,93 min,"Action, Sci-Fi, Thriller",5.7,,Brian Smrz,"Paul Anderson, Ethan Hawke, Rutger Hauer, Liam Cunningham","Zach Dean, Jim McClain, Ron Mita",43%,36%
+350,under the skin,2013,R,108 min,"Drama, Sci-Fi, Thriller",6.3,$2.61M,Jonathan Glazer,"Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay, Dougie McConnell","Walter Campbell, Jonathan Glazer",84%,55%
+351,the breadwinner,2017,PG-13,94 min,"Animation, Drama, Family",7.6,$0.31M,Nora Twomey,"Saara Chaudry, Soma Chhaya, Noorin Gulamgaus, Laara Sadiq",Anita Doron,94%,88%
+352,churchill,2017,PG,105 min,"Biography, Drama, History",6.4,$1.24M,Jonathan Teplitzky,"Brian Cox, Miranda Richardson, John Slattery, Julian Wadham",Alex von Tunzelmann,49%,60%
+353,the choice,2016,PG-13,111 min,"Drama, Romance",6.6,$18.71M,Ross Katz,"Benjamin Walker, Teresa Palmer, Alexandra Daddario, Maggie Grace",Bryan Sipe,11%,62%
+354,all i see is you,2016,R,109 min,"Drama, Mystery",5.2,$0.22M,Marc Forster,"Blake Lively, Jason Clarke, Ahna O'Reilly, Miquel Fernndez","Marc Forster, Sean Conway",28%,39%
+355,the autopsy of jane doe,2016,R,86 min,"Horror, Mystery, Thriller",6.8,,Andr vredal,"Brian Cox, Emile Hirsch, Ophelia Lovibond, Michael McElhatton","Ian B. Goldberg, Richard Naing",86%,69%
+356,elysium,2013,R,109 min,"Action, Drama, Sci-Fi",6.6,$93.05M,Neill Blomkamp,"Matt Damon, Jodie Foster, Sharlto Copley, Alice Braga",Neill Blomkamp,67%,58%
+357,god's not dead,2014,PG,113 min,Drama,4.8,$60.76M,Harold Cronk,"Shane Harper, Kevin Sorbo, David A.R. White, Dean Cain","Chuck Konzelman, Cary Solomon",15%,76%
+358,steve jobs,2015,R,122 min,"Biography, Drama",7.2,$17.75M,Danny Boyle,"Michael Fassbender, Kate Winslet, Seth Rogen, Jeff Daniels",Aaron Sorkin,86%,73%
+359,black mass,2015,R,123 min,"Biography, Crime, Drama",6.9,$62.58M,Scott Cooper,"Johnny Depp, Benedict Cumberbatch, Dakota Johnson, Joel Edgerton","Mark Mallouk, Jez Butterworth",73%,68%
+360,beyond skyline,2017,R,106 min,"Action, Adventure, Horror",5.4,$0.99M,Liam O'Donnell,"Frank Grillo, Bojana Novakovic, Jonny Weston, Callan Mulvey",Liam O'Donnell,73%,43%
+361,snowden,2016,R,134 min,"Biography, Drama, Thriller",7.3,$21.59M,Oliver Stone,"Joseph Gordon-Levitt, Shailene Woodley, Melissa Leo, Zachary Quinto","Kieran Fitzgerald, Oliver Stone",61%,70%
+362,the finest hours,2016,PG-13,117 min,"Action, Drama, History",6.8,$27.55M,Craig Gillespie,"Chris Pine, Casey Affleck, Ben Foster, Eric Bana","Eric Johnson, Paul Tamasy, Scott Silver",64%,66%
+363,the world's end,2013,R,109 min,"Action, Comedy, Sci-Fi",7.0,$26.00M,Edgar Wright,"Simon Pegg, Nick Frost, Martin Freeman, Rosamund Pike","Edgar Wright, Simon Pegg",89%,71%
+364,how to train your dragon 2,2014,PG,102 min,"Animation, Action, Adventure",7.8,$177.00M,Dean DeBlois,"Jay Baruchel, Cate Blanchett, Gerard Butler, Craig Ferguson",Dean DeBlois,91%,89%
+365,captain underpants: the first epic movie,2017,PG,89 min,"Animation, Action, Comedy",6.2,$73.92M,David Soren,"Kevin Hart, Thomas Middleditch, Ed Helms, Nick Kroll",Nicholas Stoller,86%,61%
+366,brad's status,2017,R,102 min,"Comedy, Drama, Music",6.5,$2.13M,Mike White,"Ben Stiller, Austin Abrams, Jenna Fischer, Michael Sheen",Mike White,82%,56%
+367,escape plan,2013,R,115 min,"Action, Crime, Mystery",6.7,$25.13M,Mikael Hfstrm,"Sylvester Stallone, Arnold Schwarzenegger, 50 Cent, Vincent D'Onofrio","Miles Chapman, Arnell Jesko",50%,55%
+368,the little hours,2017,R,90 min,"Comedy, Romance",5.8,$1.65M,Jeff Baena,"Alison Brie, Dave Franco, Kate Micucci, Aubrey Plaza",Jeff Baena,78%,49%
+369,green room,2015,R,95 min,"Crime, Horror, Thriller",7.0,$3.22M,Jeremy Saulnier,"Anton Yelchin, Imogen Poots, Alia Shawkat, Patrick Stewart",Jeremy Saulnier,90%,75%
+370,don jon,2013,R,90 min,"Comedy, Drama, Romance",6.6,$24.48M,Joseph Gordon-Levitt,"Joseph Gordon-Levitt, Scarlett Johansson, Julianne Moore, Tony Danza",Joseph Gordon-Levitt,80%,58%
+371,hotel transylvania 2,2015,PG,89 min,"Animation, Comedy, Family",6.7,$169.70M,Genndy Tartakovsky,"Adam Sandler, Andy Samberg, Selena Gomez, Kevin James","Robert Smigel, Adam Sandler",55%,64%
+372,the lone ranger,2013,PG-13,150 min,"Action, Adventure, Western",6.5,$89.30M,Gore Verbinski,"Johnny Depp, Armie Hammer, William Fichtner, Tom Wilkinson","Justin Haythe, Ted Elliott, Terry Rossio",31%,51%
+373,zoolander 2,2016,PG-13,101 min,Comedy,4.7,$28.85M,Ben Stiller,"Ben Stiller, Owen Wilson, Penlope Cruz, Will Ferrell","Justin Theroux, Ben Stiller, Nicholas Stoller, John Hamburg",23%,20%
+374,a dog's purpose,2017,PG,100 min,"Adventure, Comedy, Drama",6.9,$64.30M,Lasse Hallstrm,"Josh Gad, Dennis Quaid, Peggy Lipton, Bryce Gheisar","W. Bruce Cameron, Cathryn Michon, Audrey Wells, Maya Forbes, Wallace Wolodarsky",33%,73%
+375,unforgettable,2017,R,100 min,"Drama, Thriller",5.0,$11.27M,Denise Di Novi,"Rosario Dawson, Katherine Heigl, Geoff Stults, Isabella Kai Rice",Christina Hodson,26%,34%
+376,the lego ninjago movie,2017,PG,101 min,"Animation, Action, Adventure",6.0,$59.28M,"Charlie Bean, Paul Fisher, Bob Logan","Jackie Chan, Dave Franco, Fred Armisen, Kumail Nanjiani","Hilary Winston, Bob Logan, Paul Fisher",54%,46%
+377,the giver,2014,PG-13,97 min,"Drama, Romance, Sci-Fi",6.5,$45.09M,Phillip Noyce,"Brenton Thwaites, Jeff Bridges, Meryl Streep, Taylor Swift","Robert B. Weide, Michael Mitnick",35%,55%
+378,inferno,2016,PG-13,121 min,"Action, Adventure, Crime",6.2,$34.34M,Ron Howard,"Tom Hanks, Felicity Jones, Irrfan Khan, Ben Foster",David Koepp,22%,36%
+379,secret in their eyes,2015,PG-13,111 min,"Crime, Drama, Mystery",6.3,$20.18M,Billy Ray,"Chiwetel Ejiofor, Nicole Kidman, Julia Roberts, Dean Norris",Billy Ray,40%,41%
+380,boyhood,2014,R,165 min,Drama,7.9,$25.38M,Richard Linklater,"Ellar Coltrane, Patricia Arquette, Ethan Hawke, Elijah Smith",Richard Linklater,97%,80%
+381,the brothers grimsby,2016,R,83 min,"Action, Adventure, Comedy",6.2,$6.86M,Louis Leterrier,"Sacha Baron Cohen, Mark Strong, Rebel Wilson, Freddie Crowder","Sacha Baron Cohen, Peter Baynham, Phil Johnston",37%,41%
+382,war machine,2017,TV-MA,122 min,"Comedy, Drama, War",6.0,,David Michd,"Brad Pitt, Daniel Betts, John Magaro, Emory Cohen",David Michôd,51%,34%
+383,predestination,2014,R,97 min,"Drama, Mystery, Sci-Fi",7.5,$0.07M,"Michael Spierig, Peter Spierig","Ethan Hawke, Sarah Snook, Noah Taylor, Madeleine West","Michael Spierig, Peter Spierig",84%,75%
+384,angry birds,2016,PG,97 min,"Animation, Action, Adventure",6.3,$107.51M,"Clay Kaytis, Fergal Reilly","Jason Sudeikis, Josh Gad, Danny McBride, Maya Rudolph",Jon Vitti,44%,46%
+385,robocop,2014,PG-13,117 min,"Action, Crime, Sci-Fi",6.2,$58.61M,Jos Padilha,"Joel Kinnaman, Gary Oldman, Michael Keaton, Abbie Cornish","Ed Neumeier, Michael Miner, Joshua Zetumer, Nick Schenk",49%,49%
+386,the interview,2014,R,112 min,Comedy,6.6,$6.11M,"Evan Goldberg, Seth Rogen","James Franco, Seth Rogen, Randall Park, Lizzy Caplan","Seth Rogen, Evan Goldberg",51%,48%
+387,walk of shame,2014,R,95 min,Comedy,6.0,$0.04M,Steven Brill,"Elizabeth Banks, James Marsden, Gillian Jacobs, Sarah Wright",Steven Brill,12%,37%
+388,novitiate,2017,R,123 min,Drama,6.6,$0.58M,Maggie Betts,"Eline Powell, Dianna Agron, Julianne Nicholson, Margaret Qualley",Margaret Betts,87%,71%
+389,a monster calls,2016,PG-13,108 min,"Animation, Drama, Fantasy",7.5,$3.73M,J.A. Bayona,"Lewis MacDougall, Sigourney Weaver, Felicity Jones, Toby Kebbell",Patrick Ness,86%,81%
+390,pan,2015,PG,111 min,"Adventure, Family, Fantasy",5.8,$35.09M,Joe Wright,"Levi Miller, Hugh Jackman, Garrett Hedlund, Rooney Mara",Jason Fuchs,27%,41%
+391,mi-5,2015,R,104 min,"Action, Drama, Thriller",6.2,,Bharat Nalluri,"Kit Harington, Peter Firth, Jennifer Ehle, Michael Wildman","Samuel Vincent, Jonathan Brackley, Sam Vincent",62%,50%
+392,wakefield,2016,R,106 min,Drama,6.4,$0.26M,Robin Swicord,"Bryan Cranston, Jennifer Garner, Victoria Bruno, Ellery Sprayberry",Robin Swicord,75%,54%
+393,megan leavey,2017,PG-13,116 min,"Biography, Drama, War",7.1,$13.41M,Gabriela Cowperthwaite,"Kate Mara, Ramon Rodriguez, Tom Felton, Bradley Whitford","Pamela Gray, Annie Mumolo, Tim Lovestedt",84%,83%
+394,hush,2016,R,81 min,"Horror, Thriller",6.6,,Mike Flanagan,"John Gallagher Jr., Kate Siegel, Michael Trucco, Samantha Sloyan","Mike Flanagan, Kate Siegel",94%,73%
+395,jackie,2016,R,100 min,"Biography, Drama, History",6.7,$13.96M,Pablo Larran,"Natalie Portman, Peter Sarsgaard, Greta Gerwig, Billy Crudup",Noah Oppenheim,88%,60%
+396,the wolverine,2013,PG-13,126 min,"Action, Adventure, Sci-Fi",6.7,$132.56M,James Mangold,"Hugh Jackman, Will Yun Lee, Tao Okamoto, Rila Fukushima","Christopher McQuarrie, Scott Frank, Mark Bomback",69%,69%
+397,dirty grandpa,2016,R,102 min,Comedy,5.9,$35.54M,Dan Mazer,"Robert De Niro, Zac Efron, Zoey Deutch, Aubrey Plaza","John Philips, John Phillips",11%,44%
+398,sully,2016,PG-13,96 min,"Biography, Drama",7.5,$125.07M,Clint Eastwood,"Tom Hanks, Aaron Eckhart, Laura Linney, Valerie Mahaffey",Todd Komarnicki,86%,84%
+399,burnt,2015,R,101 min,"Comedy, Drama",6.6,$13.65M,John Wells,"Bradley Cooper, Sienna Miller, Daniel Brhl, Riccardo Scamarcio","Steven Knight, Michael Kalesniko",29%,44%
+400,triple 9,2016,R,115 min,"Action, Crime, Drama",6.3,$12.63M,John Hillcoat,"Casey Affleck, Chiwetel Ejiofor, Anthony Mackie, Aaron Paul",Matt Cook,53%,42%
+401,victoria & abdul,2017,PG-13,111 min,"Biography, Drama, History",6.8,$22.25M,Stephen Frears,"Judi Dench, Ali Fazal, Tim Pigott-Smith, Eddie Izzard",Lee Hall,66%,68%
+402,colossal,2016,R,109 min,"Action, Comedy, Drama",6.2,$3.02M,Nacho Vigalondo,"Anne Hathaway, Jason Sudeikis, Austin Stowell, Tim Blake Nelson",Nacho Vigalondo,80%,59%
+403,lights out,2016,PG-13,81 min,Horror,6.3,$67.27M,David F. Sandberg,"Teresa Palmer, Gabriel Bateman, Maria Bello, Billy Burke",Eric Heisserer,76%,62%
+404,whisky galore,2016,TV-14,98 min,"Comedy, Romance",5.6,,Gillies MacKinnon,"James Cosmo, Sean Biggerstaff, Eddie Izzard, Naomi Battrick",Peter McDougall,41%,58%
+405,criminal,2016,R,113 min,"Action, Crime, Drama",6.3,$14.27M,Ariel Vromen,"Kevin Costner, Ryan Reynolds, Gal Gadot, Gary Oldman","Douglas S. Cook, David Weisberg",30%,47%
+406,pixels,2015,PG-13,105 min,"Action, Comedy, Fantasy",5.6,$78.75M,Chris Columbus,"Adam Sandler, Kevin James, Michelle Monaghan, Peter Dinklage","Tim Herlihy, Adam Sandler, Timothy Dowling",17%,46%
+407,resident evil: the final chapter,2016,R,107 min,"Action, Horror, Sci-Fi",5.6,$26.83M,Paul W.S. Anderson,"Milla Jovovich, Iain Glen, Ali Larter, Shawn Roberts",Paul W.S. Anderson,36%,49%
+408,dawn of the planet of the apes,2014,PG-13,130 min,"Action, Adventure, Drama",7.6,$208.55M,Matt Reeves,"Gary Oldman, Keri Russell, Andy Serkis, Kodi Smit-McPhee","Rick Jaffa, Amanda Silver, Mark Bomback",90%,88%
+409,sex tape,2014,R,94 min,"Comedy, Romance",5.1,$38.54M,Jake Kasdan,"Jason Segel, Cameron Diaz, Rob Corddry, Ellie Kemper","Kate Angelo, Jason Segel, Nicholas Stoller",17%,33%
+410,my little pony: the movie,2017,PG,99 min,"Animation, Adventure, Comedy",6.2,$21.89M,Jayson Thiessen,"Emily Blunt, Kristin Chenoweth, Liev Schreiber, Michael Pea","Joe Ballarini, Meghan McCarthy, Rita Hsiao, Michael Vogel",47%,77%
+411,swiss army man,2016,R,97 min,"Adventure, Comedy, Drama",7.0,$4.21M,"Dan Kwan, Daniel Scheinert","Paul Dano, Daniel Radcliffe, Mary Elizabeth Winstead, Antonia Ribero","Daniel Kwan, Daniel Scheinert",69%,72%
+412,fences,2016,PG-13,139 min,Drama,7.2,$57.64M,Denzel Washington,"Denzel Washington, Viola Davis, Stephen Henderson, Jovan Adepo",August Wilson,94%,75%
+413,thank you for your service,2017,R,109 min,"Biography, Drama, War",6.5,$9.47M,Jason Hall,"Miles Teller, Beulah Koale, Joe Cole, Scott Haze",Jason Hall,77%,75%
+414,aftermath,2017,R,94 min,"Drama, Thriller",5.7,,Elliott Lester,"Arnold Schwarzenegger, Scoot McNairy, Maggie Grace, Judah Nelson",Javier Gullón,41%,25%
+415,on body and soul,2017,Not Rated,116 min,"Drama, Romance",7.7,,Ildik Enyedi,"Gza Morcsnyi, Alexandra Borbly, Zoltn Schneider, Ervin Nagy",Ildikó Enyedi,91%,81%
+416,midnight special,2016,PG-13,112 min,"Drama, Mystery, Sci-Fi",6.6,$3.71M,Jeff Nichols,"Michael Shannon, Joel Edgerton, Kirsten Dunst, Adam Driver",Jeff Nichols,83%,67%
+417,office christmas party,2016,R,105 min,Comedy,5.8,$54.73M,"Josh Gordon, Will Speck","Jason Bateman, Olivia Munn, T.J. Miller, Jennifer Aniston","Justin Malen, Laura Solon, Jon Lucas, Scott Moore, Dan Mazer",40%,41%
+418,to the bone,2017,TV-MA,107 min,Drama,6.9,,Marti Noxon,"Rebekah Kennedy, Lily Collins, Dana L. Wilson, Ziah Colon",Marti Noxon,68%,64%
+419,the man who invented christmas,2017,PG,104 min,"Biography, Comedy, Drama",7.0,$5.68M,Bharat Nalluri,"Dan Stevens, Mark Schrier, Patrick Joseph Byrnes, Miriam Margolyes",Susan Coyne,80%,79%
+420,everybody wants some!!,2016,R,117 min,Comedy,7.0,$3.37M,Richard Linklater,"Blake Jenner, Tyler Hoechlin, Ryan Guzman, Zoey Deutch",Richard Linklater,86%,68%
+421,no escape,2015,R,103 min,"Action, Thriller",6.8,$27.29M,John Erick Dowdle,"Lake Bell, Pierce Brosnan, Owen Wilson, Thanawut Ketsaro","John Erick Dowdle, Drew Dowdle",45%,62%
+422,free fire,2016,R,91 min,"Action, Comedy, Crime",6.4,$1.80M,Ben Wheatley,"Sharlto Copley, Brie Larson, Armie Hammer, Cillian Murphy","Ben Wheatley, Amy Jump",68%,53%
+423,alice through the looking glass,2016,PG,113 min,"Adventure, Family, Fantasy",6.2,$77.04M,James Bobin,"Mia Wasikowska, Johnny Depp, Helena Bonham Carter, Anne Hathaway",Linda Woolverton,29%,49%
+424,kickboxer: retaliation,2018,R,110 min,"Action, Drama",5.0,$0.00M,Dimitri Logothetis,"Alain Moussi, Christopher Lambert, Jean-Claude Van Damme, Mike Tyson",Dimitri Logothetis,91%,84%
+425,fist fight,2017,R,91 min,Comedy,5.6,$32.19M,Richie Keen,"Ice Cube, Charlie Day, Tracy Morgan, Christina Hendricks","Van Robichaux, Evan Susser, Max Greenfield",26%,41%
+426,allure,2017,,105 min,"Drama, Romance, Thriller",4.6,,"Carlos Sanchez, Jason Sanchez","Evan Rachel Wood, Julia Sarah Stone, Denis O'Hare, Maxim Roy","Carlos Sanchez, Jason Sanchez",38%,
+427,don verdean,2015,PG-13,90 min,"Adventure, Comedy, Drama",5.4,,Jared Hess,"Sam Rockwell, Amy Ryan, Jemaine Clement, Danny McBride","Jared Hess, Jerusha Hess",30%,24%
+428,the spectacular now,2013,R,95 min,"Comedy, Drama, Romance",7.1,$6.85M,James Ponsoldt,"Miles Teller, Shailene Woodley, Kyle Chandler, Jennifer Jason Leigh","Scott Neustadter, Michael H. Weber",92%,76%
+429,joy,2015,PG-13,124 min,Drama,6.6,$56.45M,David O. Russell,"Jennifer Lawrence, Robert De Niro, Bradley Cooper, Edgar Ramrez",David O. Russell,59%,57%
+430,irreplaceable you,2018,,96 min,"Comedy, Drama, Romance",6.3,,Stephanie Laing,"Gugu Mbatha-Raw, Michiel Huisman, Steve Coogan, Timothy Simons",Bess Wohl,27%,56%
+431,keeping up with the joneses,2016,PG-13,105 min,"Action, Comedy",5.9,$14.90M,Greg Mottola,"Zach Galifianakis, Isla Fisher, Jon Hamm, Gal Gadot",Mike LeSieur,20%,37%
+432,neighbors,2014,R,97 min,Comedy,6.3,$150.16M,Nicholas Stoller,"Seth Rogen, Rose Byrne, Zac Efron, Lisa Kudrow","Brendan O'Brien, Andrew Jay Cohen",73%,63%
+433,trumbo,2015,R,124 min,"Biography, Drama",7.5,$7.86M,Jay Roach,"Bryan Cranston, Diane Lane, Helen Mirren, Louis C.K.",John McNamara,73%,79%
+434,the longest ride,2015,PG-13,123 min,"Drama, Romance",7.1,$37.43M,George Tillman Jr.,"Scott Eastwood, Britt Robertson, Alan Alda, Jack Huston","Nicholas Sparks, Craig Bolotin",29%,71%
+435,annie,2014,PG,118 min,"Comedy, Drama, Family",5.3,$85.91M,Will Gluck,"Quvenzhan Wallis, Cameron Diaz, Jamie Foxx, Rose Byrne","Will Gluck, Emma Thompson, Aline Brosh McKenna",28%,59%
+436,kubo and the two strings,2016,PG,101 min,"Animation, Action, Adventure",7.8,$48.02M,Travis Knight,"Charlize Theron, Art Parkinson, Matthew McConaughey, Ralph Fiennes","Marc Haimes, Chris Butler",97%,86%
+437,begin again,2013,R,104 min,"Comedy, Drama, Music",7.4,$16.17M,John Carney,"Keira Knightley, Mark Ruffalo, Adam Levine, Hailee Steinfeld",John Carney,82%,81%
+438,night at the museum: secret of the tomb,2014,PG,98 min,"Adventure, Comedy, Family",6.2,$113.75M,Shawn Levy,"Ben Stiller, Robin Williams, Owen Wilson, Dick Van Dyke","Michael Handelman, David Guion",49%,57%
+439,neighbors 2: sorority rising,2016,R,92 min,Comedy,5.7,$55.29M,Nicholas Stoller,"Seth Rogen, Rose Byrne, Zac Efron, Chlo Grace Moretz","Seth Rogen, Evan Goldberg, Brendan O'Brien, Nicholas Stoller, Andrew Jay Cohen",62%,44%
+440,the purge: election year,2016,R,108 min,"Action, Horror, Sci-Fi",6.0,$79.00M,James DeMonaco,"Frank Grillo, Elizabeth Mitchell, Mykelti Williamson, Joseph Julian Soria",James DeMonaco,53%,48%
+441,bushwick,2017,TV-MA,94 min,"Action, Adventure",5.2,,"Cary Murnion, Jonathan Milott","Dave Bautista, Brittany Snow, Angelic Zambrana, Jeremie Harris","Nick Damici, Graham Reznick",44%,30%
+442,november criminals,2017,PG-13,85 min,"Crime, Drama, Mystery",5.2,,Sacha Gervasi,"Chlo Grace Moretz, Ansel Elgort, Catherine Keener, David Strathairn","Sacha Gervasi, Steven Knight",0%,22%
+443,kung fu panda 3,2016,PG,95 min,"Animation, Action, Adventure",7.1,$143.53M,"Alessandro Carloni, Jennifer Yuh Nelson","Jack Black, Bryan Cranston, Dustin Hoffman, Angelina Jolie","Jonathan Aibel, Glenn Berger",86%,78%
+444,the wedding ringer,2015,R,101 min,Comedy,6.7,$64.46M,Jeremy Garelick,"Kevin Hart, Josh Gad, Kaley Cuoco, Affion Crockett","Jay Lavender, Jeremy Garelick",28%,63%
+445,the boy,2016,PG-13,97 min,"Horror, Mystery, Thriller",6.0,$35.79M,William Brent Bell,"Lauren Cohan, Rupert Evans, James Russell, Jim Norton",Stacey Menear,28%,38%
+446,kidnap,2017,R,95 min,"Action, Crime, Drama",5.9,$30.72M,Luis Prieto,"Halle Berry, Sage Correa, Chris McGinn, Lew Temple",Knate Lee,38%,50%
+447,the fifth estate,2013,R,128 min,"Biography, Drama, Thriller",6.2,$3.25M,Bill Condon,"Benedict Cumberbatch, Daniel Brhl, Carice van Houten, Alicia Vikander","Josh Singer, Daniel Domscheit-Berg, David Leigh, Luke Harding",37%,36%
+448,leatherface,2017,R,90 min,"Horror, Thriller",5.0,,"Alexandre Bustillo, Julien Maury","Stephen Dorff, Lili Taylor, Sam Strike, Vanessa Grasse",Seth M. Sherwood,31%,25%
+449,the secret life of walter mitty,2013,PG,114 min,"Adventure, Comedy, Drama",7.3,$58.24M,Ben Stiller,"Ben Stiller, Kristen Wiig, Jon Daly, Kathryn Hahn",Steven Conrad,51%,70%
+450,how to be single,2016,R,110 min,"Comedy, Romance",6.1,$46.81M,Christian Ditter,"Dakota Johnson, Rebel Wilson, Leslie Mann, Alison Brie","Abby Kohn, Marc Silverstein, Dana Fox",47%,47%
+451,the counselor,2013,R,117 min,"Crime, Drama, Thriller",5.3,$16.97M,Ridley Scott,"Michael Fassbender, Penlope Cruz, Cameron Diaz, Javier Bardem",Cormac McCarthy,35%,23%
+452,captain phillips,2013,PG-13,134 min,"Biography, Drama, Thriller",7.8,$107.10M,Paul Greengrass,"Tom Hanks, Barkhad Abdi, Barkhad Abdirahman, Catherine Keener",Billy Ray,93%,89%
+453,song to song,2017,R,129 min,"Drama, Music, Romance",5.8,$0.44M,Terrence Malick,"Ryan Gosling, Rooney Mara, Michael Fassbender, Natalie Portman",Terrence Malick,43%,37%
+454,sleepless,2017,R,95 min,"Action, Crime, Thriller",5.6,$20.76M,Baran bo Odar,"Jamie Foxx, Michelle Monaghan, Dermot Mulroney, Gabrielle Union",Andrea Berloff,23%,38%
+455,sleeping with other people,2015,R,101 min,"Comedy, Drama, Romance",6.5,$0.81M,Leslye Headland,"Jason Sudeikis, Alison Brie, Jordan Carlos, Margarita Levieva",Leslye Headland,63%,56%
+456,the book of life,2014,PG,95 min,"Animation, Adventure, Comedy",7.3,$50.15M,Jorge R. Gutirrez,"Diego Luna, Zoe Saldana, Channing Tatum, Ron Perlman","Jorge R. Gutierrez, Douglas Langdale",82%,77%
+457,let there be light,2017,PG-13,100 min,Drama,4.6,$7.23M,Kevin Sorbo,"Kevin Sorbo, Sam Sorbo, Daniel Roebuck, Donielle Artese","Dan Gordon, Sam Sorbo",50%,77%
+458,alvin and the chipmunks: the road chip,2015,PG,92 min,"Animation, Adventure, Comedy",5.1,$85.89M,Walt Becker,"Jason Lee, Justin Long, Matthew Gray Gubler, Jesse McCartney","Adam Sztykiel, Randi Mayem Singer, Ross Bagdasarian Sr.",15%,51%
+459,ice age: collision course,2016,PG,94 min,"Animation, Adventure, Comedy",5.7,$64.06M,"Mike Thurmeier, Galen T. Chu","Ray Romano, Denis Leary, John Leguizamo, Chris Wedge","Aubrey Solomon, Michael J. Wilson, Michael Berg, Yoni Brenner",16%,40%
+460,blame,2017,,100 min,Drama,5.7,,Quinn Shephard,"Nadia Alexander, Quinn Shephard, Trieste Kelly Dunn, Tate Donovan","Laurie Shephard, Quinn Shephard",81%,81%
+461,chef,2014,R,114 min,"Adventure, Comedy, Drama",7.3,$30.64M,Jon Favreau,"Jon Favreau, Robert Downey Jr., Scarlett Johansson, Dustin Hoffman",Jon Favreau,87%,85%
+462,killing gunther,2017,R,92 min,"Action, Comedy",4.7,,Taran Killam,"Taran Killam, Dave 'Squatch' Ward, Bobby Moynihan, Hannah Simone",Taran Killam,56%,28%
+463,horrible bosses 2,2014,R,108 min,"Action, Comedy, Crime",6.3,$54.45M,Sean Anders,"Jason Bateman, Jason Sudeikis, Charlie Day, Jennifer Aniston","Jonathan Goldstein, Sean Anders, John Morris",34%,47%
+464,the vault,2017,Not Rated,91 min,"Horror, Thriller",4.8,$0.01M,Dan Bush,"James Franco, Scott Haze, Taryn Manning, Francesca Eastwood","Dan Bush, Conal Byrne",25%,28%
+465,the best of me,2014,PG-13,118 min,"Drama, Romance",6.7,$26.76M,Michael Hoffman,"James Marsden, Michelle Monaghan, Luke Bracey, Liana Liberato","Michelle Monaghan, Michael Hoffman, J. Mills Goodloe, Will Fetters",8%,59%
+466,ben-hur,2016,PG-13,123 min,"Action, Adventure, Drama",5.7,$26.38M,Timur Bekmambetov,"Jack Huston, Toby Kebbell, Rodrigo Santoro, Nazanin Boniadi","John Ridley, Keith R. Clarke",25%,53%
+467,a walk among the tombstones,2014,R,114 min,"Crime, Drama, Mystery",6.5,$26.31M,Scott Frank,"Liam Neeson, Dan Stevens, David Harbour, Boyd Holbrook",Scott Frank,66%,53%
+468,solace,2015,R,101 min,"Crime, Drama, Mystery",6.4,,Afonso Poyart,"Anthony Hopkins, Jeffrey Dean Morgan, Abbie Cornish, Colin Farrell","Ted Griffin, Sean Bailey",25%,43%
+469,storks,2016,PG,87 min,"Animation, Adventure, Comedy",6.8,$72.68M,"Nicholas Stoller, Doug Sweetland","Andy Samberg, Katie Crown, Kelsey Grammer, Jennifer Aniston",Nicholas Stoller,63%,62%
+470,2:22,2017,PG-13,98 min,Thriller,5.7,,Paul Currie,"Teresa Palmer, Michiel Huisman, Maeve Dermody, Sam Reid","Todd Stein, Nathan Parker",22%,37%
+471,magic mike xxl,2015,R,115 min,"Comedy, Drama, Music",5.6,$66.01M,Gregory Jacobs,"Channing Tatum, Joe Manganiello, Matt Bomer, Adam Rodriguez","Channing Tatum, Reid Carolin",65%,56%
+472,the drop,2014,R,106 min,"Crime, Drama",7.1,$10.72M,Michal R. Roskam,"Tom Hardy, Noomi Rapace, James Gandolfini, Matthias Schoenaerts",Dennis Lehane,89%,76%
+473,monsters university,2013,G,104 min,"Animation, Adventure, Comedy",7.3,$268.49M,Dan Scanlon,"Billy Crystal, John Goodman, Steve Buscemi, Helen Mirren","Daniel Gerson, Robert L. Baird, Dan Scanlon",79%,81%
+474,annabelle,2014,R,99 min,"Horror, Mystery, Thriller",5.4,$84.27M,John R. Leonetti,"Ward Horton, Annabelle Wallis, Alfre Woodard, Tony Amendola",Gary Dauberman,29%,36%
+475,blue jasmine,2013,PG-13,98 min,Drama,7.3,$33.41M,Woody Allen,"Cate Blanchett, Alec Baldwin, Peter Sarsgaard, Sally Hawkins",Woody Allen,91%,77%
+476,the bye bye man,2017,PG-13,97 min,"Horror, Thriller",4.3,$22.38M,Stacy Title,"Douglas Smith, Lucien Laviscount, Cressida Bonas, Michael Trucco",Jonathan Penner,23%,23%
+477,goosebumps,2015,PG,103 min,"Adventure, Comedy, Family",6.3,$80.08M,Rob Letterman,"Jack Black, Dylan Minnette, Odeya Rush, Ryan Lee","Darren Lemke, Larry Karaszewski",76%,62%
+478,point break,2015,PG-13,114 min,"Action, Crime, Sport",5.3,$28.78M,Ericson Core,"Edgar Ramrez, Luke Bracey, Ray Winstone, Teresa Palmer",Kurt Wimmer,10%,29%
+479,super dark times,2017,Not Rated,100 min,"Drama, Thriller",6.6,$0.03M,Kevin Phillips,"Owen Campbell, Charlie Tahan, Elizabeth Cappuccino, Amy Hargreaves","Luke Piotrowski, Ben Collins",92%,73%
+480,i don't feel at home in this world anymore.,2017,TV-MA,93 min,"Comedy, Crime, Drama",7.0,,Macon Blair,"Melanie Lynskey, Chris Doubek, Marilyn Faith Hickey, Jared Roylance",Macon Blair,88%,77%
+481,the signal,2014,PG-13,97 min,"Sci-Fi, Thriller",6.1,$0.60M,William Eubank,"Brenton Thwaites, Olivia Cooke, Beau Knapp, Laurence Fishburne","William Eubank, Carlyle Eubank, David Frigerio",60%,38%
+482,locke,2013,R,85 min,Drama,7.1,$1.36M,Steven Knight,"Tom Hardy, Olivia Colman, Ruth Wilson, Andrew Scott",Steven Knight,91%,72%
+483,first kill,2017,R,97 min,"Action, Crime, Thriller",4.9,,Steven C. Miller,"Bruce Willis, Hayden Christensen, Ty Shelton, Megan Leonard",Nick Gordon,14%,30%
+484,big eyes,2014,PG-13,106 min,"Biography, Crime, Drama",7.0,$14.48M,Tim Burton,"Amy Adams, Christoph Waltz, Danny Huston, Krysten Ritter","Larry Karaszewski, Scott Alexander",72%,68%
+485,ouija: origin of evil,2016,PG-13,99 min,"Horror, Thriller",6.1,$34.90M,Mike Flanagan,"Elizabeth Reaser, Lulu Wilson, Annalise Basso, Henry Thomas","Mike Flanagan, Jeff Howard",82%,57%
+486,that awkward moment,2014,R,94 min,"Comedy, Romance",6.2,$26.05M,Tom Gormican,"Zac Efron, Michael B. Jordan, Miles Teller, Imogen Poots",Tom Gormican,22%,46%
+487,22 jump street,2014,R,112 min,"Action, Comedy, Crime",7.0,$191.72M,"Phil Lord, Christopher Miller","Channing Tatum, Jonah Hill, Ice Cube, Nick Offerman","Michael Bacall, Oren Uziel, Rodney Rothman",85%,77%
+488,mechanic: resurrection,2016,R,98 min,"Action, Adventure, Crime",5.7,$21.20M,Dennis Gansel,"Jason Statham, Jessica Alba, Tommy Lee Jones, Michelle Yeoh","Philip Shelby, Tony Mosher",31%,40%
+489,vampire academy,2014,PG-13,104 min,"Action, Comedy, Fantasy",5.5,$7.79M,Mark Waters,"Zoey Deutch, Lucy Fry, Danila Kozlovsky, Gabriel Byrne",Daniel Waters,14%,55%
+490,once upon a time in venice,2017,Not Rated,94 min,"Action, Comedy, Thriller",5.2,,Mark Cullen,"Bruce Willis, John Goodman, Jason Momoa, Emily Robinson","Mark Cullen, Robb Cullen",18%,25%
+491,masterminds,2016,PG-13,95 min,"Action, Comedy, Crime",5.8,$17.36M,Jared Hess,"Zach Galifianakis, Kristen Wiig, Owen Wilson, Ross Kimball","Chris Bowman, Hubbel Palmer, Emily Spivey",34%,35%
+492,non-stop,2014,PG-13,106 min,"Action, Mystery, Thriller",7.0,$92.17M,Jaume Collet-Serra,"Liam Neeson, Julianne Moore, Scoot McNairy, Michelle Dockery","John J. Richardson, Christopher Roach, John W. Richardson, Ryan Engle",59%,63%
+493,money monster,2016,R,98 min,"Crime, Drama, Thriller",6.5,$41.01M,Jodie Foster,"George Clooney, Julia Roberts, Jack O'Connell, Dominic West","Alan DiFiore, Jamie Linden, Jim Kouf",57%,51%
+494,the ballad of lefty brown,2017,R,111 min,Western,6.2,$0.01M,Jared Moshe,"Bill Pullman, Tommy Flanagan, Peter Fonda, Kathy Baker",Jared Moshe,78%,55%
+495,wish upon,2017,PG-13,90 min,"Fantasy, Horror, Thriller",5.1,$14.30M,John R. Leonetti,"Joey King, Ryan Phillippe, Ki Hong Lee, Mitchell Slaggert",Barbara Marshall,16%,32%
+496,the jungle book,1967,G,78 min,"Animation, Adventure, Family",7.6,$141.84M,Wolfgang Reitherman,"Phil Harris, Sebastian Cabot, Louis Prima, Bruce Reitherman","Larry Clemmons, Ken Anderson, Vance Gerry, Ralph Wright",86%,82%
+497,hitman: agent 47,2015,R,96 min,"Action, Adventure, Crime",5.7,$22.47M,Aleksander Bach,"Rupert Friend, Hannah Ware, Zachary Quinto, Ciarn Hinds","Skip Woods, Michael Finch",9%,40%
+498,the visit,2015,PG-13,94 min,"Horror, Thriller",6.2,$65.21M,M. Night Shyamalan,"Olivia DeJonge, Ed Oxenbould, Deanna Dunagan, Peter McRobbie",M. Night Shyamalan,65%,51%
+499,seventh son,2014,PG-13,102 min,"Action, Adventure, Fantasy",5.5,$17.22M,Sergei Bodrov,"Ben Barnes, Julianne Moore, Jeff Bridges, Alicia Vikander","Matt Greenberg, Charles Leavitt, Aaron Guzikowski",12%,34%
+500,marauders,2016,R,107 min,"Action, Crime, Mystery",5.5,,Steven C. Miller,"Bruce Willis, Christopher Meloni, Dave Bautista, Adrian Grenier","Chris Sivertson, Michael Cody",21%,31%
+501,cult of chucky,2017,R,91 min,"Horror, Thriller",5.2,,Don Mancini,"Allison Dawn Doiron, Alex Vincent, Brad Dourif, Fiona Dourif",Don Mancini,82%,49%
+502,life of crime,2013,R,98 min,"Comedy, Crime",5.8,$0.26M,Daniel Schechter,"Jennifer Aniston, Yasiin Bey, Isla Fisher, Will Forte",Daniel Schechter,65%,37%
+503,wild,2014,R,115 min,"Adventure, Biography, Drama",7.1,$37.88M,Jean-Marc Valle,"Reese Witherspoon, Laura Dern, Gaby Hoffmann, Michiel Huisman",Nick Hornby,90%,75%
+504,sand castle,2017,TV-MA,113 min,"Drama, War",6.3,,Fernando Coimbra,"Nicholas Hoult, Logan Marshall-Green, Henry Cavill, Glen Powell",Chris Roessner,47%,42%
+505,american honey,2016,R,163 min,"Adventure, Drama, Romance",7.0,$0.66M,Andrea Arnold,"Sasha Lane, Shia LaBeouf, Riley Keough, McCaul Lombardi",Andrea Arnold,79%,64%
+506,ender's game,2013,PG-13,114 min,"Action, Fantasy, Sci-Fi",6.7,$61.74M,Gavin Hood,"Harrison Ford, Asa Butterfield, Hailee Steinfeld, Abigail Breslin",Gavin Hood,61%,65%
+507,sisters,2015,R,118 min,Comedy,6.0,$87.04M,Jason Moore,"Amy Poehler, Tina Fey, Maya Rudolph, Ike Barinholtz",Paula Pell,60%,52%
+508,the girl with all the gifts,2016,R,111 min,"Drama, Horror, Thriller",6.7,,Colm McCarthy,"Sennia Nanua, Fisayo Akinade, Dominique Tipper, Paddy Considine",Mike Carey,84%,66%
+509,m.f.a.,2017,Not Rated,92 min,Thriller,5.7,,Natalia Leite,"Francesca Eastwood, Clifton Collins Jr., Leah McKendrick, Peter Vack",Leah McKendrick,67%,61%
+510,acts of vengeance,2017,R,87 min,"Action, Drama",5.7,,Isaac Florentine,"Antonio Banderas, Paz Vega, Cristina Serafini, Atanas Srebrev",Matt Venne,50%,24%
+511,the judge,2014,R,141 min,"Crime, Drama",7.4,$47.12M,David Dobkin,"Robert Downey Jr., Robert Duvall, Vera Farmiga, Billy Bob Thornton","Nick Schenk, Bill Dubuque",48%,72%
+512,the loft,2014,R,108 min,"Mystery, Romance, Thriller",6.3,$5.98M,Erik Van Looy,"Karl Urban, James Marsden, Wentworth Miller, Eric Stonestreet",Wesley Strick,13%,37%
+513,ted 2,2015,R,115 min,Comedy,6.3,$81.48M,Seth MacFarlane,"Mark Wahlberg, Seth MacFarlane, Amanda Seyfried, Jessica Barth","Seth MacFarlane, Alec Sulkin, Wellesley Wild",46%,50%
+514,god's not dead 2,2016,PG,120 min,Drama,4.4,$20.77M,Harold Cronk,"Melissa Joan Hart, Jesse Metcalfe, David A.R. White, Hayley Orrantia","Chuck Konzelman, Cary Solomon",9%,63%
+515,table 19,2017,PG-13,87 min,"Comedy, Drama, Romance",5.8,$3.61M,Jeffrey Blitz,"Anna Kendrick, Lisa Kudrow, Craig Robinson, Stephen Merchant",Jeffrey Blitz,26%,40%
+516,by the sea,2015,R,122 min,"Drama, Romance",5.2,$0.53M,Angelina Jolie,"Brad Pitt, Angelina Jolie, Mlanie Laurent, Melvil Poupaud",Angelina Jolie,34%,29%
+517,bitch,2017,R,93 min,"Comedy, Drama, Thriller",5.0,,Marianna Palka,"Marianna Palka, Jason Ritter, Jaime King, Brighton Sharbino",Marianna Palka,67%,30%
+518,message from the king,2016,R,102 min,Thriller,6.4,,Fabrice du Welz,"Chadwick Boseman, Luke Evans, Alfred Molina, Teresa Palmer",Oliver Butcher,43%,48%
+519,the promise,2016,PG-13,133 min,"Drama, History",6.0,,Terry George,"Oscar Isaac, Charlotte Le Bon, Christian Bale, Daniel Gimnez Cacho","Terry George, Robin Swicord",50%,92%
+520,day of the dead: bloodline,2018,R,90 min,Horror,3.4,,Hctor Hernndez Vicens,"Johnathon Schaech, Sophie Skelton, Marcus Vanco, Lillian Blankenship","Mark Tonderai, Lars Jacobson, George A. Romero",0%,15%
+521,oculus,2013,R,104 min,"Horror, Mystery",6.5,$27.70M,Mike Flanagan,"Karen Gillan, Brenton Thwaites, Katee Sackhoff, Rory Cochrane","Mike Flanagan, Jeff Howard",73%,53%
+522,the wall,2017,R,88 min,"Drama, Thriller, War",6.2,$1.80M,Doug Liman,"Aaron Taylor-Johnson, John Cena, Laith Nakli",Dwain Worrell,66%,42%
+523,the discovery,2017,TV-MA,102 min,"Drama, Mystery, Romance",6.3,,Charlie McDowell,"Robert Redford, Mary Steenburgen, Brian McCarthy, Jason Segel","Charlie McDowell, Justin Lader",45%,44%
+524,keanu,2016,R,100 min,"Action, Comedy",6.3,$20.57M,Peter Atencio,"Keegan-Michael Key, Jordan Peele, Tiffany Haddish, Method Man","Alex Rubens, Jordan Peele",78%,55%
+525,if i stay,2014,PG-13,107 min,"Drama, Fantasy, Music",6.8,$50.47M,R.J. Cutler,"Chlo Grace Moretz, Mireille Enos, Jamie Blackley, Joshua Leonard",Shauna Cross,35%,61%
+526,saving mr. banks,2013,PG-13,125 min,"Biography, Comedy, Drama",7.5,$83.30M,John Lee Hancock,"Emma Thompson, Tom Hanks, Annie Rose Buckley, Colin Farrell","Kelly Marcel, Sue Smith",78%,84%
+527,the good dinosaur,2015,PG,93 min,"Animation, Adventure, Comedy",6.7,$123.09M,Peter Sohn,"Jeffrey Wright, Frances McDormand, Maleah Nipay-Padilla, Ryan Teeple",Meg LeFauve,77%,65%
+528,fallen,2016,PG-13,91 min,"Adventure, Drama, Fantasy",5.5,,Scott Hicks,"Lola Kirke, Hermione Corfield, Joely Richardson, Addison Timlin","Michael Arlen Ross, Nichole Millard, Kathryn Price, Lauren Kate",7%,65%
+529,macbeth,2015,R,113 min,"Drama, History, War",6.7,$1.11M,Justin Kurzel,"Michael Fassbender, Marion Cotillard, Jack Madigan, Frank Madigan","Jacob Koskoff, Michael Lesslie, Todd Louiso",80%,64%
+530,morgan,2016,R,92 min,"Action, Horror, Sci-Fi",5.8,$3.91M,Luke Scott,"Kate Mara, Anya Taylor-Joy, Rose Leslie, Michael Yare",Seth W. Owen,38%,30%
+531,dope,2015,R,103 min,"Action, Comedy, Crime",7.2,$17.47M,Rick Famuyiwa,"Shameik Moore, Tony Revolori, Kiersey Clemons, Kimberly Elise",Rick Famuyiwa,88%,84%
+532,paterson,2016,R,118 min,"Comedy, Drama, Romance",7.4,$2.14M,Jim Jarmusch,"Adam Driver, Golshifteh Farahani, Nellie, Rizwan Manji",Jim Jarmusch,96%,71%
+533,ouija,2014,PG-13,89 min,"Horror, Thriller",4.5,$50.86M,Stiles White,"Olivia Cooke, Ana Coto, Daren Kagasoff, Bianca A. Santos","Stiles White, Juliet Snowden",6%,24%
+534,popstar: never stop never stopping,2016,R,87 min,"Comedy, Music",6.7,$9.39M,"Akiva Schaffer, Jorma Taccone","Andy Samberg, Jorma Taccone, Akiva Schaffer, Sarah Silverman","Andy Samberg, Akiva Schaffer, Jorma Taccone",78%,64%
+535,the dressmaker,2015,R,119 min,"Comedy, Drama",7.1,$2.02M,Jocelyn Moorhouse,"Kate Winslet, Judy Davis, Liam Hemsworth, Hugo Weaving","Jocelyn Moorhouse, P.J. Hogan",54%,66%
+536,before we go,2014,PG-13,95 min,"Comedy, Drama, Romance",6.8,$0.04M,Chris Evans,"Chris Evans, Alice Eve, Emma Fitzpatrick, John Cullum","Chris Shafer, Ronald Bass, Jen Smolka, Paul Vicknair",21%,55%
+537,inside llewyn davis,2013,R,104 min,"Drama, Music",7.5,$13.24M,"Ethan Coen, Joel Coen","Oscar Isaac, Carey Mulligan, John Goodman, Garrett Hedlund","Ethan Coen, Joel Coen",93%,74%
+538,miracles from heaven,2016,PG,109 min,"Biography, Drama, Family",7.1,$61.69M,Patricia Riggen,"Jennifer Garner, Kylie Rogers, Martin Henderson, Brighton Sharbino",Randy Brown,43%,81%
+539,run all night,2015,R,114 min,"Action, Crime, Drama",6.6,$26.44M,Jaume Collet-Serra,"Liam Neeson, Ed Harris, Joel Kinnaman, Vincent D'Onofrio",Brad Ingelsby,60%,56%
+540,maudie,2016,PG-13,115 min,"Biography, Drama, Romance",7.7,$6.17M,Aisling Walsh,"Sally Hawkins, Ethan Hawke, Zachary Bennett, Gabrielle Rose",Sherry White,89%,89%
+541,jimi: all is by my side,2013,R,118 min,"Biography, Drama, Music",5.7,$0.32M,John Ridley,"Andr Benjamin, Hayley Atwell, Imogen Poots, Ruth Negga",John Ridley,67%,36%
+542,sing street,2016,PG-13,106 min,"Comedy, Drama, Music",8.0,$3.23M,John Carney,"Ferdia Walsh-Peelo, Aidan Gillen, Maria Doyle Kennedy, Jack Reynor",John Carney,95%,92%
+543,scorched earth,2018,R,96 min,"Action, Sci-Fi",5.1,,Peter Howitt,"Gina Carano, Ryan Robbins, Stephanie Bennett, John Hannah","Kevin Leeson, Bobby Mort",11%,33%
+544,smurfs: the lost village,2017,PG,90 min,"Animation, Adventure, Comedy",5.9,$45.02M,Kelly Asbury,"Demi Lovato, Rainn Wilson, Joe Manganiello, Jack McBrayer","Stacey Harman, Pamela Ribon",38%,55%
+545,the case for christ,2017,PG,112 min,"Biography, Drama, History",6.1,$14.68M,Jon Gunn,"Erika Christensen, Faye Dunaway, Frankie Faison, Robert Forster",Brian Bird,52%,79%
+546,half magic,2018,R,94 min,"Comedy, Romance",4.5,,Heather Graham,"Heather Graham, Angela Kinsey, Stephanie Beatriz, Luke Arnold",Heather Graham,58%,79%
+547,nails,2017,,85 min,Horror,4.6,,Dennis Bartok,"Shauna Macdonald, Steve Wall, Leah McNamara, Ross Noble","Tom Abrams, Dennis Bartok",40%,19%
+548,creep,2014,R,77 min,"Horror, Thriller",6.3,,Patrick Brice,"Patrick Brice, Mark Duplass","Mark Duplass, Patrick Brice",96%,64%
+549,the way way back,2013,PG-13,103 min,"Comedy, Drama",7.4,$21.50M,"Nat Faxon, Jim Rash","Steve Carell, Toni Collette, Allison Janney, AnnaSophia Robb","Jim Rash, Nat Faxon",85%,84%
+550,a most violent year,2014,R,125 min,"Crime, Drama, Thriller",7.0,$5.74M,J.C. Chandor,"Oscar Isaac, Jessica Chastain, David Oyelowo, Alessandro Nivola",J.C. Chandor,89%,69%
+551,rings,2017,PG-13,102 min,"Drama, Horror",4.5,$27.78M,F. Javier Gutirrez,"Matilda Anna Ingrid Lutz, Alex Roe, Johnny Galecki, Vincent D'Onofrio","Jacob Aaron Estes, Akiva Goldsman, David Loucka",7%,24%
+552,a perfect day,2015,R,106 min,"Comedy, Drama, War",6.8,,Fernando Len de Aranoa,"Benicio Del Toro, Tim Robbins, Olga Kurylenko, Mlanie Thierry","Fernando León de Aranoa, Diego Farias",73%,54%
+553,eddie the eagle,2016,PG-13,106 min,"Biography, Comedy, Drama",7.4,$15.79M,Dexter Fletcher,"Taron Egerton, Hugh Jackman, Tom Costello, Jo Hartley","Sean Macaulay, Simon Kelton",80%,82%
+554,the walk,2015,PG,123 min,"Adventure, Biography, Crime",7.3,$10.14M,Robert Zemeckis,"Joseph Gordon-Levitt, Charlotte Le Bon, Guillaume Baillargeon, milie Leclerc",Robert Zemeckis,84%,77%
+555,concussion,2015,PG-13,123 min,"Biography, Drama, Sport",7.1,$34.53M,Peter Landesman,"Will Smith, Alec Baldwin, Albert Brooks, David Morse",Peter Landesman,60%,74%
+556,the infiltrator,2016,R,127 min,"Biography, Crime, Drama",7.0,$15.43M,Brad Furman,"Bryan Cranston, John Leguizamo, Diane Kruger, Amy Ryan",Ellen Brown Furman,70%,71%
+557,beach rats,2017,R,98 min,Drama,6.5,$0.47M,Eliza Hittman,"Harris Dickinson, Madeline Weinstein, Kate Hodge, Neal Huff",Eliza Hittman,85%,57%
+558,the ones below,2015,R,87 min,"Drama, Thriller",6.1,$0.01M,David Farr,"Clmence Posy, David Morrissey, Stephen Campbell Moore, Laura Birn",David Farr,73%,47%
+559,selma,2014,PG-13,128 min,"Biography, Drama, History",7.5,$52.08M,Ava DuVernay,"David Oyelowo, Carmen Ejogo, Tim Roth, Lorraine Toussaint",Paul Webb,98%,86%
+560,exposed,2016,R,102 min,"Crime, Drama, Fantasy",4.3,,Gee Malik Linton,"Ana de Armas, Keanu Reeves, Christopher McDonald, Mira Sorvino",Gee Malik Linton,9%,15%
+561,riddick,2013,R,119 min,"Action, Sci-Fi, Thriller",6.4,$42.03M,David Twohy,"Vin Diesel, Karl Urban, Katee Sackhoff, Jordi Moll",David Twohy,57%,56%
+562,the void,2016,Not Rated,90 min,"Horror, Mystery, Sci-Fi",5.8,$0.15M,"Jeremy Gillespie, Steven Kostanski","Aaron Poole, Kenneth Welsh, Daniel Fathers, Kathleen Munroe","Jeremy Gillespie , Steven Kostanski",75%,45%
+563,hardcore henry,2015,R,96 min,"Action, Adventure, Sci-Fi",6.7,$9.24M,Ilya Naishuller,"Sharlto Copley, Tim Roth, Haley Bennett, Danila Kozlovsky",Ilya Naishuller,50%,54%
+564,american pastoral,2016,R,108 min,"Crime, Drama",6.1,$0.54M,Ewan McGregor,"Ewan McGregor, Jennifer Connelly, Dakota Fanning, Peter Riegert",John Romano,22%,29%
+565,mayhem,2017,Unrated,86 min,"Action, Horror",6.3,,Joe Lynch,"Steven Yeun, Samara Weaving, Steven Brand, Caroline Chikezie",Matias Caruso,83%,65%
+566,romeo & juliet,2013,PG-13,113 min,"Drama, Romance",5.8,$1.16M,Carlo Carlei,"Hailee Steinfeld, Douglas Booth, Damian Lewis, Laura Morante",Julian Fellowes,23%,47%
+567,brigsby bear,2017,PG-13,97 min,"Comedy, Drama",7.4,$0.53M,Dave McCary,"Kyle Mooney, Mark Hamill, Jane Adams, Greg Kinnear",Kevin Costello,81%,87%
+568,youth,2015,R,124 min,"Comedy, Drama, Music",7.3,$2.70M,Paolo Sorrentino,"Michael Caine, Harvey Keitel, Rachel Weisz, Jane Fonda",Paolo Sorrentino,72%,68%
+569,pete's dragon,2016,PG,102 min,"Action, Adventure, Comedy",6.7,$76.20M,David Lowery,"Bryce Dallas Howard, Robert Redford, Oakes Fegley, Oona Laurence","David Lowery, Toby Halbrooks, Malcolm Marmorstein",87%,72%
+570,knight of cups,2015,R,118 min,"Drama, Romance",5.7,$0.56M,Terrence Malick,"Christian Bale, Cate Blanchett, Natalie Portman, Brian Dennehy",Terrence Malick,45%,37%
+571,st. vincent,2014,PG-13,102 min,"Comedy, Drama",7.3,$44.13M,Theodore Melfi,"Bill Murray, Melissa McCarthy, Naomi Watts, Jaeden Lieberher",Ted Melfi,77%,78%
+572,step sisters,2018,PG-13,108 min,Comedy,5.4,,Charles Stone III,"Megalyn Echikunwoke, Eden Sher, Lyndon Smith, Gage Golightly",Chuck Hayward,29%,45%
+573,the best offer,2013,R,131 min,"Crime, Drama, Mystery",7.8,$0.09M,Giuseppe Tornatore,"Geoffrey Rush, Jim Sturgess, Sylvia Hoeks, Donald Sutherland",Giuseppe Tornatore,55%,76%
+574,the boy next door,2015,R,91 min,"Romance, Thriller",4.7,$35.39M,Rob Cohen,"Jennifer Lopez, Ryan Guzman, Kristin Chenoweth, John Corbett",Barbara Curry,10%,33%
+575,wish i was here,2014,R,106 min,"Comedy, Drama",6.7,$3.59M,Zach Braff,"Zach Braff, Joey King, Pierce Gagnon, Kate Hudson","Brandon Adams, Adam Braff, Zach Braff",46%,59%
+576,birth of the dragon,2016,PG-13,95 min,"Action, Biography, Drama",5.3,$6.90M,George Nolfi,"Billy Magnussen, Yu Xia, Philip Ng, Jingjing Qu","Stephen J. Rivele, Christopher Wilkinson",26%,70%
+577,only god forgives,2013,R,90 min,"Crime, Drama",5.7,$0.78M,Nicolas Winding Refn,"Ryan Gosling, Kristin Scott Thomas, Vithaya Pansringarm, Gordon Brown",Nicolas Winding Refn,40%,37%
+578,free state of jones,2016,R,139 min,"Action, Biography, Drama",6.9,$20.76M,Gary Ross,"Matthew McConaughey, Gugu Mbatha-Raw, Mahershala Ali, Keri Russell",Gary Ross,46%,63%
+579,get hard,2015,R,100 min,"Comedy, Crime",6.0,$90.41M,Etan Cohen,"Will Ferrell, Kevin Hart, Alison Brie, T.I.",Jay Martel,29%,45%
+580,paris can wait,2016,PG,92 min,"Comedy, Drama, Romance",5.8,$5.62M,Eleanor Coppola,"Diane Lane, Arnaud Viard, Alec Baldwin, Elise Tielrooy",Eleanor Coppola,45%,39%
+581,naked,2017,TV-14,96 min,"Comedy, Romance",5.3,,Michael Tiddes,"Marlon Wayans, Regina Hall, Dennis Haysbert, J.T. Jackson","Marlon Wayans, Rick Alvarez, Cory Koller",0%,30%
+582,coherence,2013,Not Rated,89 min,"Mystery, Sci-Fi, Thriller",7.2,$0.07M,James Ward Byrkit,"Emily Baldoni, Maury Sterling, Nicholas Brendon, Elizabeth Gracen",James Ward Byrkit,87%,80%
+583,the clapper,2017,R,89 min,Comedy,5.1,,Dito Montiel,"Amanda Seyfried, Leah Remini, Ed Helms, Alan Thicke",Dito Montiel,30%,58%
+584,fruitvale station,2013,R,85 min,"Biography, Drama, Romance",7.5,$16.10M,Ryan Coogler,"Michael B. Jordan, Melonie Diaz, Octavia Spencer, Kevin Durand",Ryan Coogler,94%,87%
+585,cabin fever,2016,R,99 min,Horror,3.7,,Travis Zariwny,"Gage Golightly, Matthew Daddario, Samuel Davis, Nadine Crocker","Randy Pearlstein, Eli Roth",0%,12%
+586,their finest,2016,R,117 min,"Comedy, Drama, Romance",6.8,$3.60M,Lone Scherfig,"Gemma Arterton, Sam Claflin, Bill Nighy, Richard E. Grant",Gaby Chiappe,90%,72%
+587,the limehouse golem,2016,Not Rated,109 min,"Horror, Mystery, Thriller",6.3,,Juan Carlos Medina,"Douglas Booth, Olivia Cooke, Sam Reid, Mara Valverde",Jane Goldman,74%,56%
+588,mr. right,2015,R,95 min,"Action, Comedy, Romance",6.3,$0.03M,Paco Cabezas,"Anna Kendrick, Sam Rockwell, Tim Roth, James Ransone",Max Landis,43%,53%
+589,machete kills,2013,R,107 min,"Action, Crime, Sci-Fi",5.6,$8.01M,Robert Rodriguez,"Danny Trejo, Alexa PenaVega, Mel Gibson, Jessica Alba","Robert Rodriguez, Marcel Rodriguez, Kyle Ward",28%,34%
+590,this is where i leave you,2014,R,103 min,"Comedy, Drama",6.6,$34.29M,Shawn Levy,"Jason Bateman, Tina Fey, Jane Fonda, Adam Driver",Jonathan Tropper,42%,59%
+591,amityville: the awakening,2017,PG-13,85 min,"Horror, Thriller",4.9,$0.00M,Franck Khalfoun,"Jennifer Jason Leigh, Bella Thorne, Mckenna Grace, Cameron Monaghan",Franck Khalfoun,29%,35%
+592,caf society,2016,PG-13,96 min,"Comedy, Drama, Romance",6.6,$11.10M,Woody Allen,"Jesse Eisenberg, Kristen Stewart, Steve Carell, Blake Lively",Woody Allen,70%,56%
+593,tusk,2014,R,102 min,"Comedy, Drama, Horror",5.4,$1.82M,Kevin Smith,"Justin Long, Michael Parks, Haley Joel Osment, Genesis Rodriguez",Kevin Smith,41%,36%
+594,bridget jones's baby,2016,R,118 min,"Comedy, Romance",6.6,$24.25M,Sharon Maguire,"Rene Zellweger, Gemma Jones, Jim Broadbent, Sally Phillips","Emma Thompson, Helen Fielding, Dan Mazer",77%,65%
+595,endless love,2014,PG-13,104 min,"Drama, Romance",6.3,$23.39M,Shana Feste,"Gabriella Wilde, Alex Pettyfer, Bruce Greenwood, Robert Patrick","Joshua Safran, Shana Feste",16%,58%
+596,first they killed my father,2017,TV-MA,136 min,"Biography, Drama, History",7.2,,Angelina Jolie,"Sareum Srey Moch, Phoeung Kompheak, Sveng Socheata, Mun Kimhak","Angelina Jolie, Loung Ung",89%,80%
+597,self/less,2015,PG-13,117 min,"Action, Mystery, Sci-Fi",6.5,$12.28M,Tarsem Singh,"Ryan Reynolds, Natalie Martinez, Matthew Goode, Ben Kingsley","Alex Pastor, David Pastor",18%,46%
+598,draft day,2014,PG-13,110 min,"Drama, Sport",6.8,$28.83M,Ivan Reitman,"Kevin Costner, Chadwick Boseman, Jennifer Garner, Frank Langella","Scott Rothman, Rajiv Joseph",59%,65%
+599,eye in the sky,2015,R,102 min,"Drama, Thriller, War",7.3,$18.70M,Gavin Hood,"Helen Mirren, Aaron Paul, Alan Rickman, Barkhad Abdi",Guy Hibbert,95%,83%
+600,testament of youth,2014,PG-13,129 min,"Biography, Drama, History",7.3,$1.82M,James Kent,"Alicia Vikander, Kit Harington, Taron Egerton, Dominic West",Juliette Towhidi,83%,78%
+601,jack ryan: shadow recruit,2014,PG-13,105 min,"Action, Drama, Thriller",6.2,$50.58M,Kenneth Branagh,"Chris Pine, Kevin Costner, Keira Knightley, Kenneth Branagh","Anthony Peckham, Adam Cozad, David Koepp",56%,53%
+602,last knights,2015,R,115 min,"Action, Adventure",6.2,,Kazuaki Kiriya,"Clive Owen, Morgan Freeman, Aksel Hennie, Payman Maadi","Dove Sussman, Michael Konyves",14%,46%
+603,high-rise,2015,R,119 min,Drama,5.6,$0.34M,Ben Wheatley,"Tom Hiddleston, Jeremy Irons, Sienna Miller, Luke Evans",Amy Jump,60%,36%
+604,misconduct,2016,R,106 min,"Crime, Drama, Mystery",5.3,,Shintaro Shimosawa,"Josh Duhamel, Anthony Hopkins, Al Pacino, Alice Eve","Simon Boyes, Adam Mason",7%,23%
+605,the skeleton twins,2014,R,93 min,"Comedy, Drama, Romance",6.8,$5.28M,Craig Johnson,"Kristen Wiig, Bill Hader, Luke Wilson, Ty Burrell","Mark Heyman, Craig Johnson",87%,69%
+606,only lovers left alive,2013,R,123 min,"Comedy, Drama, Fantasy",7.3,$1.88M,Jim Jarmusch,"Tilda Swinton, Tom Hiddleston, Mia Wasikowska, John Hurt",Jim Jarmusch,85%,74%
+607,paper towns,2015,PG-13,109 min,"Drama, Mystery, Romance",6.3,$32.00M,Jake Schreier,"Nat Wolff, Cara Delevingne, Austin Abrams, Justice Smith","Scott Neustadter, Michael H. Weber",56%,47%
+608,entourage,2015,R,104 min,Comedy,6.6,$32.36M,Doug Ellin,"Adrian Grenier, Kevin Connolly, Jerry Ferrara, Kevin Dillon","Rob Weiss, Doug Ellin",33%,57%
+609,3 days to kill,2014,PG-13,117 min,"Action, Drama, Thriller",6.2,$30.70M,McG,"Kevin Costner, Hailee Steinfeld, Connie Nielsen, Amber Heard","Luc Besson, Adi Hasak",28%,43%
+610,sandy wexler,2017,TV-14,130 min,Comedy,5.1,,Steven Brill,"Adam Sandler, Jennifer Hudson, Kevin James, Colin Quinn","Paul Sado, Dan Bulla, Adam Sandler",30%,40%
+611,diary of a wimpy kid: the long haul,2017,PG,91 min,"Comedy, Family",4.3,$20.64M,David Bowers,"Jason Drucker, Alicia Silverstone, Tom Everett Scott, Charlie Wright",Adam Sztykiel,20%,34%
+612,frances ha,2012,R,86 min,"Comedy, Drama, Romance",7.4,$4.06M,Noah Baumbach,"Greta Gerwig, Mickey Sumner, Adam Driver, Michael Zegen","Noah Baumbach, Greta Gerwig",92%,77%
+613,creep 2,2017,Not Rated,78 min,"Horror, Thriller",6.4,,Patrick Brice,"Karan Soni, Mark Duplass, Desiree Akhavan, Kyle Field","Patrick Brice, Mark Duplass",100%,68%
+614,still alice,2014,PG-13,101 min,Drama,7.5,$18.75M,"Richard Glatzer, Wash Westmoreland","Julianne Moore, Alec Baldwin, Kristen Stewart, Kate Bosworth","Wash Westmoreland, Richard Glatzer",86%,85%
+615,elle,2016,R,130 min,"Crime, Drama, Thriller",7.2,,Paul Verhoeven,"Isabelle Huppert, Laurent Lafitte, Anne Consigny, Charles Berling",David Birke,91%,73%
+616,what if,2013,PG-13,98 min,"Comedy, Romance",6.8,$3.45M,Michael Dowse,"Daniel Radcliffe, Zoe Kazan, Megan Park, Adam Driver",Elan Mastai,72%,69%
+617,blackhat,2015,R,133 min,"Crime, Drama, Mystery",5.4,$7.10M,Michael Mann,"Chris Hemsworth, Viola Davis, Wei Tang, Leehom Wang","Morgan Davis Foehl, Michael Mann",33%,24%
+618,august: osage county,2013,R,121 min,Drama,7.2,$37.74M,John Wells,"Meryl Streep, Dermot Mulroney, Julia Roberts, Juliette Lewis",Tracy Letts,65%,65%
+619,berlin syndrome,2017,R,116 min,"Drama, Horror, Mystery",6.3,$0.03M,Cate Shortland,"Teresa Palmer, Max Riemelt, Matthias Habich, Emma Bading",Shaun Grant,73%,53%
+620,homefront,2013,R,100 min,"Action, Crime, Drama",6.5,$19.78M,Gary Fleder,"Jason Statham, James Franco, Winona Ryder, Kate Bosworth",Sylvester Stallone,42%,61%
+621,wheelman,2017,TV-MA,82 min,"Action, Crime, Mystery",6.4,,Jeremy Rush,"Frank Grillo, Caitlin Carmichael, Garret Dillahunt, Wendy Moniz",Jeremy Rush,89%,66%
+622,winter's tale,2014,PG-13,118 min,"Drama, Fantasy, Mystery",6.2,$0.02M,Akiva Goldsman,"Colin Farrell, Jessica Brown Findlay, Russell Crowe, Jennifer Connelly",Akiva Goldsman,13%,43%
+623,6 below: miracle on the mountain,2017,PG-13,98 min,"Adventure, Biography, Drama",5.7,,Scott Waugh,"Josh Hartnett, Mira Sorvino, Sarah Dumont, Kale Culley",Madison Turner,24%,57%
+624,the family,2013,R,111 min,"Comedy, Crime, Thriller",6.3,$36.92M,Luc Besson,"Robert De Niro, Michelle Pfeiffer, Dianna Agron, John D'Leo","Tonino Benacquista, Luc Besson",29%,41%
+625,horns,2013,R,120 min,"Drama, Fantasy, Horror",6.5,$0.16M,Alexandre Aja,"Daniel Radcliffe, Juno Temple, Max Minghella, Joe Anderson",Keith Bunin,40%,49%
+626,rupture,2016,,102 min,"Horror, Sci-Fi, Thriller",4.8,,Steven Shainberg,"Noomi Rapace, Michael Chiklis, Kerry Bish, Peter Stormare","Brian Nelson, Steven Shainberg",21%,17%
+627,unfriended,2014,R,83 min,"Drama, Horror, Mystery",5.6,$32.48M,Levan Gabriadze,"Heather Sossaman, Matthew Bohrer, Courtney Halverson, Shelley Hennig",Nelson Greaves,63%,37%
+628,young & beautiful,2013,Not Rated,95 min,"Drama, Romance",6.8,$0.05M,Franois Ozon,"Marine Vacth, Graldine Pailhas, Frdric Pierrot, Fantin Ravat",François Ozon,73%,61%
+629,the nut job 2: nutty by nature,2017,PG,91 min,"Animation, Action, Adventure",5.3,$28.37M,Cal Brunker,"Will Arnett, Maya Rudolph, Bobby Cannavale, Bobby Moynihan","Cal Brunker, Bob Barlen, Scott Bindley",13%,44%
+630,goon: last of the enforcers,2017,R,101 min,"Comedy, Sport",5.8,,Jay Baruchel,"Seann William Scott, Alison Pill, Marc-Andr Grondin, Liev Schreiber","Jay Baruchel, Jesse Chabot",42%,43%
+631,maurice,1987,R,140 min,"Drama, Romance",7.7,$3.13M,James Ivory,"James Wilby, Rupert Graves, Hugh Grant, Denholm Elliott","James Ivory, Ruth Prawer Jhabvala, Kit Hesketh-Harvey",93%,87%
+632,minions,2015,PG,91 min,"Animation, Action, Adventure",6.4,$336.05M,"Kyle Balda, Pierre Coffin","Sandra Bullock, Jon Hamm, Michael Keaton, Pierre Coffin",Brian Lynch,56%,49%
+633,dark places,2015,R,113 min,"Action, Drama, Mystery",6.2,,Gilles Paquet-Brenner,"Charlize Theron, Nicholas Hoult, Christina Hendricks, Chlo Grace Moretz","Gillian Flynn, Gilles Paquet-Brenner",25%,33%
+634,the hollars,2016,PG-13,88 min,"Comedy, Drama, Romance",6.5,$1.02M,John Krasinski,"Sharlto Copley, Charlie Day, Richard Jenkins, Anna Kendrick",James C. Strouse,44%,58%
+635,rebel in the rye,2017,PG-13,106 min,"Biography, Drama, Romance",6.6,$0.38M,Danny Strong,"Nicholas Hoult, Kevin Spacey, Victor Garber, Hope Davis",Danny Strong,28%,64%
+636,billy lynn's long halftime walk,2016,R,113 min,"Drama, War",6.3,$1.72M,Ang Lee,"Joe Alwyn, Garrett Hedlund, Arturo Castro, Mason Lee",Jean-Christophe Castelli,45%,42%
+637,lady macbeth,2016,R,89 min,"Drama, Romance",6.9,$1.13M,William Oldroyd,"Florence Pugh, Cosmo Jarvis, Paul Hilton, Naomi Ackie",Alice Birch,89%,71%
+638,31,2016,R,102 min,"Horror, Thriller",5.1,$0.78M,Rob Zombie,"Malcolm McDowell, Richard Brake, Jeff Daniel Phillips, Sheri Moon Zombie",Rob Zombie,50%,35%
+639,regression,2015,R,106 min,"Crime, Drama, Mystery",5.7,$0.05M,Alejandro Amenbar,"Ethan Hawke, David Thewlis, Emma Watson, Dale Dickey",Alejandro Amenábar,15%,21%
+640,transcendence,2014,PG-13,119 min,"Drama, Mystery, Romance",6.3,$23.02M,Wally Pfister,"Johnny Depp, Rebecca Hall, Morgan Freeman, Cillian Murphy",Jack Paglen,20%,37%
+641,our souls at night,2017,TV-14,103 min,"Drama, Romance",6.9,,Ritesh Batra,"Matthias Schoenaerts, Jane Fonda, Judy Greer, Robert Redford","Scott Neustadter, Michael H. Weber",92%,76%
+642,i origins,2014,R,106 min,"Drama, Romance, Sci-Fi",7.4,$0.33M,Mike Cahill,"Michael Pitt, Steven Yeun, Astrid Bergs-Frisbey, Brit Marling",Mike Cahill,52%,69%
+643,whiskey tango foxtrot,2016,R,112 min,"Biography, Comedy, Drama",6.6,$23.05M,"Glenn Ficarra, John Requa","Tina Fey, Margot Robbie, Martin Freeman, Alfred Molina",Robert Carlock,67%,55%
+644,rules don't apply,2016,PG-13,127 min,"Comedy, Drama, Romance",5.7,$3.65M,Warren Beatty,"Lily Collins, Haley Bennett, Taissa Farmiga, Steve Tom","Warren Beatty, Bo Goldman",57%,33%
+645,little evil,2017,TV-MA,94 min,"Comedy, Horror",5.7,,Eli Craig,"Evangeline Lilly, Owen Atlas, Adam Scott, Marcus Terrell Smith",Eli Craig,89%,42%
+646,blood money,2017,R,100 min,Thriller,4.5,,Lucky McKee,"Ellar Coltrane, Willa Fitzgerald, Jacob Artist, John Cusack","Jared Butler, Lars Norberg",50%,16%
+647,tangerine,2015,R,88 min,"Comedy, Crime, Drama",7.1,$0.70M,Sean Baker,"Kitana Kiki Rodriguez, Mya Taylor, Karren Karagulian, Mickey O'Hagan","Chris Bergoch, Sean Baker",97%,75%
+648,prodigy,2017,TV-MA,80 min,"Drama, Sci-Fi, Thriller",6.7,,"Alex Haughey, Brian Vidal","Richard Neil, Savannah Liles, Jolene Andersen, Emilio Palame","Alex Haughey, Brian Vidal",89%,71%
+649,muppets most wanted,2014,PG,107 min,"Adventure, Comedy, Crime",6.4,$51.18M,James Bobin,"Ricky Gervais, Ty Burrell, Tina Fey, Steve Whitmire","James Bobin, Nicholas Stoller",80%,58%
+650,mr. holmes,2015,PG,104 min,"Drama, Mystery",6.9,$17.74M,Bill Condon,"Ian McKellen, Laura Linney, Hiroyuki Sanada, Hattie Morahan","Arthur Conan Doyle, Jeffrey Hatcher",88%,70%
+651,aloha,2015,PG-13,105 min,"Comedy, Drama, Romance",5.4,$20.99M,Cameron Crowe,"Bradley Cooper, Rachel McAdams, Emma Stone, Alec Baldwin",Cameron Crowe,19%,28%
+652,my big fat greek wedding 2,2016,PG-13,94 min,"Comedy, Romance",6.0,$59.57M,Kirk Jones,"Nia Vardalos, John Corbett, Michael Constantine, Lainie Kazan",Nia Vardalos,28%,53%
+653,the purge: anarchy,2014,R,103 min,"Action, Horror, Sci-Fi",6.5,$71.96M,James DeMonaco,"Frank Grillo, Carmen Ejogo, Zach Gilford, Kiele Sanchez",James DeMonaco,56%,56%
+654,"two days, one night",2014,PG-13,95 min,Drama,7.4,$1.44M,"Jean-Pierre Dardenne, Luc Dardenne","Marion Cotillard, Fabrizio Rongione, Catherine Sale, Baptiste Sornin","Luc Dardenne, Jean-Pierre Dardenne",97%,76%
+655,wilson,2017,R,94 min,"Comedy, Drama",5.8,$0.65M,Craig Johnson,"Woody Harrelson, Sandy Oian-Thomas, Shaun Brown, James Robert Miller",Daniel Clowes,48%,29%
+656,20th century women,2016,R,119 min,"Comedy, Drama",7.4,$5.66M,Mike Mills,"Annette Bening, Elle Fanning, Greta Gerwig, Billy Crudup",Mike Mills,88%,73%
+657,demolition,2015,R,101 min,"Comedy, Drama",7.0,$1.98M,Jean-Marc Valle,"Jake Gyllenhaal, Naomi Watts, Chris Cooper, Judah Lewis",Bryan Sipe,52%,53%
+658,short term 12,2013,R,96 min,Drama,8.0,$1.01M,Destin Daniel Cretton,"Brie Larson, Frantz Turner, John Gallagher Jr., Kaitlyn Dever",Destin Daniel Cretton,99%,93%
+659,the great beauty,2013,Not Rated,141 min,Drama,7.8,$2.85M,Paolo Sorrentino,"Toni Servillo, Carlo Verdone, Sabrina Ferilli, Carlo Buccirosso","Paolo Sorrentino, Umberto Contarello",91%,80%
+660,out of the furnace,2013,R,116 min,"Crime, Drama, Thriller",6.8,$11.33M,Scott Cooper,"Christian Bale, Casey Affleck, Zoe Saldana, Woody Harrelson",Scott Cooper,54%,52%
+661,monster trucks,2016,PG,104 min,"Action, Adventure, Comedy",5.7,$33.37M,Chris Wedge,"Lucas Till, Jane Levy, Thomas Lennon, Barry Pepper",Derek Connolly,31%,51%
+662,war on everyone,2016,R,98 min,"Action, Comedy",5.8,,John Michael McDonagh,"Alexander Skarsgrd, Michael Pea, Theo James, Tessa Thompson",John Michael McDonagh,58%,36%
+663,bomb city,2017,TV-MA,95 min,"Action, Crime, Drama",7.1,$0.05M,Jameson Brooks,"Dave Davis, Glenn Morshower, Logan Huffman, Lorelei Linklater","Jameson Brooks, Sheldon Chick",86%,91%
+664,the exception,2016,R,107 min,"Drama, Romance, War",6.8,$0.61M,David Leveaux,"Lily James, Jai Courtney, Christopher Plummer, Los van Wijk",Simon Burke,75%,65%
+665,loving,2016,PG-13,123 min,"Biography, Drama, Romance",7.0,$7.70M,Jeff Nichols,"Ruth Negga, Joel Edgerton, Will Dalton, Dean Mumford",Jeff Nichols,90%,76%
+666,the man who knew infinity,2015,PG-13,108 min,"Biography, Drama",7.2,$3.87M,Matt Brown,"Dev Patel, Jeremy Irons, Malcolm Sinclair, Raghuvir Joshi",Matt Brown,63%,71%
+667,the whole truth,2016,R,93 min,"Crime, Drama, Mystery",6.2,,Courtney Hunt,"Keanu Reeves, Rene Zellweger, Gugu Mbatha-Raw, Gabriel Basso",Rafael Jackson,29%,32%
+668,a little chaos,2014,R,112 min,"Drama, Romance",6.5,$0.55M,Alan Rickman,"Kate Winslet, Alan Rickman, Stanley Tucci, Matthias Schoenaerts","Alison Deegan, Jeremy Brock, Alan Rickman",45%,48%
+669,"as above, so below",2014,R,93 min,"Horror, Mystery, Thriller",6.2,$21.20M,John Erick Dowdle,"Perdita Weeks, Ben Feldman, Edwin Hodge, Franois Civil","Drew Dowdle, John Erick Dowdle",26%,39%
+670,the final girls,2015,PG-13,88 min,"Comedy, Horror",6.6,,Todd Strauss-Schulson,"Taissa Farmiga, Malin Akerman, Adam Devine, Thomas Middleditch","Joshua John Miller, M.A. Fortin",70%,70%
+671,vice,2015,R,96 min,"Action, Adventure, Sci-Fi",4.2,,Brian A. Miller,"Thomas Jane, Bruce Willis, Ambyr Childers, Johnathon Schaech","Jeremy Passmore, Fabrizio De Andre",4%,15%
+672,the fundamentals of caring,2016,TV-MA,97 min,"Comedy, Drama",7.3,,Rob Burnett,"Craig Roberts, Paul Rudd, Selena Gomez, Alex Huff",Rob Burnett,77%,83%
+673,dumb and dumber to,2014,PG-13,109 min,"Adventure, Comedy",5.6,$86.21M,"Bobby Farrelly, Peter Farrelly","Jim Carrey, Jeff Daniels, Rob Riggle, Laurie Holden","Sean Anders, Bobby Farrelly",29%,35%
+674,the gunman,2015,R,115 min,"Action, Crime, Drama",5.8,$10.64M,Pierre Morel,"Sean Penn, Idris Elba, Jasmine Trinca, Javier Bardem","Don MacPherson, Pete Travis",17%,31%
+675,florence foster jenkins,2016,PG-13,111 min,"Biography, Comedy, Drama",6.9,$27.37M,Stephen Frears,"Meryl Streep, Hugh Grant, Simon Helberg, Rebecca Ferguson",Nicholas Martin,87%,68%
+676,cell,2016,R,98 min,"Action, Drama, Horror",4.3,,Tod Williams,"John Cusack, Samuel L. Jackson, Isabelle Fuhrman, Clark Sarullo","Stephen King, Adam Alleca",10%,17%
+677,woman in gold,2015,PG-13,109 min,"Biography, Drama, History",7.3,$33.31M,Simon Curtis,"Helen Mirren, Ryan Reynolds, Daniel Brhl, Katie Holmes",Alexi Kaye Campbell,55%,79%
+678,the raid 2,2014,R,150 min,"Action, Thriller",8.0,$2.63M,Gareth Evans,"Iko Uwais, Yayan Ruhian, Arifin Putra, Oka Antara",Gareth Evans,80%,87%
+679,cake,2014,R,102 min,Drama,6.4,$1.87M,Daniel Barnz,"Jennifer Aniston, Adriana Barraza, Anna Kendrick, Sam Worthington",Patrick Tobin,49%,44%
+680,the siege of jadotville,2016,,108 min,"Action, Drama, Thriller",7.3,,Richie Smyth,"Richard Lukunku, Danny Sapani, Andrew Stock, Mark Strong",Kevin Brodbin,60%,71%
+681,the birth of a nation,2016,R,120 min,"Biography, Drama, History",6.4,$15.86M,Nate Parker,"Nate Parker, Armie Hammer, Penelope Ann Miller, Jackie Earle Haley","Nate Parker, Jean McGianni Celestin",72%,72%
+682,the hero,2017,R,93 min,"Comedy, Drama, Romance",6.5,$4.08M,Brett Haley,"Sam Elliott, Laura Prepon, Krysten Ritter, Nick Offerman","Brett Haley, Marc Basch",78%,59%
+683,siren,2016,Not Rated,82 min,"Fantasy, Horror",5.4,,Gregg Bishop,"Chase Williamson, Hannah Fierman, Justin Welborn, Hayes Mercure","Luke Piotrowski, Ben Collins",71%,38%
+684,pompeii,2014,PG-13,105 min,"Action, Adventure, Drama",5.5,$23.22M,Paul W.S. Anderson,"Kit Harington, Emily Browning, Kiefer Sutherland, Adewale Akinnuoye-Agbaje","Janet Scott Batchelor, Michael Robert Johnson, Lee Batchelor, Janet Scott Batchler, Lee Batchler",28%,34%
+685,tammy,2014,R,97 min,"Comedy, Romance",4.9,$84.53M,Ben Falcone,"Melissa McCarthy, Susan Sarandon, Kathy Bates, Allison Janney","Ben Falcone, Melissa McCarthy",24%,36%
+686,let's be cops,2014,R,104 min,"Comedy, Crime",6.5,$82.39M,Luke Greenfield,"Jake Johnson, Damon Wayans Jr., Rob Riggle, Nina Dobrev","Luke Greenfield, Nicholas Thomas",18%,51%
+687,suffragette,2015,PG-13,106 min,"Biography, Drama, History",6.9,$4.69M,Sarah Gavron,"Carey Mulligan, Anne-Marie Duff, Helena Bonham Carter, Meryl Streep",Abi Morgan,72%,68%
+688,white bird in a blizzard,2014,R,91 min,"Drama, Mystery, Thriller",6.4,$0.03M,Gregg Araki,"Shailene Woodley, Eva Green, Christopher Meloni, Angela Bassett",Gregg Araki,55%,43%
+689,the crucifixion,2017,R,90 min,"Horror, Mystery, Thriller",5.0,,Xavier Gens,"Sophie Cookson, Corneliu Ulici, Ada Lupu, Brittany Ashworth",Chad Hayes,0%,22%
+690,shin godzilla,2016,Not Rated,120 min,"Action, Adventure, Drama",6.7,$1.91M,"Hideaki Anno, Shinji Higuchi","Hiroki Hasegawa, Yutaka Takenouchi, Satomi Ishihara, Ren Osugi",Hideaki Anno,83%,73%
+691,the duel,2016,R,110 min,"Drama, Western",5.8,,Kieran Darcy-Smith,"Woody Harrelson, Liam Hemsworth, Alice Braga, Emory Cohen",Matt Cook,26%,29%
+692,the spongebob movie: sponge out of water,2015,PG,92 min,"Animation, Adventure, Comedy",6.0,$162.99M,"Paul Tibbitt, Mike Mitchell","Tom Kenny, Antonio Banderas, Bill Fagerbakke, Clancy Brown","Glenn Berger, Paul Tibbitt, Jonathan Aibel, Stephen Hillenburg",80%,54%
+693,most beautiful island,2017,,80 min,"Drama, Horror, Thriller",5.6,,Ana Asensio,"Ana Asensio, Natasha Romanova, David Little, Nicholas Tucci",Ana Asensio,94%,40%
+694,the other side of the door,2016,R,96 min,Horror,5.3,$2.99M,Johannes Roberts,"Sarah Wayne Callies, Jeremy Sisto, Sofia Rosinsky, Logan Creran","Johannes Roberts, Ernest Riera",37%,29%
+695,playing it cool,2014,R,94 min,"Comedy, Romance",6.0,,Justin Reardon,"Chris Evans, Michelle Monaghan, Topher Grace, Aubrey Plaza","Chris Shafer, Paul Vicknair",15%,32%
+696,far from the madding crowd,2015,PG-13,119 min,"Drama, Romance",7.1,$12.23M,Thomas Vinterberg,"Carey Mulligan, Matthias Schoenaerts, Michael Sheen, Tom Sturridge",David Nicholls,85%,75%
+697,two night stand,2014,R,86 min,"Comedy, Romance",6.4,$0.02M,Max Nichols,"Miles Teller, Analeigh Tipton, Jessica Szohr, Kid Cudi",Mark Hammer,40%,45%
+698,deliver us from evil,2014,R,118 min,"Action, Biography, Crime",6.2,$30.58M,Scott Derrickson,"Eric Bana, Edgar Ramrez, Olivia Munn, Chris Coy","Paul Harris Boardman, Scott Derrickson",29%,42%
+699,love beats rhymes,2017,R,106 min,"Drama, Musical",5.0,,RZA,"Common, Hana Mae Lee, Arjun Gupta, Lucien Laviscount",Nicole Jefferson Asher,50%,77%
+700,denial,2016,PG-13,109 min,"Biography, Drama",6.6,$4.07M,Mick Jackson,"Rachel Weisz, Tom Wilkinson, Timothy Spall, Andrew Scott",David Hare,83%,71%
+701,the osiris child,2016,Not Rated,95 min,"Action, Adventure, Drama",5.6,,Shane Abbess,"Kellan Lutz, Daniel MacPherson, Isabel Lucas, Luke Ford","Shane Abbess, Brian Cachia",61%,44%
+702,serena,2014,R,109 min,"Drama, Romance",5.4,$0.18M,Susanne Bier,"Bradley Cooper, Jennifer Lawrence, Rhys Ifans, Toby Jones",Christopher Kyle,16%,24%
+703,lbj,2016,R,98 min,"Biography, Drama",6.3,$2.47M,Rob Reiner,"Woody Harrelson, Michael Stahl-David, Richard Jenkins, Jennifer Jason Leigh",Joey Hartstone,54%,57%
+704,our kind of traitor,2016,R,108 min,"Crime, Drama, Thriller",6.2,$3.15M,Susanna White,"Carlos Acosta, Radivoje Bukvic, Stellan Skarsgrd, Mariya Fomina","John Le Carré, Hossein Amini",72%,50%
+705,ride along 2,2016,PG-13,102 min,"Action, Comedy",5.9,$90.84M,Tim Story,"Ice Cube, Kevin Hart, Tika Sumpter, Benjamin Bratt","Greg Coolidge, Phil Hay, Matt Manfredi",13%,48%
+706,the guest,2014,R,100 min,"Mystery, Thriller",6.7,$0.32M,Adam Wingard,"Dan Stevens, Sheila Kelley, Maika Monroe, Joel David Moore",Simon Barrett,89%,69%
+707,laggies,2014,R,99 min,"Comedy, Drama, Romance",6.4,$0.44M,Lynn Shelton,"Keira Knightley, Chlo Grace Moretz, Sam Rockwell, Mark Webber",Andrea Seigel,66%,50%
+708,bleed for this,2016,R,117 min,"Biography, Drama, Sport",6.8,$4.85M,Ben Younger,"Miles Teller, Aaron Eckhart, Katey Sagal, Ciarn Hinds",Ben Younger,70%,69%
+709,the polka king,2017,TV-14,95 min,"Biography, Comedy, Drama",5.9,,Maya Forbes,"Jack Black, Jenny Slate, Jason Schwartzman, Jacki Weaver","Maya Forbes, Wallace Wolodarsky",59%,52%
+710,wolf warrior 2,2017,Not Rated,123 min,"Action, Drama, Thriller",6.3,$2.72M,Jing Wu,"Jing Wu, Frank Grillo, Celina Jade, Gang Wu","Jing Wu, Yi Liu, Qun Dong",70%,79%
+711,get a job,2016,R,83 min,Comedy,5.3,,Dylan Kidd,"Miles Teller, Anna Kendrick, Bryan Cranston, Nicholas Braun","Kyle Pennekamp, Scott Turpel",5%,21%
+712,radius,2017,,93 min,"Sci-Fi, Thriller",6.2,,"Caroline Labrche, Steeve Lonard","Diego Klattenhoff, Charlotte Sullivan, Robert Borges, Andrea del Campo","Caroline Labrèche, Steeve Léonard",91%,58%
+713,the disaster artist,2017,R,104 min,"Biography, Comedy, Drama",7.6,$21.12M,James Franco,"James Franco, Dave Franco, Ari Graynor, Seth Rogen","Adam Rager, Matt Rager",0%,15%
+714,the theory of everything,2014,PG-13,123 min,"Biography, Drama, Romance",7.7,$35.89M,James Marsh,"Eddie Redmayne, Felicity Jones, Tom Prior, Sophie Perry","Nicole Perlman, James Gunn",91%,92%
+715,the maze runner,2014,PG-13,113 min,"Action, Mystery, Sci-Fi",6.8,$102.43M,Wes Ball,"Dylan O'Brien, Kaya Scodelario, Will Poulter, Thomas Brodie-Sangster","Noah Oppenheim, Grant Pierce Myers, T.S. Nowlin",65%,68%
+716,maze runner: the scorch trials,2015,PG-13,131 min,"Action, Sci-Fi, Thriller",6.3,$81.67M,Wes Ball,"Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster, Giancarlo Esposito",T.S. Nowlin,46%,54%
+717,the hobbit: the battle of the five armies,2014,PG-13,144 min,"Adventure, Fantasy",7.4,$255.12M,Peter Jackson,"Ian McKellen, Martin Freeman, Richard Armitage, Cate Blanchett","Philippa Boyens, Guillermo del Toro, Fran Walsh",59%,75%
+718,the hunger games: catching fire,2013,PG-13,146 min,"Action, Adventure, Mystery",7.5,$424.67M,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Philip Seymour Hoffman","Danny Strong, Peter Craig",66%,71%
+719,fifty shades darker,2017,R,118 min,"Drama, Romance",4.6,$114.38M,James Foley,"Dakota Johnson, Jamie Dornan, Eric Johnson, Eloise Mumford",Niall Leonard,10%,48%
+720,the hobbit: the desolation of smaug,2013,PG-13,161 min,"Adventure, Fantasy",7.9,$258.37M,Peter Jackson,"Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott","J.R.R. Tolkien, Fran Walsh, Guillermo del Toro, Peter Jackson, Philippa Boyens",74%,85%
+721,the hunger games: mockingjay - part 2,2015,PG-13,137 min,"Action, Adventure, Sci-Fi",6.5,$281.72M,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson","Danny Strong, Suzanne Collins, Peter Craig",70%,66%
+722,the bfg,2016,PG,117 min,"Adventure, Family, Fantasy",6.4,$55.48M,Steven Spielberg,"Mark Rylance, Ruby Barnhill, Penelope Wilton, Jemaine Clement",Melissa Mathison,75%,57%
+723,the hunger games: mockingjay - part 1,2014,PG-13,123 min,"Action, Adventure, Sci-Fi",6.7,$337.14M,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson","Simon Beaufoy, Michael DeBruyn, Suzanne Collins",89%,89%
+724,the institute,2017,R,90 min,Thriller,4.1,,"James Franco, Pamela Romanowsky","James Franco, Allie Gallerani, Tim Blake Nelson, Lori Singer",Pamela Romanowsky,21%,30%
